@@ -162,7 +162,7 @@
         "1498501481980-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1175.jpg",
+            "image": "shopify:\/\/shop_images\/bone_release_sector.jpg",
             "slide_title1": "",
             "slide_title2": ""
           }
@@ -171,8 +171,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_1543.jpg",
-            "slide_title1": "And highlight",
-            "slide_title2": "important details"
+            "slide_title1": "",
+            "slide_title2": ""
           }
         }
       },
