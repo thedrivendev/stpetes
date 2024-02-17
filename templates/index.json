@@ -121,6 +121,14 @@
             "focal_point": "center center",
             "size": "square-small"
           }
+        },
+        "collection_peqJCc": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
         }
       },
       "block_order": [
@@ -131,7 +139,8 @@
         "1499789718857-4",
         "1499789718857-5",
         "collection_N76WCb",
-        "collection_jqwcwU"
+        "collection_jqwcwU",
+        "collection_peqJCc"
       ],
       "settings": {
         "title": "",
