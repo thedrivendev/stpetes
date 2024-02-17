@@ -33,14 +33,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "Fly Fishing Travel"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>At St. Peter’s Fly Shop we always like taking fly fishing to the next level and what better than an exotic fly fishing destination.<\/p>"
           }
         }
       },
