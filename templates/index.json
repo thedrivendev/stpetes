@@ -60,15 +60,15 @@
         "1499789718857-0": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "wide"
+            "collection": "classes-guide-trips",
+            "focal_point": "20% 0",
+            "size": "square-small"
           }
         },
         "1499789718857-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "boat-bags-roll-tops",
             "focal_point": "center center",
             "size": "square-small"
           }
@@ -76,7 +76,7 @@
         "1499789718857-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "waders",
             "focal_point": "center center",
             "size": "square-small"
           }
@@ -84,7 +84,7 @@
         "1499789718857-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "fly-rods",
             "focal_point": "center center",
             "size": "square-small"
           }
@@ -92,7 +92,7 @@
         "1499789718857-4": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "casting",
             "focal_point": "center center",
             "size": "square-small"
           }
@@ -100,9 +100,25 @@
         "1499789718857-5": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "wading-boots",
             "focal_point": "center center",
-            "size": "wide"
+            "size": "square-small"
+          }
+        },
+        "collection_N76WCb": {
+          "type": "collection",
+          "settings": {
+            "collection": "apparel",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "collection_jqwcwU": {
+          "type": "collection",
+          "settings": {
+            "collection": "fly-fishing-school",
+            "focal_point": "center center",
+            "size": "square-small"
           }
         }
       },
@@ -112,7 +128,9 @@
         "1499789718857-2",
         "1499789718857-3",
         "1499789718857-4",
-        "1499789718857-5"
+        "1499789718857-5",
+        "collection_N76WCb",
+        "collection_jqwcwU"
       ],
       "settings": {
         "title": "",
