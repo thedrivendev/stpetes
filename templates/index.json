@@ -3,13 +3,13 @@
     "hero-video": {
       "type": "hero-video",
       "settings": {
-        "title": "Bring your\nbrand to life.",
+        "title": "",
         "title_size": 80,
         "subheading": "",
         "link_text": "Watch",
-        "link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
@@ -18,55 +18,91 @@
     "featured-collection-switcher": {
       "type": "featured-collection-switcher",
       "settings": {
-        "title": "Most popular",
+        "title": "",
         "collection1": "",
         "collection2": "",
         "per_row": 4,
-        "view_all": true,
+        "view_all": false,
         "divider": false
       }
     },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
-        "heading": { "type": "heading", "settings": { "title": "Rich text" } },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
-      "block_order": ["heading", "text"],
-      "settings": { "align_text": "center", "narrow_column": true, "divider": false }
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
         "1499789718857-0": {
           "type": "collection",
-          "settings": { "collection": "", "focal_point": "center center", "size": "wide" }
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "wide"
+          }
         },
         "1499789718857-1": {
           "type": "collection",
-          "settings": { "collection": "", "focal_point": "center center", "size": "square-small" }
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
         },
         "1499789718857-2": {
           "type": "collection",
-          "settings": { "collection": "", "focal_point": "center center", "size": "square-small" }
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
         },
         "1499789718857-3": {
           "type": "collection",
-          "settings": { "collection": "", "focal_point": "center center", "size": "square-small" }
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
         },
         "1499789718857-4": {
           "type": "collection",
-          "settings": { "collection": "", "focal_point": "center center", "size": "square-small" }
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
         },
         "1499789718857-5": {
           "type": "collection",
-          "settings": { "collection": "", "focal_point": "center center", "size": "wide" }
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "wide"
+          }
         }
       },
       "block_order": [
@@ -77,25 +113,42 @@
         "1499789718857-4",
         "1499789718857-5"
       ],
-      "settings": { "title": "", "divider": false, "enable_gutter": false }
+      "settings": {
+        "title": "",
+        "divider": false,
+        "enable_gutter": false
+      }
     },
     "fading-images": {
       "type": "fading-images",
       "blocks": {
         "1498501481980-0": {
           "type": "image",
-          "settings": { "slide_title1": "Beautifully animated", "slide_title2": "titles and images" }
+          "settings": {
+            "slide_title1": "Beautifully animated",
+            "slide_title2": "titles and images"
+          }
         },
         "1498501481980-1": {
           "type": "image",
-          "settings": { "slide_title1": "Use this section", "slide_title2": "to impress" }
+          "settings": {
+            "slide_title1": "Use this section",
+            "slide_title2": "to impress"
+          }
         },
         "1498501481980-2": {
           "type": "image",
-          "settings": { "slide_title1": "And highlight", "slide_title2": "important details" }
+          "settings": {
+            "slide_title1": "And highlight",
+            "slide_title2": "important details"
+          }
         }
       },
-      "block_order": ["1498501481980-0", "1498501481980-1", "1498501481980-2"],
+      "block_order": [
+        "1498501481980-0",
+        "1498501481980-1",
+        "1498501481980-2"
+      ],
       "settings": {
         "title_lines": "2",
         "title_font": "body",
@@ -132,7 +185,7 @@
       "settings": {
         "subtitle": "Impressive",
         "title": "Large image and text",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
         "button_label": "",
         "button_link": "",
         "layout": "left",
@@ -145,15 +198,25 @@
     "6fc3ef79-3f88-4c10-bacb-28915c1a4eca": {
       "type": "featured-product",
       "blocks": {
-        "template--21637006197043__6fc3ef79-3f88-4c10-bacb-28915c1a4eca-separator-1": { "type": "separator", "settings": {} },
+        "template--21637006197043__6fc3ef79-3f88-4c10-bacb-28915c1a4eca-separator-1": {
+          "type": "separator",
+          "settings": {
+          }
+        },
         "template--21637006197043__6fc3ef79-3f88-4c10-bacb-28915c1a4eca-description-1": {
           "type": "description",
           "disabled": true,
-          "settings": { "is_tab": false }
+          "settings": {
+            "is_tab": false
+          }
         },
         "template--21637006197043__6fc3ef79-3f88-4c10-bacb-28915c1a4eca-buy_buttons-1": {
           "type": "buy_buttons",
-          "settings": { "show_dynamic_checkout": true, "surface_pickup_enable": true, "show_gift_card_recipient": false }
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
         },
         "template--21637006197043__6fc3ef79-3f88-4c10-bacb-28915c1a4eca-variant_picker-1": {
           "type": "variant_picker",
@@ -164,7 +227,11 @@
             "color_swatches": false
           }
         },
-        "template--21637006197043__6fc3ef79-3f88-4c10-bacb-28915c1a4eca-price-1": { "type": "price", "settings": {} }
+        "template--21637006197043__6fc3ef79-3f88-4c10-bacb-28915c1a4eca-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        }
       },
       "block_order": [
         "template--21637006197043__6fc3ef79-3f88-4c10-bacb-28915c1a4eca-separator-1",
