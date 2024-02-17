@@ -59,6 +59,7 @@
       "blocks": {
         "1499789718857-0": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "classes-guide-trips",
             "focal_point": "20% 0",
@@ -152,8 +153,9 @@
         "1498501481980-1": {
           "type": "image",
           "settings": {
-            "slide_title1": "Use this section",
-            "slide_title2": "to impress"
+            "image": "shopify:\/\/shop_images\/IMG_1175.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
           }
         },
         "1498501481980-2": {
