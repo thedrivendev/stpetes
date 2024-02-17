@@ -17,6 +17,7 @@
     },
     "featured-collection-switcher": {
       "type": "featured-collection-switcher",
+      "disabled": true,
       "settings": {
         "title": "",
         "collection1": "",
