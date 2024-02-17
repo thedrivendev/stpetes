@@ -144,8 +144,9 @@
         "1498501481980-0": {
           "type": "image",
           "settings": {
-            "slide_title1": "Beautifully animated",
-            "slide_title2": "titles and images"
+            "image": "shopify:\/\/shop_images\/AA_Permit.jpg",
+            "slide_title1": "Where's your next adventure?",
+            "slide_title2": ""
           }
         },
         "1498501481980-1": {
