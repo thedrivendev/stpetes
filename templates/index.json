@@ -27,33 +27,6 @@
         "divider": false
       }
     },
-    "rich-text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Fly Fishing Travel"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>At St. Peter’s Fly Shop we always like taking fly fishing to the next level and what better than an exotic fly fishing destination.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
@@ -146,6 +119,33 @@
         "title": "",
         "divider": false,
         "enable_gutter": false
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Fly Fishing Travel"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>At St. Peter’s Fly Shop we always like taking fly fishing to the next level and what better than an exotic fly fishing destination.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
       }
     },
     "fading-images": {
@@ -288,8 +288,8 @@
   "order": [
     "hero-video",
     "featured-collection-switcher",
-    "rich-text",
     "featured-collections",
+    "rich-text",
     "fading-images",
     "collection-callout",
     "background-image-text",
