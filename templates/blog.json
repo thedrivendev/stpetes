@@ -87,16 +87,81 @@
         "collection3",
         "collection4"
       ],
+      "disabled": true,
       "settings": {
         "title": "You may also like",
         "divider": false,
         "enable_gutter": false
+      }
+    },
+    "advanced_content_9EQmE9": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_QfDj6k": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Thompson-1024x683_1.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_gtYhEm": {
+          "type": "liquid",
+          "settings": {
+            "code": "Big Thompson Fishing Report",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_QfDj6k",
+        "liquid_gtYhEm"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_Gz7Fxz": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_4k7eQX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rocky_mountain_natl_park_greenie.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_t9nRwQ": {
+          "type": "liquid",
+          "settings": {
+            "code": "Rocky Mountain National Park",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_4k7eQX",
+        "liquid_t9nRwQ"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
       }
     }
   },
   "order": [
     "main",
     "advanced_content_wwkYCV",
-    "featured-collections"
+    "featured-collections",
+    "advanced_content_9EQmE9",
+    "advanced_content_Gz7Fxz"
   ]
 }
