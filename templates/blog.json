@@ -217,6 +217,37 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_CMN7zn": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_3aKyXb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Upper-NP-Ed.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_h6kfzr": {
+          "type": "liquid",
+          "settings": {
+            "code": "Encampment River, Wyoming",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_3aKyXb",
+        "liquid_h6kfzr"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -226,6 +257,7 @@
     "advanced_content_9EQmE9",
     "advanced_content_Gz7Fxz",
     "advanced_content_n38VWB",
-    "advanced_content_HpKLNy"
+    "advanced_content_HpKLNy",
+    "advanced_content_CMN7zn"
   ]
 }
