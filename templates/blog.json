@@ -155,6 +155,37 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_n38VWB": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_Nz3VaK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Outcast-Raft-Upper-Photo.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_jXmiYf": {
+          "type": "liquid",
+          "settings": {
+            "code": "Upper North Platte",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Nz3VaK",
+        "liquid_jXmiYf"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -162,6 +193,7 @@
     "advanced_content_wwkYCV",
     "featured-collections",
     "advanced_content_9EQmE9",
-    "advanced_content_Gz7Fxz"
+    "advanced_content_Gz7Fxz",
+    "advanced_content_n38VWB"
   ]
 }
