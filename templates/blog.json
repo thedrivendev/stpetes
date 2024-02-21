@@ -186,6 +186,37 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_HpKLNy": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_bAWNCJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rb.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_eFGiy4": {
+          "type": "liquid",
+          "settings": {
+            "code": "Grey Reef & Miracle Mile, Wyoming",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_bAWNCJ",
+        "liquid_eFGiy4"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -194,6 +225,7 @@
     "featured-collections",
     "advanced_content_9EQmE9",
     "advanced_content_Gz7Fxz",
-    "advanced_content_n38VWB"
+    "advanced_content_n38VWB",
+    "advanced_content_HpKLNy"
   ]
 }
