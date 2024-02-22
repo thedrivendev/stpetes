@@ -39,31 +39,10 @@
         "sticky_index": true,
         "sticky_collection": false
       }
-    },
-    "rich_text_fAYbhf": {
-      "type": "rich-text",
-      "blocks": {
-        "text_mz8UrY": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_mz8UrY"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "rich_text_fAYbhf"
+    "header"
   ]
 }

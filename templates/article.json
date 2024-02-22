@@ -24,10 +24,56 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "slideshow_ztMMap": {
+      "type": "slideshow",
+      "blocks": {
+        "image_6kAKeN": {
+          "type": "image",
+          "settings": {
+            "title": "Signature Fly Fishing School",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Book Now",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/FFS_image.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_q6exKY": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide titles.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_6kAKeN",
+        "image_q6exKY"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
-    "blog-posts"
+    "blog-posts",
+    "slideshow_ztMMap"
   ]
 }
