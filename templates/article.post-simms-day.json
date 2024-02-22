@@ -24,6 +24,7 @@
             "link": "",
             "link_text": "Optional button",
             "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Picture4.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
