@@ -1,0 +1,90 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "settings": {
+        "blog_show_image": true,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": true,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "",
+        "blog": "fishing-reports",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_product_jzUbtr": {
+      "type": "featured-product",
+      "blocks": {
+        "price_qzC9PY": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "separator_DBjchP": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker_QaKGfK": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_UdhRpY": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description_JwXxeA": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "price_qzC9PY",
+        "separator_DBjchP",
+        "variant_picker_QaKGfK",
+        "buy_buttons_UdhRpY",
+        "description_JwXxeA"
+      ],
+      "settings": {
+        "featured_product": "3d-beads",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "blog-posts",
+    "featured_product_jzUbtr"
+  ]
+}
