@@ -26,6 +26,63 @@
         "divider": false
       }
     },
+    "slideshow_BK3jKY": {
+      "type": "slideshow",
+      "blocks": {
+        "image_RXyqnK": {
+          "type": "image",
+          "settings": {
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_RXyqnK"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_cMTRHk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ibW88K": {
+          "type": "heading",
+          "settings": {
+            "title": "Save the Date:  St. Peter's Annual Simms Day and G4Z Launch Party w\/ Winston Rod Specials"
+          }
+        },
+        "text_YzqnyF": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ibW88K",
+        "text_YzqnyF"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "advanced_content_LBBcTC": {
       "type": "advanced-content",
       "blocks": {
@@ -51,6 +108,8 @@
   "order": [
     "main",
     "blog-posts",
+    "slideshow_BK3jKY",
+    "rich_text_cMTRHk",
     "advanced_content_LBBcTC"
   ]
 }
