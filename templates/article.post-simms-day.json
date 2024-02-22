@@ -12,20 +12,6 @@
         "social_sharing_blog": true
       }
     },
-    "blog-posts": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "",
-        "blog": "fishing-reports",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": true,
-        "blog_show_comments": false,
-        "blog_show_author": false,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "slideshow_BK3jKY": {
       "type": "slideshow",
       "blocks": {
@@ -107,7 +93,6 @@
   },
   "order": [
     "main",
-    "blog-posts",
     "slideshow_BK3jKY",
     "rich_text_cMTRHk",
     "advanced_content_LBBcTC"
