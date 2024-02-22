@@ -41,24 +41,10 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
-        },
-        "image_q6exKY": {
-          "type": "image",
-          "settings": {
-            "title": "Two line\nslide titles.",
-            "title_size": 80,
-            "subheading": "And big, beautiful imagery",
-            "link": "",
-            "link_text": "Optional button",
-            "text_align": "vertical-bottom horizontal-left",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
-        "image_6kAKeN",
-        "image_q6exKY"
+        "image_6kAKeN"
       ],
       "settings": {
         "section_height": "650px",
