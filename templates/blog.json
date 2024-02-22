@@ -10,41 +10,9 @@
         "blog_show_comments": true,
         "blog_show_author": false
       }
-    },
-    "advanced_content_p9f8jk": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_ARKmn9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/rb.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_k4FBqH": {
-          "type": "liquid",
-          "settings": {
-            "code": "Latest Update: 2\/1472024\nCurrent Streamflow :  501 cfs @ Grey Reef, 528 cfs @ Miracle Mile\n\n\n\nThe flows on both the Miracle Mile and Grey Reef have remained steady over the last few weeks. Both sections of river will remain around 500-600 cfs through the colder months. Midges and baetis can be seen hatching on the North Platte throughout the winter months. In addition to these small bugs there are plenty of scuds, leeches, worms, and eggs in the river year round, so definitely give them a try as well. Having a larger, heavier lead fly with a smaller midge trailing is a great way to fish the Platte in the winter. Make sure to have some additional weight on your nymph rigs to get your flies down to the fish in some of the deeper holes. Nymphing has been the most productive way to find some fish, but streamers can also be very effective. Streamers such as a geisha girl, sparkle minnow, and slump busters have been working well. The conditions up north will be changing by the day, so be sure to swing by the shop or give us a call if you have any questions!\n\n \n\n\n\nFlies\nNymphs:  Juju Baetis #18-22, Sparkle Wing RS2 #18-#20, Olive Two-bit Hooker #18, Split Foam Back #18-#22, WD-40 #18-22, Mayhem Midge #18-20, Theo's Melting Pot Midge #18-22,  Mohair Leech Black\/ Wine #10-14, Sparkle Worm #10, Annelid #14-18, Otter Egg #12-14, Gabriels Trumpet #10-16, Girdle Bug\/Rubber Legs Stone #8-12, Flossy Worm, IED #10\n\nDries:  Para Adams #18-24, Sprout Midge #18-22  Griffith Gnat #18-#20, Para Wulf Adams #18-22, Erics High Vis Midge #20-22, Mole Fly #18-22, ARF Midge #20-22, Film Critic BWO #18-22, Ext. Body BWO #18-22\n\nStreamers:  Dungeons, Rusty Trombones, Platte River Spider,  Goldies, Peanut Envys, Thin-Mint #8-12, Sparkle Minnow #4-6, Rubber Bugger Yellow\/Brown #4, Platte River Special, Ish's Snitch\n\nWe have a Staff Selection of flies for the Grey Reef HERE and the Miracle Mile HERE\n \n\nThe 2022 season on the Grey Reef and the Miracle Mile was an absolute blast!  Give us a call at (970) 498-8968 to book your guided trip.\n\nFor info on guided float trips to the Gray Reef, hit the LINK\nFor info on guided trips to the Miracle Mile, hit the LINK",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_ARKmn9",
-        "liquid_k4FBqH"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
-    "main",
-    "advanced_content_p9f8jk"
+    "main"
   ]
 }
