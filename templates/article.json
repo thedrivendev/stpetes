@@ -12,7 +12,7 @@
             "link": "",
             "link_text": "Optional button",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/IMG_5586.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_1175_b5eea94d-0715-4e59-a779-10f8220ced66.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -30,11 +30,26 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_VdHkk7": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_3973.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "image_XdWFJM",
-        "image_C3PEfW"
+        "image_C3PEfW",
+        "image_VdHkk7"
       ],
       "settings": {
         "section_height": "650px",
