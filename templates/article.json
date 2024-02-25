@@ -6,12 +6,13 @@
         "image_XdWFJM": {
           "type": "image",
           "settings": {
-            "title": "Endless\npossibilities.",
+            "title": "Your Jungle adventure awaits!",
             "title_size": 80,
-            "subheading": "Bring your brand to life",
+            "subheading": "",
             "link": "",
             "link_text": "Optional button",
             "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_5586.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
