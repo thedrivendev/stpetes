@@ -1,5 +1,80 @@
 {
   "sections": {
+    "slideshow_YhzqBG": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XdWFJM": {
+          "type": "image",
+          "settings": {
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_C3PEfW": {
+          "type": "image",
+          "settings": {
+            "title": "Tsimane Lodge, Bolivia",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_9380.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_XdWFJM",
+        "image_C3PEfW"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_LXY7Rt": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_ApJMR9": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_7BQCb9": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_ApJMR9",
+        "liquid_7BQCb9"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
     "main": {
       "type": "article-template",
       "settings": {
@@ -58,6 +133,8 @@
     }
   },
   "order": [
+    "slideshow_YhzqBG",
+    "advanced_content_LXY7Rt",
     "main",
     "blog-posts",
     "slideshow_ztMMap"
