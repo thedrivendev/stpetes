@@ -1,18 +1,48 @@
 {
   "sections": {
-    "hero-video": {
-      "type": "hero-video",
+    "slideshow_tQTrR3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_ixiNVJ": {
+          "type": "image",
+          "settings": {
+            "title": "17th Annual Simms Day!",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/blogs\/news\/st-peters-annual-simms-day-and-g4z-launch-party",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Picture4_f202644d-00f1-4927-8dde-ca8bbd32bed7.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_7HninF": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide titles.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_ixiNVJ",
+        "image_7HninF"
+      ],
       "settings": {
-        "title": "",
-        "title_size": 59,
-        "subheading": "",
-        "link_text": "",
-        "link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "overlay_opacity": 0,
         "section_height": "650px",
-        "mobile_height": "auto"
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
       }
     },
     "featured-collection-switcher": {
@@ -287,7 +317,7 @@
     }
   },
   "order": [
-    "hero-video",
+    "slideshow_tQTrR3",
     "featured-collection-switcher",
     "featured-collections",
     "rich-text",
