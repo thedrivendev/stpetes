@@ -28,10 +28,25 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_3Lrt9W": {
+          "type": "image",
+          "settings": {
+            "title": "Come join us at both shops for our annual Scott Rod Day!",
+            "title_size": 60,
+            "subheading": "Introducing the new Scott Session!",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_6078.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
-        "image_RXyqnK"
+        "image_RXyqnK",
+        "image_3Lrt9W"
       ],
       "settings": {
         "section_height": "650px",
