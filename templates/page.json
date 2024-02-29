@@ -5,29 +5,30 @@
       "settings": {
       }
     },
-    "advanced_content_MzwybV": {
+    "advanced_content_YXqfEz": {
       "type": "advanced-content",
       "blocks": {
-        "image_CjyFQX": {
+        "image_CQRbPY": {
           "type": "image",
           "settings": {
-            "link": "",
+            "image": "shopify:\/\/shop_images\/Guide-wading-1024x768.jpg",
+            "link": "shopify:\/\/blogs\/fishing-reports\/poudre-fishing-report",
             "width": "50%",
             "alignment": "center"
           }
         },
-        "liquid_4jX8yf": {
+        "liquid_RKC84V": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Signature Fly Fishing School<\/h2><p>This 8 hour class is perfect for the beginner fly fisher.<\/p>",
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
         }
       },
       "block_order": [
-        "image_CjyFQX",
-        "liquid_4jX8yf"
+        "image_CQRbPY",
+        "liquid_RKC84V"
       ],
       "settings": {
         "full_width": false,
@@ -38,6 +39,6 @@
   },
   "order": [
     "main",
-    "advanced_content_MzwybV"
+    "advanced_content_YXqfEz"
   ]
 }
