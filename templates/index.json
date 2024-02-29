@@ -232,12 +232,12 @@
       "settings": {
         "collection": "",
         "subtitle": "All new from Simms!",
-        "title": "G4Z and G3 Boot",
+        "title": "G4Z Wader and G3 Guide Boot",
         "text": "",
         "cta_text1": "Shop G4Z Wader",
         "cta_link1": "shopify:\/\/products\/simms-g4z-waders",
-        "cta_text2": "Shop All",
-        "cta_link2": "",
+        "cta_text2": "G3 Guide Boot",
+        "cta_link2": "shopify:\/\/collections\/all",
         "layout": "right",
         "divider": false
       }
