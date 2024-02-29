@@ -20,9 +20,9 @@
         "image_7HninF": {
           "type": "image",
           "settings": {
-            "title": "Two line\nslide titles.",
+            "title": "",
             "title_size": 80,
-            "subheading": "And big, beautiful imagery",
+            "subheading": "",
             "link": "",
             "link_text": "Optional button",
             "text_align": "vertical-bottom horizontal-left",
@@ -164,7 +164,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>At St. Peter’s Fly Shop we always like taking fly fishing to the next level and what better than an exotic fly fishing destination.<\/p>"
+            "text": "<p><strong>At St. Peter’s Fly Shop we always like taking fly fishing to the next level and what better than an exotic fly fishing destination.<\/strong><\/p>"
           }
         }
       },
