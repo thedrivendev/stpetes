@@ -1,5 +1,63 @@
 {
   "sections": {
+    "rich_text_rciyk8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jADFiX": {
+          "type": "heading",
+          "settings": {
+            "title": "Classes"
+          }
+        },
+        "text_dM6gyW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Check out all our classes <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jADFiX",
+        "text_dM6gyW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_thmrg3": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_qBn7tE": {
+          "type": "liquid",
+          "settings": {
+            "code": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_Pm7gHG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Guide-wading-1024x768.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_qBn7tE",
+        "image_Pm7gHG"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
     "main": {
       "type": "article-template",
       "settings": {
@@ -58,6 +116,8 @@
     }
   },
   "order": [
+    "rich_text_rciyk8",
+    "advanced_content_thmrg3",
     "main",
     "blog-posts",
     "slideshow_ztMMap"
