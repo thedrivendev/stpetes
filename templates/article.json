@@ -13,7 +13,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Check out all our classes <\/p>"
+            "text": "<p>On the water or in the classroom, let us take your knowledge to the next level!<\/p>"
           }
         }
       },
@@ -25,37 +25,6 @@
         "align_text": "center",
         "narrow_column": true,
         "divider": false
-      }
-    },
-    "advanced_content_thmrg3": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_qBn7tE": {
-          "type": "liquid",
-          "settings": {
-            "code": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "image_Pm7gHG": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Guide-wading-1024x768.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_qBn7tE",
-        "image_Pm7gHG"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
       }
     },
     "advanced_content_PWiAGK": {
@@ -147,7 +116,6 @@
   },
   "order": [
     "rich_text_rciyk8",
-    "advanced_content_thmrg3",
     "advanced_content_PWiAGK",
     "main",
     "blog-posts",
