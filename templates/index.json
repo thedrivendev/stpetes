@@ -231,12 +231,12 @@
     "collection-callout": {
       "type": "collection-callout",
       "settings": {
-        "collection": "",
+        "collection": "all-new-simms-g4z-wader-and-g3-guide-boot",
         "subtitle": "All new from Simms!",
         "title": "G4Z Wader and G3 Guide Boot",
         "text": "",
         "cta_text1": "Shop G4Z Wader",
-        "cta_link1": "shopify:\/\/products\/simms-g4z-waders",
+        "cta_link1": "shopify:\/\/products\/241-simms-men-s-g4z-stockingfoot-wader",
         "cta_text2": "G3 Guide Boot",
         "cta_link2": "shopify:\/\/products\/241-simms-g3-guide-boot-vibram",
         "layout": "right",
