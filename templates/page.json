@@ -20,7 +20,7 @@
         "liquid_RKC84V": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2><\/h2><p>Check out the most up to date conditions on the river.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
