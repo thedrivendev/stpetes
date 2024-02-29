@@ -1,5 +1,49 @@
 {
   "sections": {
+    "slideshow_C8gc4b": {
+      "type": "slideshow",
+      "blocks": {
+        "image_WHnBdJ": {
+          "type": "image",
+          "settings": {
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_ddQWYD": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide titles.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_WHnBdJ",
+        "image_ddQWYD"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "main": {
       "type": "article-template",
       "settings": {
@@ -58,6 +102,7 @@
     }
   },
   "order": [
+    "slideshow_C8gc4b",
     "main",
     "blog-posts",
     "slideshow_ztMMap"
