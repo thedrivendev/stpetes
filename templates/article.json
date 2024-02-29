@@ -6,7 +6,7 @@
         "heading_jADFiX": {
           "type": "heading",
           "settings": {
-            "title": "Classes"
+            "title": "Classes We Offer"
           }
         },
         "text_dM6gyW": {
@@ -51,6 +51,36 @@
       "block_order": [
         "liquid_qBn7tE",
         "image_Pm7gHG"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_PWiAGK": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_BEwFbq": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_P9tGb6": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_BEwFbq",
+        "liquid_P9tGb6"
       ],
       "settings": {
         "full_width": false,
@@ -118,6 +148,7 @@
   "order": [
     "rich_text_rciyk8",
     "advanced_content_thmrg3",
+    "advanced_content_PWiAGK",
     "main",
     "blog-posts",
     "slideshow_ztMMap"
