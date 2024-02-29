@@ -1,1 +1,43 @@
-{"sections":{"main":{"type":"main-page","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "advanced_content_MzwybV": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_CjyFQX": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_4jX8yf": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Signature Fly Fishing School<\/h2><p>This 8 hour class is perfect for the beginner fly fisher.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_CjyFQX",
+        "liquid_4jX8yf"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "advanced_content_MzwybV"
+  ]
+}
