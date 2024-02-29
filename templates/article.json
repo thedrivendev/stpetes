@@ -11,41 +11,8 @@
         "social_sharing_blog": true
       }
     },
-    "blog-posts": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "",
-        "blog": "fishing-reports",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": true,
-        "blog_show_comments": false,
-        "blog_show_author": false,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "slideshow_ztMMap": {
       "type": "slideshow",
-      "blocks": {
-        "image_6kAKeN": {
-          "type": "image",
-          "settings": {
-            "title": "Signature Fly Fishing School",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "Book Now",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/FFS_image.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_6kAKeN"
-      ],
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
@@ -59,7 +26,6 @@
   },
   "order": [
     "main",
-    "blog-posts",
     "slideshow_ztMMap"
   ]
 }
