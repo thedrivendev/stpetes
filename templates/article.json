@@ -33,6 +33,7 @@
         "image_BEwFbq": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Guide-wading-1024x768.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -41,7 +42,7 @@
         "liquid_P9tGb6": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Signature Fly Fishing School<\/h2><p>A full day course for the beginner to intermediate fly fisher.<\/p>",
+            "code": "<h2>Signature Fly Fishing School<\/h2><p>A full day course for the beginner to intermediate fly fisher.<button class='flybook-book-now-button fb-widget-type-frontend fb-default-category-id-0 fb-account-id-1142 fb-entity-config-id-21680 fb-domain-go.theflybook.com fb-protocol-https' style='background-color: #ee5505;'>BOOK NOW<\/button><link rel='stylesheet' href='https:\/\/go.theflybook.com\/content\/bootstrapper\/flybookbootstrap.css' \/><script src='https:\/\/go.theflybook.com\/custom\/bootstrapper\/flybookbootstrap.js'><\/script><\/p>",
             "width": "50%",
             "alignment": "center"
           }
