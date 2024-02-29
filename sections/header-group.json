@@ -39,10 +39,38 @@
         "sticky_index": true,
         "sticky_collection": false
       }
+    },
+    "rich_text_gWaWPm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iHWMya": {
+          "type": "heading",
+          "settings": {
+            "title": "Classes We Offer"
+          }
+        },
+        "text_EgVQKR": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iHWMya",
+        "text_EgVQKR"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "rich_text_gWaWPm"
   ]
 }
