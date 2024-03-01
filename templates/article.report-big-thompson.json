@@ -122,26 +122,6 @@
         "divider": false
       }
     },
-    "rich_text_jifnEU": {
-      "type": "rich-text",
-      "blocks": {
-        "text_LYM8zq": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>We have a Staff Selection of flies for the Big Thompson for Purchase <a href=\"https:\/\/stpetes.com\/big-thompson-river-fly-assortment.html\">HERE<\/a><\/p><p><strong>The 2022 season on the Big Thompson was an absolute blast!  Give us a call at (970) 498-8968 to book your guided trip.<\/strong><\/p><p>For info on guided trips on the Big Thompson, hit the <a href=\"https:\/\/stpetes.com\/blog\/guide-service\/waters-we-guide\/big-thompson\/\">LINK<\/a><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_LYM8zq"
-      ],
-      "settings": {
-        "align_text": "left",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "featured_product_jzUbtr": {
       "type": "featured-product",
       "blocks": {
@@ -198,6 +178,26 @@
         "product_video_style": "muted"
       }
     },
+    "rich_text_jifnEU": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LYM8zq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>The 2022 season on the Big Thompson was an absolute blast!  Give us a call at (970) 498-8968 to book your guided trip.<\/strong><\/p><p>For info on guided trips on the Big Thompson, hit the <a href=\"https:\/\/stpetes.com\/blog\/guide-service\/waters-we-guide\/big-thompson\/\">LINK<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LYM8zq"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "blog-posts": {
       "type": "blog-posts",
       "settings": {
@@ -218,8 +218,8 @@
     "slideshow_mGrDTc",
     "rich_text_A3XKJB",
     "text_columns_jbNjYX",
-    "rich_text_jifnEU",
     "featured_product_jzUbtr",
+    "rich_text_jifnEU",
     "blog-posts"
   ]
 }
