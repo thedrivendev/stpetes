@@ -1,0 +1,74 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "advanced_content_tycwaU": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_DAGn9k": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Poudre River<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_zh7hCY": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_DAGn9k",
+        "image_zh7hCY"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_4rETVU": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_NWanYB": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_MFNzeY": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Poudre River<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_NWanYB",
+        "liquid_MFNzeY"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "advanced_content_tycwaU",
+    "advanced_content_4rETVU"
+  ]
+}
