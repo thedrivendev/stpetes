@@ -111,12 +111,114 @@
         "enable_video_looping": true,
         "product_video_style": "muted"
       }
+    },
+    "rich_text_A3XKJB": {
+      "type": "rich-text",
+      "blocks": {
+        "text_MjJijk": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Latest Update:<strong> 2\/19\/2024<\/strong><\/p><p><strong>Current Streamflow : Gauge is Frozen <\/strong>@ Big T Above Lake Estes, <strong> 10 cfs <\/strong> @ Big T Below Lake Estes,<strong> 3 cfs @<\/strong>Moraine Park<\/p>"
+          }
+        },
+        "text_7NPt7d": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Winter time is in full swing, and with that comes ice on our local rivers. There is plenty of open water below Lake Estes and in the upper reaches of the canyon, but some sections in the lower and more shaded parts of the canyon are quite frozen. We are seeing some good bug activity on the warmer days and in the afternoon. If you find fish rising during a hatch, try throwing an Mole Midge #22-24, Eric's Hi-Vis midge#20-22, or Sprout Midge #20-24. When there aren't many bugs hatching, nymphing the slower pools has been producing fish. Flies such as a<\/p><ul><li>Poison Tongue #18-20,<\/li><li>Bling Midge #20-22,<\/li><li>Sparkle Wing rs2 #18-22<\/li><\/ul><p>have been effective. Small, sensitive indicators will help detect the subtle strikes and using 6-7x tippet sizes will play in your favor in the low and clear water. Let us know if you have any questions or looking for more info on fishing the Big Thompson!<\/p><p><strong>Dries:<\/strong><\/p><ul><li>Adams#18-24<\/li><li>Para Winger BWO #18-20<\/li><li>Rocky Mountain Mint #16-18<\/li><li>Tailing Midge #20<\/li><li>Griffith's Gnat #18-22<\/li><li>Erics Hi-Vis Midge #20-22<\/li><li>CDC Baetis Dun #20-22<\/li><li>Mole Fly Olive #20-22<\/li><li>Ext. Body Blue Winged Olive #18-22<\/li><li>Sprout Midge #20-22<\/li><\/ul><p><strong>Nymph:<\/strong><\/p><ul><li>Copper John #18-22<\/li><li>Flashback Scud Olv. #14-16<\/li><li>RS2 #18-22<\/li><li>Zebra Midge #20-24<\/li><li>Poison Tongue #18-20<br\/>Mercury Black Beauty #18-22<\/li><li>Soft egg Orange #12<\/li><li>Splitback Shady BWO#16-18<\/li><li>Two Bit Hooker #16-#18<\/li><li>Copper Rib RS2 #18-22<\/li><li>Flossy Worm #14-18<\/li><li>Pheasant Tail #18-22<\/li><li>Barr's Emerger BWO #18-20<\/li><\/ul><p><strong>Streamers<\/strong><\/p><ul><li>Thin Mint #8-12, Beldar Bugger #8, Sparkle Minnow #8, Hot Head Leech #10, Black Wooly Bugger #10, Mini Peanut Envy, Cousin It Sculpin, Baby Swim Coach, Mini Peanut Envy #6.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "text_MjJijk",
+        "text_7NPt7d"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_columns_jbNjYX": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_cKdhEc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "Dry Flies",
+            "text": "<ul><li>Adams#18-24<\/li><li>Para Winger BWO #18-20<\/li><li>Rocky Mountain Mint #16-18<\/li><li>Tailing Midge #20<\/li><li>Griffith's Gnat #18-22<\/li><li>Erics Hi-Vis Midge #20-22<\/li><li>CDC Baetis Dun #20-22<\/li><li>Mole Fly Olive #20-22<\/li><li>Ext. Body Blue Winged Olive #18-22<\/li><li>Sprout Midge #20-22<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_zY8zcT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "Nymphs",
+            "text": "<ul><li>Copper John #18-22<\/li><li>Flashback Scud Olv. #14-16<\/li><li>RS2 #18-22<\/li><li>Zebra Midge #20-24<\/li><li>Poison Tongue #18-20<\/li><li>Mercury Black Beauty #18-22<\/li><li>Soft egg Orange #12<\/li><li>Splitback Shady BWO#16-18<\/li><li>Two Bit Hooker #16-#18<\/li><li>Copper Rib RS2 #18-22<\/li><li>Flossy Worm #14-18<\/li><li>Pheasant Tail #18-22<\/li><li>Barr's Emerger BWO #18-20<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_AXQGnW": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "Streamers",
+            "text": "<ul><li>Thin Mint #8-12<\/li><li>Beldar Bugger #8<\/li><li>Sparkle Minnow #8<\/li><li>Hot Head Leech #10<\/li><li>Black Wooly Bugger #10<\/li><li>Mini Peanut Envy<\/li><li>Cousin It Sculpin<\/li><li>Baby Swim Coach<\/li><li>Mini Peanut Envy #6<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_cKdhEc",
+        "text_block_zY8zcT",
+        "text_block_AXQGnW"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "left",
+        "divider": false
+      }
+    },
+    "rich_text_jifnEU": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LYM8zq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We have a Staff Selection of flies for the Big Thompson for Purchase <a href=\"https:\/\/stpetes.com\/big-thompson-river-fly-assortment.html\">HERE<\/a><\/p><p><strong>The 2022 season on the Big Thompson was an absolute blast!  Give us a call at (970) 498-8968 to book your guided trip.<\/strong><\/p><p>For info on guided trips on the Big Thompson, hit the <a href=\"https:\/\/stpetes.com\/blog\/guide-service\/waters-we-guide\/big-thompson\/\">LINK<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LYM8zq"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
     "blog-posts",
     "slideshow_mGrDTc",
-    "featured_product_jzUbtr"
+    "featured_product_jzUbtr",
+    "rich_text_A3XKJB",
+    "text_columns_jbNjYX",
+    "rich_text_jifnEU"
   ]
 }
