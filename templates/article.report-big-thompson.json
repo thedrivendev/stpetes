@@ -25,6 +25,37 @@
         "divider": false
       }
     },
+    "slideshow_mGrDTc": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PFHApD": {
+          "type": "image",
+          "settings": {
+            "title": "Big Thompson Fishing Report",
+            "title_size": 48,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Thompson-1024x683_1.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_PFHApD"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "featured_product_jzUbtr": {
       "type": "featured-product",
       "blocks": {
@@ -85,6 +116,7 @@
   "order": [
     "main",
     "blog-posts",
+    "slideshow_mGrDTc",
     "featured_product_jzUbtr"
   ]
 }
