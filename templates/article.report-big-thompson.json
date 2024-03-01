@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "article-template",
+      "disabled": true,
       "settings": {
         "blog_show_image": true,
         "blog_show_tags": true,
@@ -9,20 +10,6 @@
         "blog_show_comments": true,
         "blog_show_author": false,
         "social_sharing_blog": true
-      }
-    },
-    "blog-posts": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "",
-        "blog": "fishing-reports",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": true,
-        "blog_show_comments": false,
-        "blog_show_author": false,
-        "view_all": true,
-        "divider": false
       }
     },
     "slideshow_mGrDTc": {
@@ -56,62 +43,6 @@
         "lazyload_images": true
       }
     },
-    "featured_product_jzUbtr": {
-      "type": "featured-product",
-      "blocks": {
-        "price_qzC9PY": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "separator_DBjchP": {
-          "type": "separator",
-          "settings": {
-          }
-        },
-        "variant_picker_QaKGfK": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "buy_buttons_UdhRpY": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true,
-            "show_gift_card_recipient": false
-          }
-        },
-        "description_JwXxeA": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        }
-      },
-      "block_order": [
-        "price_qzC9PY",
-        "separator_DBjchP",
-        "variant_picker_QaKGfK",
-        "buy_buttons_UdhRpY",
-        "description_JwXxeA"
-      ],
-      "settings": {
-        "featured_product": "3d-beads",
-        "divider": false,
-        "sku_enable": false,
-        "image_size": "small",
-        "product_zoom_enable": true,
-        "thumbnail_position": "beside",
-        "thumbnail_arrows": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted"
-      }
-    },
     "rich_text_A3XKJB": {
       "type": "rich-text",
       "blocks": {
@@ -126,7 +57,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Winter time is in full swing, and with that comes ice on our local rivers. There is plenty of open water below Lake Estes and in the upper reaches of the canyon, but some sections in the lower and more shaded parts of the canyon are quite frozen. We are seeing some good bug activity on the warmer days and in the afternoon. If you find fish rising during a hatch, try throwing an Mole Midge #22-24, Eric's Hi-Vis midge#20-22, or Sprout Midge #20-24. When there aren't many bugs hatching, nymphing the slower pools has been producing fish. Flies such as a<\/p><ul><li>Poison Tongue #18-20,<\/li><li>Bling Midge #20-22,<\/li><li>Sparkle Wing rs2 #18-22<\/li><\/ul><p>have been effective. Small, sensitive indicators will help detect the subtle strikes and using 6-7x tippet sizes will play in your favor in the low and clear water. Let us know if you have any questions or looking for more info on fishing the Big Thompson!<\/p><p><strong>Dries:<\/strong><\/p><ul><li>Adams#18-24<\/li><li>Para Winger BWO #18-20<\/li><li>Rocky Mountain Mint #16-18<\/li><li>Tailing Midge #20<\/li><li>Griffith's Gnat #18-22<\/li><li>Erics Hi-Vis Midge #20-22<\/li><li>CDC Baetis Dun #20-22<\/li><li>Mole Fly Olive #20-22<\/li><li>Ext. Body Blue Winged Olive #18-22<\/li><li>Sprout Midge #20-22<\/li><\/ul><p><strong>Nymph:<\/strong><\/p><ul><li>Copper John #18-22<\/li><li>Flashback Scud Olv. #14-16<\/li><li>RS2 #18-22<\/li><li>Zebra Midge #20-24<\/li><li>Poison Tongue #18-20<br\/>Mercury Black Beauty #18-22<\/li><li>Soft egg Orange #12<\/li><li>Splitback Shady BWO#16-18<\/li><li>Two Bit Hooker #16-#18<\/li><li>Copper Rib RS2 #18-22<\/li><li>Flossy Worm #14-18<\/li><li>Pheasant Tail #18-22<\/li><li>Barr's Emerger BWO #18-20<\/li><\/ul><p><strong>Streamers<\/strong><\/p><ul><li>Thin Mint #8-12, Beldar Bugger #8, Sparkle Minnow #8, Hot Head Leech #10, Black Wooly Bugger #10, Mini Peanut Envy, Cousin It Sculpin, Baby Swim Coach, Mini Peanut Envy #6.<\/li><\/ul>"
+            "text": "<p>Winter time is in full swing, and with that comes ice on our local rivers. There is plenty of open water below Lake Estes and in the upper reaches of the canyon, but some sections in the lower and more shaded parts of the canyon are quite frozen. We are seeing some good bug activity on the warmer days and in the afternoon. If you find fish rising during a hatch, try throwing an Mole Midge #22-24, Eric's Hi-Vis midge#20-22, or Sprout Midge #20-24. When there aren't many bugs hatching, nymphing the slower pools has been producing fish. Flies such as a<\/p><ul><li>Poison Tongue #18-20,<\/li><li>Bling Midge #20-22,<\/li><li>Sparkle Wing rs2 #18-22<\/li><\/ul><p>have been effective. Small, sensitive indicators will help detect the subtle strikes and using 6-7x tippet sizes will play in your favor in the low and clear water. Let us know if you have any questions or looking for more info on fishing the Big Thompson!<\/p>"
           }
         }
       },
@@ -210,15 +141,86 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "featured_product_jzUbtr": {
+      "type": "featured-product",
+      "blocks": {
+        "price_qzC9PY": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "separator_DBjchP": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker_QaKGfK": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_UdhRpY": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description_JwXxeA": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "price_qzC9PY",
+        "separator_DBjchP",
+        "variant_picker_QaKGfK",
+        "buy_buttons_UdhRpY",
+        "description_JwXxeA"
+      ],
+      "disabled": true,
+      "settings": {
+        "featured_product": "3d-beads",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "",
+        "blog": "fishing-reports",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
-    "blog-posts",
     "slideshow_mGrDTc",
-    "featured_product_jzUbtr",
     "rich_text_A3XKJB",
     "text_columns_jbNjYX",
-    "rich_text_jifnEU"
+    "rich_text_jifnEU",
+    "featured_product_jzUbtr",
+    "blog-posts"
   ]
 }
