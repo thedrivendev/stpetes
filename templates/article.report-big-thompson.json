@@ -186,9 +186,8 @@
         "buy_buttons_UdhRpY",
         "description_JwXxeA"
       ],
-      "disabled": true,
       "settings": {
-        "featured_product": "3d-beads",
+        "featured_product": "{{ article.metafields.custom.fly_assortment.value }}",
         "divider": false,
         "sku_enable": false,
         "image_size": "small",
