@@ -61,12 +61,6 @@
     "rich_text_cMTRHk": {
       "type": "rich-text",
       "blocks": {
-        "heading_ibW88K": {
-          "type": "heading",
-          "settings": {
-            "title": "Save the Date:  St. Peter's Annual Simms Day and G4Z Launch Party w\/ Winston Rod Specials"
-          }
-        },
         "text_YzqnyF": {
           "type": "text",
           "settings": {
@@ -76,7 +70,6 @@
         }
       },
       "block_order": [
-        "heading_ibW88K",
         "text_YzqnyF"
       ],
       "settings": {
@@ -84,33 +77,11 @@
         "narrow_column": true,
         "divider": false
       }
-    },
-    "advanced_content_LBBcTC": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_iG4ETW": {
-          "type": "liquid",
-          "settings": {
-            "code": "Save the Date:  St. Peter's Annual Simms Day and G4Z Launch Party w\/ Winston Rod Specials\nSaturday, April 6th @ BOTH Shops!\nWe would like to invite one and all to our 17th Annual Simms Day and G4Z Launch Party on April 6th.  This is the one day each year we are able to hook up our customers with in-store specials on all Simms gear, including Winston Fly Rods and Lamson Reels.  Whether its Simms waders, boots, accessories, a new Winston fly rod or a new Lamson reel, we are excited to get you outfitted for the coming season with a few specials to \"boot!\"  Stay tuned for more details...\n-Specials and kickbacks will be offered on all Simms gear, so don't miss out!\n-Winston fly rod Gift Card kickbacks\n-Lamson reels Gift Card kickbacks\n-Store-wide Fly Sale\n-Extra discounts on clearance items\n-Simms Day Raffle-\nWin a Dry Creek Z Sling Pack & Daymaker Net - Medium. Any purchase of any Simms gear will get you entered. \nOur Simms\/Winston\/Lamson reps will be on hand at both shops to answer questions and ensure proper sizing. Waders, rods, reels and flies...just add water for fishing fun!\nFrom waders to boots to apparel and accessories, we've done our best to secure a great selection of inventory for our customers.\nSee you there!",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_iG4ETW"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
     "main",
     "slideshow_BK3jKY",
-    "rich_text_cMTRHk",
-    "advanced_content_LBBcTC"
+    "rich_text_cMTRHk"
   ]
 }
