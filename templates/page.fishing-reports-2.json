@@ -167,7 +167,7 @@
         "liquid_jGQ7UK": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>In-Classroom Angler's Entomology<\/h2><p>In the classroom setting of Angler’s Entomology, students learn about aquatic insects, how to identify them, their hatch timing and how this influences trout to eat.<\/p>",
+            "code": "<h2>Rocky Mountain National Park<\/h2><p><\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -175,7 +175,8 @@
         "image_VNhp8w": {
           "type": "image",
           "settings": {
-            "link": "",
+            "image": "shopify:\/\/shop_images\/Rocky_mountain_natl_park_greenie.jpg",
+            "link": "shopify:\/\/blogs\/fishing-reports\/rocky-mountain-national-park-fishing-report",
             "width": "50%",
             "alignment": "center"
           }
