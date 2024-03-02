@@ -1,0 +1,31 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "settings": {
+        "blog_show_image": true,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": true,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "slideshow_ztMMap": {
+      "type": "slideshow",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_ztMMap"
+  ]
+}
