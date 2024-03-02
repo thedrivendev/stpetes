@@ -237,7 +237,8 @@
         "image_zh7hCY": {
           "type": "image",
           "settings": {
-            "link": "",
+            "image": "shopify:\/\/shop_images\/NG_brown_2.jpg",
+            "link": "shopify:\/\/blogs\/fishing-reports\/encampment-river-fishing-report",
             "width": "50%",
             "alignment": "center"
           }
