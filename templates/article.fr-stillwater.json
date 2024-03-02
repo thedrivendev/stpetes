@@ -18,13 +18,13 @@
         "image_PFHApD": {
           "type": "image",
           "settings": {
-            "title": "Grey Reef\/Miracle Mile Fishing Report",
+            "title": "Stillwater Fishing Reports",
             "title_size": 48,
             "subheading": "",
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/rb.jpg",
+            "image": "shopify:\/\/shop_images\/Horsetooth-bass-1.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
