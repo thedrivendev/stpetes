@@ -18,13 +18,13 @@
         "image_PFHApD": {
           "type": "image",
           "settings": {
-            "title": "Cache La Poudre Fishing Report",
+            "title": "Rocky Mountain Fishing Report",
             "title_size": 48,
             "subheading": "",
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/brown_cheek.jpg",
+            "image": "shopify:\/\/shop_images\/Rocky_mountain_natl_park_greenie.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
