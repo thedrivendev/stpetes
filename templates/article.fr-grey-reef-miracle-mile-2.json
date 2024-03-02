@@ -18,13 +18,13 @@
         "image_PFHApD": {
           "type": "image",
           "settings": {
-            "title": "Cache La Poudre Fishing Report",
+            "title": "Grey Reef\/Miracle Mile Fishing Report",
             "title_size": 48,
             "subheading": "",
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/brown_cheek.jpg",
+            "image": "shopify:\/\/shop_images\/rb.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Over the last week or two we have been seeing some parts of the lower canyon starting to open up with the warm weather we have had. Shaded parts of the canyon still have a good amount of ice but certain sections have enough open water to fish. The Poudre through town can be a great area to try in the winter months as well. Warmer temps in town and more sunlight keeps a lot of the river through Fort Collins open. Midges have been the main bug hatching and some great dry fly fishing can be had on the warmer days. Be sure to keep your fly and tippet sizes small this time of year to find more success. Patterns such as #18-22 Griffiths Gnat, #18-22 Eric's Hi-Vis Midge, and #20-24 Parachute Adams are great options when fish are actively rising. Nymphing can be very effective and is a great option when there are no fish actively rising. Some patterns to try when nymphing include #20-22 T Midge, #20-22 Biot Emerger, and #18-22 BH Pheasant Tails. When fishing small nymph patterns, be sure to use a small strike indicator and light tippet to detect the often subtle bite. Once you find a fish, there are probably a few more sitting in that same spot.<\/p><p>The flows in Gateway will vary from day to day so be sure to check before heading out. If the cards align, a warm day with higher flows can produce some awesome dry fly fishing! When flows are low, fish can be a lot more spooky, so you may need to fish with lighter leader and tippet. Small midge patterns have been working best, along with some small streamer patterns.<\/p><p><\/p>"
+            "text": "<p><strong>Current Streamflow :  497 cfs <\/strong>@<strong> <\/strong>Grey Reef<strong>, 532 cfs <\/strong>@ Miracle Mile<strong><br\/><\/strong><br\/><\/p><p>The flows on both the Miracle Mile and Grey Reef have remained steady over the last few weeks. Both sections of river will remain around 500-600 cfs through the colder months. Midges and baetis can be seen hatching on the North Platte throughout the winter months. In addition to these small bugs there are plenty of scuds, leeches, worms, and eggs in the river year round, so definitely give them a try as well. Having a larger, heavier lead fly with a smaller midge trailing is a great way to fish the Platte in the winter. Make sure to have some additional weight on your nymph rigs to get your flies down to the fish in some of the deeper holes. Nymphing has been the most productive way to find some fish, but streamers can also be very effective. Streamers such as a geisha girl, sparkle minnow, and slump busters have been working well. The conditions up north will be changing by the day, so be sure to swing by the shop or give us a call if you have any questions!<\/p><p><strong>Nymphs: <\/strong> Juju Baetis #18-22, Sparkle Wing RS2 #18-#20, Olive Two-bit Hooker #18, Split Foam Back #18-#22, WD-40 #18-22, Mayhem Midge #18-20, Theo's Melting Pot Midge #18-22,  Mohair Leech Black\/ Wine #10-14, Sparkle Worm #10, Annelid #14-18, Otter Egg #12-14, Gabriels Trumpet #10-16, Girdle Bug\/Rubber Legs Stone #8-12, Flossy Worm, IED #10<\/p><p><strong>Dries: <\/strong> Para Adams #18-24, Sprout Midge #18-22  Griffith Gnat #18-#20, Para Wulf Adams #18-22, Erics High Vis Midge #20-22, Mole Fly #18-22, ARF Midge #20-22, Film Critic BWO #18-22, Ext. Body BWO #18-22<\/p><p><strong>Streamers:<\/strong>  Dungeons, Rusty Trombones, Platte River Spider,  Goldies, Peanut Envys, Thin-Mint #8-12, Sparkle Minnow #4-6, Rubber Bugger Yellow\/Brown #4, Platte River Special, Ish's Snitch<\/p>"
           }
         }
       },
@@ -81,7 +81,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Dry Flies",
-            "text": "<ul><li>Adams#18-24<\/li><li>Mole Fly Brown\/Olive #18-22<\/li><li>Tailing Midge #20<\/li><li>Griffith's Gnat #18-22<\/li><li>Erics Hi-Vis Midge #20-22<\/li><li>CDC Baetis Dun #20-22<\/li><li>Mole Fly Olive #20-22<\/li><li>Sprout Midge #20-22<\/li><\/ul>",
+            "text": "<ul><li>Adams#18-24<\/li><li><\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -93,7 +93,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Nymphs",
-            "text": "<ul><li>Copper John #18-22<\/li><li>Flashback Scud Olv. #14-16<\/li><li>RS2 #18-22<\/li><li>Zebra Midge #20-24<\/li><li>Poison Tongue #18-20<\/li><li>Mercury Black Beauty #18-22<\/li><li>Soft egg Orange #12<\/li><li>Splitback Shady BWO#16-18<\/li><li>Two Bit Hooker #16-#18<\/li><li>Copper Rib RS2 #18-22<\/li><li>Flossy Worm #14-18<\/li><li>Pheasant Tail #18-22<\/li><li>Barr's Emerger BWO #18-20<\/li><\/ul>",
+            "text": "<ul><li>Copper John #18-22<\/li><li><\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -105,7 +105,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Streamers",
-            "text": "<ul><li>Thin Mint #8-12<\/li><li>Beldar Bugger #8<\/li><li>Sparkle Minnow #8<\/li><li>Hot Head Leech #10<\/li><li>Black Wooly Bugger #10<\/li><li>Mini Peanut Envy<\/li><li>Cousin It Sculpin<\/li><li>Baby Swim Coach<\/li><li>Mini Peanut Envy #6<\/li><\/ul>",
+            "text": "<ul><li>Thin Mint #8-12<\/li><li><\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
