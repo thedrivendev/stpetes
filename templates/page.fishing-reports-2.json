@@ -198,7 +198,8 @@
         "image_XbN3tG": {
           "type": "image",
           "settings": {
-            "link": "",
+            "image": "shopify:\/\/shop_images\/Upper-NP-Ed.jpg",
+            "link": "shopify:\/\/blogs\/fishing-reports\/upper-north-platte-fishing-report",
             "width": "50%",
             "alignment": "center"
           }
@@ -206,7 +207,7 @@
         "liquid_6AFdqM": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>On The Water Entomology<\/h2><p>Experience on water knowledge of our local river and the bugs that inhabit it.<\/p>",
+            "code": "<h2>Upper North Platte<\/h2><p><\/p>",
             "width": "50%",
             "alignment": "center"
           }
