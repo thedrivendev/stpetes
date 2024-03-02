@@ -1,0 +1,225 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "disabled": true,
+      "settings": {
+        "blog_show_image": true,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": true,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "slideshow_mGrDTc": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PFHApD": {
+          "type": "image",
+          "settings": {
+            "title": "Cache La Poudre Fishing Report",
+            "title_size": 48,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/brown_cheek.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_PFHApD"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_A3XKJB": {
+      "type": "rich-text",
+      "blocks": {
+        "text_MjJijk": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Latest Update:<strong> 2\/19\/2024<\/strong><\/p><p><strong>Current Streamflow : Gauge is Frozen <\/strong>@ Canyon Mouth, <strong> 10 cfs <\/strong> @ Town,<strong> 3 cfs @<\/strong>North Fork below Seaman<\/p>"
+          }
+        },
+        "text_7NPt7d": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Over the last week or two we have been seeing some parts of the lower canyon starting to open up with the warm weather we have had. Shaded parts of the canyon still have a good amount of ice but certain sections have enough open water to fish. The Poudre through town can be a great area to try in the winter months as well. Warmer temps in town and more sunlight keeps a lot of the river through Fort Collins open. Midges have been the main bug hatching and some great dry fly fishing can be had on the warmer days. Be sure to keep your fly and tippet sizes small this time of year to find more success. Patterns such as #18-22 Griffiths Gnat, #18-22 Eric's Hi-Vis Midge, and #20-24 Parachute Adams are great options when fish are actively rising. Nymphing can be very effective and is a great option when there are no fish actively rising. Some patterns to try when nymphing include #20-22 T Midge, #20-22 Biot Emerger, and #18-22 BH Pheasant Tails. When fishing small nymph patterns, be sure to use a small strike indicator and light tippet to detect the often subtle bite. Once you find a fish, there are probably a few more sitting in that same spot.<\/p><p>The flows in Gateway will vary from day to day so be sure to check before heading out. If the cards align, a warm day with higher flows can produce some awesome dry fly fishing! When flows are low, fish can be a lot more spooky, so you may need to fish with lighter leader and tippet. Small midge patterns have been working best, along with some small streamer patterns.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_MjJijk",
+        "text_7NPt7d"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_columns_jbNjYX": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_cKdhEc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "Dry Flies",
+            "text": "<ul><li>Adams#18-24<\/li><li>Mole Fly Brown\/Olive #18-22<\/li><li>Tailing Midge #20<\/li><li>Griffith's Gnat #18-22<\/li><li>Erics Hi-Vis Midge #20-22<\/li><li>CDC Baetis Dun #20-22<\/li><li>Mole Fly Olive #20-22<\/li><li>Sprout Midge #20-22<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_zY8zcT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "Nymphs",
+            "text": "<ul><li>Copper John #18-22<\/li><li>Flashback Scud Olv. #14-16<\/li><li>RS2 #18-22<\/li><li>Zebra Midge #20-24<\/li><li>Poison Tongue #18-20<\/li><li>Mercury Black Beauty #18-22<\/li><li>Soft egg Orange #12<\/li><li>Splitback Shady BWO#16-18<\/li><li>Two Bit Hooker #16-#18<\/li><li>Copper Rib RS2 #18-22<\/li><li>Flossy Worm #14-18<\/li><li>Pheasant Tail #18-22<\/li><li>Barr's Emerger BWO #18-20<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_AXQGnW": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "Streamers",
+            "text": "<ul><li>Thin Mint #8-12<\/li><li>Beldar Bugger #8<\/li><li>Sparkle Minnow #8<\/li><li>Hot Head Leech #10<\/li><li>Black Wooly Bugger #10<\/li><li>Mini Peanut Envy<\/li><li>Cousin It Sculpin<\/li><li>Baby Swim Coach<\/li><li>Mini Peanut Envy #6<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_cKdhEc",
+        "text_block_zY8zcT",
+        "text_block_AXQGnW"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "left",
+        "divider": false
+      }
+    },
+    "featured_product_jzUbtr": {
+      "type": "featured-product",
+      "blocks": {
+        "price_qzC9PY": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "separator_DBjchP": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker_QaKGfK": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_UdhRpY": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description_JwXxeA": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "price_qzC9PY",
+        "separator_DBjchP",
+        "variant_picker_QaKGfK",
+        "buy_buttons_UdhRpY",
+        "description_JwXxeA"
+      ],
+      "settings": {
+        "featured_product": "{{ article.metafields.custom.fly_assortment.value }}",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "rich_text_jifnEU": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LYM8zq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>The 2023 season on the Cache La Poudre was an absolute blast!  If you have any questions about guide trips please contact us at 970-498-8968.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LYM8zq"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "",
+        "blog": "fishing-reports",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_mGrDTc",
+    "rich_text_A3XKJB",
+    "text_columns_jbNjYX",
+    "featured_product_jzUbtr",
+    "rich_text_jifnEU",
+    "blog-posts"
+  ]
+}
