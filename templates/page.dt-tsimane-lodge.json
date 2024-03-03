@@ -125,7 +125,7 @@
         "image_ghjLnX"
       ],
       "settings": {
-        "title_lines": "2",
+        "title_lines": "1",
         "title_font": "body",
         "title_size": 45,
         "title_color": "#ffffff",
@@ -135,7 +135,7 @@
         "slide_speed": 5,
         "color_overlay": "#000",
         "color_overlay_opacity": 30,
-        "desktop_height": "650px",
+        "desktop_height": "550px",
         "mobile_height": "auto",
         "lazyload_images": true
       }
