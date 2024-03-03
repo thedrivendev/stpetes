@@ -133,7 +133,7 @@
         "text_align": "vertical-center horizontal-center",
         "link": "",
         "slide_speed": 5,
-        "color_overlay": "#000",
+        "color_overlay": "#000000",
         "color_overlay_opacity": 30,
         "desktop_height": "550px",
         "mobile_height": "auto",
@@ -200,7 +200,7 @@
         "text_align": "vertical-center horizontal-center",
         "link": "",
         "slide_speed": 5,
-        "color_overlay": "#000",
+        "color_overlay": "#000000",
         "color_overlay_opacity": 30,
         "desktop_height": "650px",
         "mobile_height": "auto",
@@ -267,7 +267,7 @@
         "text_align": "vertical-center horizontal-center",
         "link": "",
         "slide_speed": 7,
-        "color_overlay": "#000",
+        "color_overlay": "#000000",
         "color_overlay_opacity": 30,
         "desktop_height": "550px",
         "mobile_height": "auto",
@@ -289,11 +289,19 @@
             "enlarge_text": true,
             "text": "<p>The lowest beat offered at Pluma Lodge consist of fishing the Secure below the confluence of the Pluma. Water has a tendency to be more off colored down low, but persistent casting and covering water pays off. This stretch is known for having the largest Golden Dorado as well as a good number of Pacu. Log jams and deep shelves make for ideal habitat for these golden monsters to live in. Beat 4 is accessed by a boat with a motor which allows you to work up and downstream as needed.<\/p><p>We recommend you fish all the beats as each of them provide a unique experience. Golden Dorado and Pacu can be found in all beats. Pacu are most frequently caught using the same method as Dorado. At the same time be sure to slow down and see if you can spot them in the deeper holes, creating the perfect sight casting opportunity.<\/p><p><\/p>"
           }
+        },
+        "button_4zjXmB": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "Tsimane Lodge Packing Video"
+          }
         }
       },
       "block_order": [
         "heading_UbYzMA",
-        "text_3NapPU"
+        "text_3NapPU",
+        "button_4zjXmB"
       ],
       "settings": {
         "align_text": "center",
