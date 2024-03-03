@@ -206,6 +206,33 @@
         "mobile_height": "auto",
         "lazyload_images": true
       }
+    },
+    "rich_text_zdFCfB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xyYmtb": {
+          "type": "heading",
+          "settings": {
+            "title": "Beat 3"
+          }
+        },
+        "text_UYfmUk": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Starting from the lodge down to the confluence of the Secure River this beat offers some really fantastic waters for Dorado. If the conditions are better on the Secure you also have the option to fish the bottom 2 miles above the confluence. The Pluma river in this stretch is famous for Dorado to school up and erupt sábalo along the bank. The lower half of the Pluma and the Secure have ideal run riffles with wood structure throughout. Pick pocket each whole and hold on as it won’t be long before the water will erupt. Beat 3 is accessed by a boat with a motor which allows you to work up and downstream as needed.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xyYmtb",
+        "text_UYfmUk"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -215,6 +242,7 @@
     "rich_text_DF9CLK",
     "fading_images_QGeDAk",
     "rich_text_j6fyBq",
-    "fading_images_Wgz7kH"
+    "fading_images_Wgz7kH",
+    "rich_text_zdFCfB"
   ]
 }
