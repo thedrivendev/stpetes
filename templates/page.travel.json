@@ -27,28 +27,6 @@
         "divider": false
       }
     },
-    "text_and_image_gQtAqw": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_1175_b5eea94d-0715-4e59-a779-10f8220ced66.jpg",
-        "image_mask": "none",
-        "image2": "shopify:\/\/shop_images\/b5f5ce07-0626-4b24-b140-2458d17e8552.jpg",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Tsimane Lodge, Bolivia",
-        "text": "<p>Find your chunk of gold in the jungle<\/p>",
-        "button_label": "",
-        "button_link": "shopify:\/\/blogs\/travel\/tsimane-lodge-bolivia",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "66",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -57,7 +35,6 @@
   },
   "order": [
     "rich_text_b9RwNP",
-    "text_and_image_gQtAqw",
     "main"
   ]
 }
