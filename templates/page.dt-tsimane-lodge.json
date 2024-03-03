@@ -139,6 +139,33 @@
         "mobile_height": "auto",
         "lazyload_images": true
       }
+    },
+    "rich_text_j6fyBq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6TnALd": {
+          "type": "heading",
+          "settings": {
+            "title": "Beat 2"
+          }
+        },
+        "text_pMG8K9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Typically for this beat you will start the day at the lodge and wade your way up river. 100% of this beat is on the Pluma River. Your day will consist of sight casting and watching for feeding frenzies along the flats. Fish will also be hanging in the riffles, structure and boulder gardens as you approach fast stretches of water. As you make your way upstream the boat will follow you with your gear, providing an easy transport back to the lodge.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6TnALd",
+        "text_pMG8K9"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -146,6 +173,7 @@
     "rich_text_JnWUcx",
     "advanced_content_R3haEd",
     "rich_text_DF9CLK",
-    "fading_images_QGeDAk"
+    "fading_images_QGeDAk",
+    "rich_text_j6fyBq"
   ]
 }
