@@ -1,5 +1,32 @@
 {
   "sections": {
+    "rich_text_b9RwNP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NmWmHL": {
+          "type": "heading",
+          "settings": {
+            "title": "Destination Fly Fishing Travel"
+          }
+        },
+        "text_NYaY4U": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>At St. Peter’s Fly Shop we always like taking fly fishing to the next level and what better than an exotic fly fishing destination. Whether you want to get a taste for salt water fly fishing in Belize, or maybe a trip to Patagonia, we at St. Peter’s have the gear and the knowledge to serve your destination travel needs.<\/p><p>No matter the location we will do our best to help you with your fly fishing arrangements, and one thing we can guarantee at the shop is that our staff is well traveled and experienced in every facet of destination fly fishing. You may also want to join us on one of our many shop hosted destination trips. Call the shop to check the latest locations and availability, or to let us help you customize the fly fishing trip of your life.<\/p><p> <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NmWmHL",
+        "text_NYaY4U"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -7,6 +34,7 @@
     }
   },
   "order": [
+    "rich_text_b9RwNP",
     "main"
   ]
 }
