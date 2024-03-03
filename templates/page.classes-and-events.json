@@ -139,6 +139,7 @@
         "image_6xkhGb": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/intermediate_tying.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
