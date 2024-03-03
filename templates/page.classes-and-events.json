@@ -1,5 +1,32 @@
 {
   "sections": {
+    "rich_text_jDrVCC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TPQekq": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_kKgDpx": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We believe that fly fishing is a never ending journey, and within that voyage you are always learning.  St. Peter’s offers a variety of classes for all levels and whether you are just starting out or an experienced angler, we have the perfect class to add to your fishing knowledge.  We enjoy teaching and helping people learn about every aspect of fly fishing. Try one of our entomology classes to increase your knowledge on bugs, or take a casting class and improve your accuracy and distance.  Join us for the ultimate learning experience with our full day fly fishing school that touches on many different engaging subjects as well as time on the water.  If you’re interested in taking your skills to the next level ask about our Guide School.  If you have any questions, or to reserve your space, give the shop a call and we would be happy to assist you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TPQekq",
+        "text_kKgDpx"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -244,36 +271,10 @@
         "space_around": true,
         "lazyload_images": true
       }
-    },
-    "rich_text_jDrVCC": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_TPQekq": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
-        "text_kKgDpx": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>We believe that fly fishing is a never ending journey, and within that voyage you are always learning.  St. Peter’s offers a variety of classes for all levels and whether you are just starting out or an experienced angler, we have the perfect class to add to your fishing knowledge.  We enjoy teaching and helping people learn about every aspect of fly fishing. Try one of our entomology classes to increase your knowledge on bugs, or take a casting class and improve your accuracy and distance.  Join us for the ultimate learning experience with our full day fly fishing school that touches on many different engaging subjects as well as time on the water.  If you’re interested in taking your skills to the next level ask about our Guide School.  If you have any questions, or to reserve your space, give the shop a call and we would be happy to assist you.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_TPQekq",
-        "text_kKgDpx"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
     }
   },
   "order": [
+    "rich_text_jDrVCC",
     "main",
     "advanced_content_MzwybV",
     "advanced_content_MUeCgG",
@@ -282,7 +283,6 @@
     "advanced_content_aJ3LVR",
     "advanced_content_jQ3p33",
     "advanced_content_xbHXBE",
-    "advanced_content_tycwaU",
-    "rich_text_jDrVCC"
+    "advanced_content_tycwaU"
   ]
 }
