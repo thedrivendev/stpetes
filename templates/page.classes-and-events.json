@@ -78,7 +78,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Intro_to_fly_Fishing.jpg",
-            "link": "",
+            "link": "shopify:\/\/blogs\/classes-and-events\/intro-to-fly-fishing",
             "width": "50%",
             "alignment": "center"
           }
@@ -100,6 +100,7 @@
         "image_nQrAKF": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/intro_to_tying.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
