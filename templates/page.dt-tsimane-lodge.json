@@ -5,9 +5,37 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "rich_text_JnWUcx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_y7U7Hp": {
+          "type": "heading",
+          "settings": {
+            "title": "Tsimane Lodge, Bolivia"
+          }
+        },
+        "text_rqbjiy": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Perched on the banks of the Pluma River in the exotic jungle of Bolivia, Tsimane’s Pluma Lodge is the premier location to pursue the incredible Golden Dorado. The Tsimane experience is unique, not only due to the location, it is a fishery that has been developed to create a sustainable angling model. To achieve this, Tsimane works in collaboration with the indigenous cultures to protect the unique fishery in a pristine environment. The Pluma lodge is a very comfortable jungle lodge built from sustainable wood cut from the nearby jungle. The lodge features 5 double rooms with private bathrooms, accommodating 7 anglers perfectly.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_y7U7Hp",
+        "text_rqbjiy"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_JnWUcx"
   ]
 }
