@@ -264,6 +264,33 @@
         "mobile_height": "auto",
         "lazyload_images": true
       }
+    },
+    "rich_text_aVLG7f": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UbYzMA": {
+          "type": "heading",
+          "settings": {
+            "title": "Beat 4"
+          }
+        },
+        "text_3NapPU": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The lowest beat offered at Pluma Lodge consist of fishing the Secure below the confluence of the Pluma. Water has a tendency to be more off colored down low, but persistent casting and covering water pays off. This stretch is known for having the largest Golden Dorado as well as a good number of Pacu. Log jams and deep shelves make for ideal habitat for these golden monsters to live in. Beat 4 is accessed by a boat with a motor which allows you to work up and downstream as needed.<\/p><p>We recommend you fish all the beats as each of them provide a unique experience. Golden Dorado and Pacu can be found in all beats. Pacu are most frequently caught using the same method as Dorado. At the same time be sure to slow down and see if you can spot them in the deeper holes, creating the perfect sight casting opportunity.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UbYzMA",
+        "text_3NapPU"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -275,6 +302,7 @@
     "rich_text_j6fyBq",
     "fading_images_Wgz7kH",
     "rich_text_zdFCfB",
-    "fading_images_A86Fti"
+    "fading_images_A86Fti",
+    "rich_text_aVLG7f"
   ]
 }
