@@ -63,11 +63,89 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "rich_text_DF9CLK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FMB6LM": {
+          "type": "heading",
+          "settings": {
+            "title": "Beat 1"
+          }
+        },
+        "text_CDqinw": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The upper most beat consists of the confluence of the Irtirisama and Pluma rivers. To reach this beat you will start with a 45 min buggy ride. From there you will walk wade and use a boat to access productive stretches. You can access the head waters of each of these rivers by hiking. As you make your way further up these stretches, you’ll find increased gradient and excellent holding water for resident Dorado. Beat one has a ton of opportunity depending on the physical ability of anglers but you can still encounter feeding frenzies in the lower stretches that will blow your mind.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FMB6LM",
+        "text_CDqinw"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "fading_images_QGeDAk": {
+      "type": "fading-images",
+      "blocks": {
+        "image_UPtzYR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3973.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        },
+        "image_VqmbJP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9380.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        },
+        "image_ghjLnX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5375.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_UPtzYR",
+        "image_VqmbJP",
+        "image_ghjLnX"
+      ],
+      "settings": {
+        "title_lines": "2",
+        "title_font": "body",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
+        "mobile_height": "auto",
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
     "rich_text_JnWUcx",
-    "advanced_content_R3haEd"
+    "advanced_content_R3haEd",
+    "rich_text_DF9CLK",
+    "fading_images_QGeDAk"
   ]
 }
