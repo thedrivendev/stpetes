@@ -389,6 +389,36 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "advanced_content_k6nYBj": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_qCQgTT": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_cMzp3b": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Upcoming Hosted Trips<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_qCQgTT",
+        "liquid_cMzp3b"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -403,6 +433,7 @@
     "fading_images_A86Fti",
     "rich_text_aVLG7f",
     "rich_text_7GfmLi",
-    "text_columns_jHfrwy"
+    "text_columns_jHfrwy",
+    "advanced_content_k6nYBj"
   ]
 }
