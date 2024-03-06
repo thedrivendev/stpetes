@@ -12,21 +12,39 @@
         "social_sharing_blog": true
       }
     },
-    "slideshow_ztMMap": {
-      "type": "slideshow",
+    "advanced_content_6PAXpT": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_kC3yLQ": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_YzKxEF": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>intro to tying<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_kC3yLQ",
+        "liquid_YzKxEF"
+      ],
       "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 5,
+        "full_width": false,
+        "space_around": true,
         "lazyload_images": true
       }
     }
   },
   "order": [
     "main",
-    "slideshow_ztMMap"
+    "advanced_content_6PAXpT"
   ]
 }
