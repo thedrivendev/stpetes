@@ -315,6 +315,37 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_FWf8dJ": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_DDeCYc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brown_cheek.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_tnFk4F": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Trout Behavior Class<\/h2><p>Trout fishing is an on-going puzzle that is always evolving, just as trout themselves are complex specimens that have learned to survive and adapt to ever-changing habitat and pressures. It is very easy to apply what others have told us to do on the water but knowing why we did it is another level of enlightenment.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_DDeCYc",
+        "liquid_tnFk4F"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -328,6 +359,7 @@
     "advanced_content_CEfCxg",
     "advanced_content_rfCHWb",
     "advanced_content_mnEKzg",
-    "advanced_content_hQ9czM"
+    "advanced_content_hQ9czM",
+    "advanced_content_FWf8dJ"
   ]
 }
