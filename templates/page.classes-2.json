@@ -129,6 +129,37 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_BnU4Bi": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_Ky8hQB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/soft_hackle_tying.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_KzrRGL": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Soft Hackle Tying Class<\/h2><p>This tying class focuses on the fundamentals of tying traditional soft hackle wet flies with our guide and soft hackle addict, Joe McHugh.  We will be tying three unique soft hackle patterns and discussing how to effectively fish such flies.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Ky8hQB",
+        "liquid_KzrRGL"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -136,6 +167,7 @@
     "advanced_content_e7xDt3",
     "advanced_content_g9cNhb",
     "advanced_content_qNdLhQ",
-    "advanced_content_FPWdaf"
+    "advanced_content_FPWdaf",
+    "advanced_content_BnU4Bi"
   ]
 }
