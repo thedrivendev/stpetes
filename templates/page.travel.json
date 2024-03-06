@@ -105,6 +105,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Duncan-Camp-Grant-Bow-1024x680_1.jpg",
             "image_mask": "square",
             "image_width": 650,
             "title": "Duncan Camp, Alaska",
