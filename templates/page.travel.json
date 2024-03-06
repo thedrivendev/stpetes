@@ -65,12 +65,13 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/bone_release_sector_d830b5cf-70cd-40b8-a738-e2f28d0e515b.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "title": "JDR, Avalon 4, Cuba",
+            "text": "<p>This vast marine park, which is bigger in size than the Florida Keys, is ideal for fly-fisherman who wish to live and experience fishing from dawn till dusk. Here we offer more fishing hours than any other destination.<\/p>",
+            "button_label": "Check out JDR",
+            "button_link": "shopify:\/\/blogs\/travel\/jdr-avalon-4-cuba"
           }
         }
       },
