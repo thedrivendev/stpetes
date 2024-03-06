@@ -308,6 +308,33 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "rich_text_7GfmLi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Jrkpep": {
+          "type": "heading",
+          "settings": {
+            "title": "Preparations and Packing"
+          }
+        },
+        "text_4ejJcd": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Preparing for a fly fishing trip to Bolivia is one of the most important aspects of the journey. Pluma Lodge, like all of Tsimanes lodges, are located deep in the jungle. Once you arrive at any of their lodges, it is critical that you bring everything you are going to need for the week as there is no place to resupply. That means all gear and personal items that you may need must be packed and brought with you. The assurance of proper preparation is the difference in a successful or unsuccessful visit to the jungle. Not to worry, if you read this write up, and follow our suggestions, we feel pretty certain you’ll be dialed for one of the best fly fishing experiences that you’ll never forget.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Jrkpep",
+        "text_4ejJcd"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -320,6 +347,7 @@
     "fading_images_Wgz7kH",
     "rich_text_zdFCfB",
     "fading_images_A86Fti",
-    "rich_text_aVLG7f"
+    "rich_text_aVLG7f",
+    "rich_text_7GfmLi"
   ]
 }
