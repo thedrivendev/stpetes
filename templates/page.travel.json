@@ -41,7 +41,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/image0_1.jpg",
-            "image_mask": "none",
+            "image_mask": "square",
             "image_width": 650,
             "title": "Tsimane Lodge, Bolivia",
             "text": "<p>Perched on the banks of the Pluma River in the exotic jungle of Bolivia, Tsimane’s Pluma Lodge is the premier location to pursue the incredible Golden Dorado.<\/p>",
@@ -54,7 +54,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/permit_cuba_3.24_2.jpg",
-            "image_mask": "none",
+            "image_mask": "square",
             "image_width": 650,
             "title": "Cayo Romano, Cuba",
             "text": "<p>Located on the northeast shore of the eastern province of Cuba, Cayo Romano (formerly Cayo Cruz) Lodge offers a huge variety of salt water fly fishing.<\/p>",
@@ -67,7 +67,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/AA_bone_release.jpg",
-            "image_mask": "none",
+            "image_mask": "square",
             "image_width": 650,
             "title": "JDR, Avalon 4, Cuba",
             "text": "<p>This vast marine park, which is bigger in size than the Florida Keys, is ideal for fly-fisherman who wish to live and experience fishing from dawn till dusk. Here we offer more fishing hours than any other destination.<\/p>",
@@ -80,12 +80,25 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/permit-in-water.jpg",
-            "image_mask": "none",
+            "image_mask": "square",
             "image_width": 650,
             "title": "Copal Tree Lodge, Belize",
             "text": "<p>Copal Tree Lodge in Punta Gorda, Belize, helped pioneer the ideas of sustainable food production and agritourism—ultimately becoming an award-winning, world-class destination welcoming discerning travelers from around the globe.<\/p>",
             "button_label": "Explore Copal Tree",
             "button_link": "shopify:\/\/blogs\/travel\/copal-tree-lodge-belize"
+          }
+        },
+        "text_block_7QmgfB": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/GT-Photo-Ross.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "Ikari House, Christmas Island",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
           }
         }
       },
@@ -93,7 +106,8 @@
         "text_block_a6XE6Q",
         "text_block_jgdW8f",
         "text_block_9HWREt",
-        "text_block_TmtetT"
+        "text_block_TmtetT",
+        "text_block_7QmgfB"
       ],
       "settings": {
         "title": "",
