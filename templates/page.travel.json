@@ -113,6 +113,19 @@
             "button_label": "Explore Duncan Camp",
             "button_link": "shopify:\/\/blogs\/travel\/duncan-camp-alaska"
           }
+        },
+        "text_block_WqkDrC": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/SpringCreeklodge00_1.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "Spring Creek Lodge, Argentina",
+            "text": "<p>Argentina’s Northern Patagonia, in the area surrounding Junin and San Martin de los Andes, is without question an anglers dream come true. Boundless trout fishing opportunities exist on its crystal clear rivers, secluded spring creeks and unspoiled mountain lakes.<\/p>",
+            "button_label": "Explore Spring Creek",
+            "button_link": "shopify:\/\/blogs\/travel\/spring-creek-lodge-argentina"
+          }
         }
       },
       "block_order": [
@@ -121,7 +134,8 @@
         "text_block_9HWREt",
         "text_block_TmtetT",
         "text_block_7QmgfB",
-        "text_block_dTQJhc"
+        "text_block_dTQJhc",
+        "text_block_WqkDrC"
       ],
       "settings": {
         "title": "",
