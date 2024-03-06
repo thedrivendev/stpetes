@@ -144,7 +144,8 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_mask": "none",
+            "image": "shopify:\/\/shop_images\/guests_on_this_river_back_of_shirt_cuba.jpg",
+            "image_mask": "square",
             "image_width": 650,
             "title": "Recent Trips",
             "text": "<p>Check out reports and photos from some of our recent travel!<\/p>",
