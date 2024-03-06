@@ -470,6 +470,37 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_4NCPcC": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_UgQydn": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Private Casting Lessons<\/h2><p>Every angler wants to throw tight loops and delicate presentations with their fly rod. Without proper muscle memory and a good understanding of your fly rod this can be nothing short of a frustrating task. Whether you are a seasoned angler or just picking up a fly rod for the first time, we want to help you understand how to unlock the maximum potential out of your fly rod, time, and money.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_VGJnJk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/casting_lesson.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_UgQydn",
+        "image_VGJnJk"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -488,6 +519,7 @@
     "advanced_content_WGj6TY",
     "advanced_content_MPbHdw",
     "advanced_content_qRhB8Q",
-    "advanced_content_kLke96"
+    "advanced_content_kLke96",
+    "advanced_content_4NCPcC"
   ]
 }
