@@ -191,6 +191,37 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_CEfCxg": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_rXz3Eb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/caddis-rock.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_JNKEM4": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>On Water Entomology<\/h2><p>Have you taken our Angler's Entomology class and want to bring your knowledge to the next level? Or maybe you like bugs, but not classrooms?  Our on the water Entomology class is just the ticket for you!  Experience on water knowledge of our local river and the bugs that inhabit it.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_rXz3Eb",
+        "liquid_JNKEM4"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -200,6 +231,7 @@
     "advanced_content_qNdLhQ",
     "advanced_content_FPWdaf",
     "advanced_content_BnU4Bi",
-    "advanced_content_Jh7GmR"
+    "advanced_content_Jh7GmR",
+    "advanced_content_CEfCxg"
   ]
 }
