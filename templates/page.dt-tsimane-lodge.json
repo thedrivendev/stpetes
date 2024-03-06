@@ -396,6 +396,7 @@
         "image_qCQgTT": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1175.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -404,7 +405,7 @@
         "liquid_cMzp3b": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Upcoming Hosted Trips<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2>Upcoming Hosted Trips<\/h2><p>August 16th-23rd, 2025\n$7,600 + ($120 National Park Fees, $550 Native Fees = $8,270<\/p>",
             "width": "50%",
             "alignment": "center"
           }
