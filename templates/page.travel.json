@@ -170,11 +170,39 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "rich_text_BrRXHq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9gy4JQ": {
+          "type": "heading",
+          "settings": {
+            "title": "Why Travel with St. Peter's Fly Shop"
+          }
+        },
+        "text_3rjjfH": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>St. Peter’s Fly Shop guarantees that we will have the best price on the market. Our experienced travel team is set out to find the best price for the most renowned and hidden lodges out there. We can assure you a great experience with our hands on approach in preparation, travel, and assistance at the lodge. Included in the trip price is casting classes, tying classes teaching you patterns for your specific location, and personal fishing advice. During your trip one of our host will travel with you to make sure every aspect of your trip can run as smooth as possible. Join one of our wonderful hosted trips and see for yourself all that St. Peter’s Travel has to offer.<\/p><p><\/p><p>If you have any questions or would like to chat more about our destination travel, please contact us at 970-498-8968 or email shop@stpetes.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9gy4JQ",
+        "text_3rjjfH"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "rich_text_b9RwNP",
     "main",
-    "text_columns_MWjEFP"
+    "text_columns_MWjEFP",
+    "rich_text_BrRXHq"
   ]
 }
