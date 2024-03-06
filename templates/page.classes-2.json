@@ -377,6 +377,37 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_MPbHdw": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_HVYUiH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Aaron-Nymphing.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_JMWYdD": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>On Water Nymphing Strategies<\/h2><p>Although one of the most effective ways to catch fish, nymphing also tends to be one of the most technical ways to catch fish. We wanted to put together a class that begins with basics and progresses in difficulty and technique throughout the class to help students understand why this method is so effective.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_HVYUiH",
+        "liquid_JMWYdD"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -392,6 +423,7 @@
     "advanced_content_mnEKzg",
     "advanced_content_hQ9czM",
     "advanced_content_FWf8dJ",
-    "advanced_content_WGj6TY"
+    "advanced_content_WGj6TY",
+    "advanced_content_MPbHdw"
   ]
 }
