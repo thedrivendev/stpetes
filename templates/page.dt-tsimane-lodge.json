@@ -347,7 +347,7 @@
             "image_width": 650,
             "title": "What's Included",
             "text": "<ul><li>7 nights at Pluma Lodge, 6 full days of guided fishing<\/li><li>Lodging in Santa Cruz, Bolivia on transfer days<\/li><li>All meals, water, soft drinks, beer, and alcohol while at the lodge<\/li><li>Transportation to and from Santa Cruz Airport to the lodge<\/li><li>Flights from Santa Cruz to Oromomo and back<\/li><li>Fishing License and all taxes<\/li><\/ul>",
-            "button_label": "Optional button",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -359,7 +359,7 @@
             "image_width": 650,
             "title": "What's Not Included",
             "text": "<ul><li>International flights to Santa Cruz, Bolivia<\/li><li>Accommodations outside the defined package above<\/li><li>Native Fees for passage on indigenous lands(see statement)<\/li><li>Gratuities for staff and guides<\/li><li>Personal Fishing Gear<\/li><li>Meals and beverages in Santa Cruz on transfer days.<\/li><li>Personal expenses<\/li><\/ul>",
-            "button_label": "Optional button",
+            "button_label": "",
             "button_link": ""
           }
         },
