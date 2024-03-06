@@ -126,6 +126,19 @@
             "button_label": "Explore Spring Creek",
             "button_link": "shopify:\/\/blogs\/travel\/spring-creek-lodge-argentina"
           }
+        },
+        "text_block_qEhYHR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/cory_permit.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "Costa de Cocos, Mexico",
+            "text": "<p>Costa de Cocos is a wonderful lodge for beginning saltwater anglers to experienced anglers alike. Being further south from populations of people offers endless flats and lagoons that are not nearly as pressured as some of the waters around the Yucatan.<\/p>",
+            "button_label": "Explore Costa de Cocos",
+            "button_link": "shopify:\/\/blogs\/travel\/costa-de-cocos-lodge-mexico"
+          }
         }
       },
       "block_order": [
@@ -135,7 +148,8 @@
         "text_block_TmtetT",
         "text_block_7QmgfB",
         "text_block_dTQJhc",
-        "text_block_WqkDrC"
+        "text_block_WqkDrC",
+        "text_block_qEhYHR"
       ],
       "settings": {
         "title": "",
