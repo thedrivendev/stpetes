@@ -100,6 +100,18 @@
             "button_label": "Explore Ikari House",
             "button_link": "shopify:\/\/blogs\/news\/ikari-house-christmas-island"
           }
+        },
+        "text_block_dTQJhc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "Duncan Camp, Alaska",
+            "text": "<p>If you've dreamed of catching chrome bright Salmon until your arms ached, this is the place it happens.<\/p>",
+            "button_label": "Explore Duncan Camp, Alaska",
+            "button_link": "shopify:\/\/blogs\/travel\/duncan-camp-alaska"
+          }
         }
       },
       "block_order": [
@@ -107,7 +119,8 @@
         "text_block_jgdW8f",
         "text_block_9HWREt",
         "text_block_TmtetT",
-        "text_block_7QmgfB"
+        "text_block_7QmgfB",
+        "text_block_dTQJhc"
       ],
       "settings": {
         "title": "",
