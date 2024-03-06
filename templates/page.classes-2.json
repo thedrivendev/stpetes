@@ -408,6 +408,37 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_qRhB8Q": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_jeja4d": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Warmwater Tactics Class<\/h2><p>Fly fishing is often thought of as a poetic way of catching trout in crystal clear mountain streams. A quiet, surreal experience filled with solitude, peace, and quiet. What we don’t think of is the large, aggressive, warmwater fish that are less than 10 minutes from our driveway right in the middle of Fort Collins.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_MBNCn7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/carpface-300x200.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_jeja4d",
+        "image_MBNCn7"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -424,6 +455,7 @@
     "advanced_content_hQ9czM",
     "advanced_content_FWf8dJ",
     "advanced_content_WGj6TY",
-    "advanced_content_MPbHdw"
+    "advanced_content_MPbHdw",
+    "advanced_content_qRhB8Q"
   ]
 }
