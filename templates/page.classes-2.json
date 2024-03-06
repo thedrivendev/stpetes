@@ -439,6 +439,37 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_kLke96": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_PG7LPR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spe_pic.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_Nnh3hA": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Spey School on the Miracle Mile<\/h2><p>Learn to spey cast on one of our favorite rivers. We will discuss technique and approaches to the river through the lens of spey casting and swinging flies for trout. <\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_PG7LPR",
+        "liquid_Nnh3hA"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -456,6 +487,7 @@
     "advanced_content_FWf8dJ",
     "advanced_content_WGj6TY",
     "advanced_content_MPbHdw",
-    "advanced_content_qRhB8Q"
+    "advanced_content_qRhB8Q",
+    "advanced_content_kLke96"
   ]
 }
