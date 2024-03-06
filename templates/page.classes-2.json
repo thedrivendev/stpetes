@@ -160,6 +160,37 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_Jh7GmR": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_E3fCgL": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Angler's Entomology<\/h2><p>One of the most challenging aspects about Fly Fishing is trying to find out what fish are eating. With a plethora of options at a fish’s disposal, this can be an incredibly intimidating and overwhelming puzzle. Knowing what flies to use and when to use them, can be all the difference between catching fish or coming home disappointed.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_7XBa3R": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ento_class.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_E3fCgL",
+        "image_7XBa3R"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -168,6 +199,7 @@
     "advanced_content_g9cNhb",
     "advanced_content_qNdLhQ",
     "advanced_content_FPWdaf",
-    "advanced_content_BnU4Bi"
+    "advanced_content_BnU4Bi",
+    "advanced_content_Jh7GmR"
   ]
 }
