@@ -73,12 +73,26 @@
             "button_label": "Explore JDR",
             "button_link": "shopify:\/\/blogs\/travel\/jdr-avalon-4-cuba"
           }
+        },
+        "text_block_TmtetT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/permit-in-water.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Copal Tree Lodge, Belize",
+            "text": "<p>Copal Tree Lodge in Punta Gorda, Belize, helped pioneer the ideas of sustainable food production and agritourism—ultimately becoming an award-winning, world-class destination welcoming discerning travelers from around the globe.<\/p>",
+            "button_label": "Explore Copal Tree",
+            "button_link": "shopify:\/\/blogs\/travel\/copal-tree-lodge-belize"
+          }
         }
       },
       "block_order": [
         "text_block_a6XE6Q",
         "text_block_jgdW8f",
-        "text_block_9HWREt"
+        "text_block_9HWREt",
+        "text_block_TmtetT"
       ],
       "settings": {
         "title": "",
