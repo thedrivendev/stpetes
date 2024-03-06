@@ -335,6 +335,58 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "text_columns_jHfrwy": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_QyMhKj": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "What's Included",
+            "text": "<ul><li>7 nights at Pluma Lodge, 6 full days of guided fishing<\/li><li>Lodging in Santa Cruz, Bolivia on transfer days<\/li><li>All meals, water, soft drinks, beer, and alcohol while at the lodge<\/li><li>Transportation to and from Santa Cruz Airport to the lodge<\/li><li>Flights from Santa Cruz to Oromomo and back<\/li><li>Fishing License and all taxes<\/li><\/ul>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_Q9mtN7": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "What's Not Included",
+            "text": "<ul><li>International flights to Santa Cruz, Bolivia<\/li><li>Accommodations outside the defined package above<\/li><li>Native Fees for passage on indigenous lands(see statement)<\/li><li>Gratuities for staff and guides<\/li><li>Personal Fishing Gear<\/li><li>Meals and beverages in Santa Cruz on transfer days.<\/li><li>Personal expenses<\/li><\/ul>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_MLqKV8": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_QyMhKj",
+        "text_block_Q9mtN7",
+        "text_block_MLqKV8"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -348,6 +400,7 @@
     "rich_text_zdFCfB",
     "fading_images_A86Fti",
     "rich_text_aVLG7f",
-    "rich_text_7GfmLi"
+    "rich_text_7GfmLi",
+    "text_columns_jHfrwy"
   ]
 }
