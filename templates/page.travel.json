@@ -139,6 +139,18 @@
             "button_label": "Explore Costa de Cocos",
             "button_link": "shopify:\/\/blogs\/travel\/costa-de-cocos-lodge-mexico"
           }
+        },
+        "text_block_XCAg3G": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Recent Trips",
+            "text": "<p>Check out reports and photos from some of our recent travel!<\/p>",
+            "button_label": "Explore Recent Trips",
+            "button_link": "shopify:\/\/blogs\/travel\/recent-destination-travel-trips"
+          }
         }
       },
       "block_order": [
@@ -149,7 +161,8 @@
         "text_block_7QmgfB",
         "text_block_dTQJhc",
         "text_block_WqkDrC",
-        "text_block_qEhYHR"
+        "text_block_qEhYHR",
+        "text_block_XCAg3G"
       ],
       "settings": {
         "title": "",
