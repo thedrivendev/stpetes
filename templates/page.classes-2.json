@@ -253,6 +253,37 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_mnEKzg": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_yE3NJw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rigging_for_trout_class.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_FnBpPP": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Rigging for Trout Class<\/h2><p>With hands on classroom time, we will discuss and tie a variety of rigs for different trout fishing situations.  From dry\/dropper to indicator to stillwater rigs, you will leave with the confidence to tie up your own rigs and the confidence to fish them with success.  This class has a maximum of 6 students to ensure hands on time with each student while learning to setup rigs.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_yE3NJw",
+        "liquid_FnBpPP"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -264,6 +295,7 @@
     "advanced_content_BnU4Bi",
     "advanced_content_Jh7GmR",
     "advanced_content_CEfCxg",
-    "advanced_content_rfCHWb"
+    "advanced_content_rfCHWb",
+    "advanced_content_mnEKzg"
   ]
 }
