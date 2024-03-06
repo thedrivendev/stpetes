@@ -343,6 +343,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IMG_5546.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "What's Included",
@@ -355,6 +356,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IMG_9523.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "What's Not Included",
