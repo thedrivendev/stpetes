@@ -36,10 +36,42 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_g9cNhb": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_xB8gba": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Intro to Fly Fishing<\/h2><p>St. Peter’s Intro to Fly Fishing is a class designed to introduce new anglers to the absolute fundamentals of fly fishing. We understand that there is a lot of conflicting information out there in regard to fly fishing basics and how to do things. Our Intro to Fly Fishing class will take out the guess work and give you the need-to-know information all beginning fly anglers should have.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_W3cM3N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FFS_image.jpg",
+            "link": "shopify:\/\/blogs\/classes-and-events\/signature-fly-fishing-school",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_xB8gba",
+        "image_W3cM3N"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
-    "advanced_content_e7xDt3"
+    "advanced_content_e7xDt3",
+    "advanced_content_g9cNhb"
   ]
 }
