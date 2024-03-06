@@ -96,9 +96,9 @@
             "image_mask": "square",
             "image_width": 650,
             "title": "Ikari House, Christmas Island",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "text": "<p>Amidst the vast inventory of the world’s saltwater flats destinations, Christmas Island is a unique and natural masterpiece that magically combines all the elements critical to fly fishing success.<\/p>",
+            "button_label": "Explore Ikari House",
+            "button_link": "shopify:\/\/blogs\/news\/ikari-house-christmas-island"
           }
         }
       },
