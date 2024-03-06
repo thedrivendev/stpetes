@@ -31,10 +31,63 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "text_columns_MWjEFP": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_a6XE6Q": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/image0_1.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Tsimane Lodge, Bolivia",
+            "text": "<p>Perched on the banks of the Pluma River in the exotic jungle of Bolivia, Tsimane’s Pluma Lodge is the premier location to pursue the incredible Golden Dorado.<\/p>",
+            "button_label": "Explore Tsimane Lodge",
+            "button_link": "shopify:\/\/blogs\/travel\/tsimane-lodge-bolivia"
+          }
+        },
+        "text_block_jgdW8f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_9HWREt": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_a6XE6Q",
+        "text_block_jgdW8f",
+        "text_block_9HWREt"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
     "rich_text_b9RwNP",
-    "main"
+    "main",
+    "text_columns_MWjEFP"
   ]
 }
