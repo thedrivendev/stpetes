@@ -383,11 +383,26 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_LqXdwX": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/cuda_teeth.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "image_reNVkm",
-        "image_AD7qzi"
+        "image_AD7qzi",
+        "image_LqXdwX"
       ],
       "settings": {
         "section_height": "650px",
