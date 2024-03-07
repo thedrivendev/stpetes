@@ -197,6 +197,51 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "slideshow_QRGhJB": {
+      "type": "slideshow",
+      "blocks": {
+        "image_fppRzn": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/tommy_cuda.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_844GKb": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide titles.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_fppRzn",
+        "image_844GKb"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -206,6 +251,7 @@
     "rich_text_DF9CLK",
     "fading_images_QGeDAk",
     "advanced_content_rqbTrn",
-    "rich_text_3C3ek9"
+    "rich_text_3C3ek9",
+    "slideshow_QRGhJB"
   ]
 }
