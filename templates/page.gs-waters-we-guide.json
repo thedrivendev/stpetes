@@ -49,7 +49,7 @@
         "liquid_MFNzeY": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Poudre River<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2>Big Thompson<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
