@@ -11,7 +11,7 @@
         "liquid_DAGn9k": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Poudre River<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2>Poudre River<\/h2><p>Short description using old page, we will have Thomas link to flybook instead of another page on the website<\/p>",
             "width": "50%",
             "alignment": "center"
           }
