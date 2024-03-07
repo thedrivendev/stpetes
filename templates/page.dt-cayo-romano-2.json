@@ -325,6 +325,33 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "rich_text_qHqLAe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HAXfDU": {
+          "type": "heading",
+          "settings": {
+            "title": "Trip Dates and Pricing"
+          }
+        },
+        "text_HUJMbD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>7 night\/ 6 Day package<\/strong><\/p><ul><li><strong>Feb 10 - 17, 2024 - Full<\/strong><\/li><li><strong>Feb 17 - 24, 2024 - Full<\/strong><\/li><li><strong>Feb 24 - March 2, 2024 - Full<\/strong><\/li><li><strong>Oct 5 - 12, 2024 - $3,790 - Spots Available<\/strong><\/li><li><strong>Oct 12 - 19, 2024 - Full<\/strong><\/li><li><strong>Oct 19 - 26, 2024- $3,790 - Full<\/strong><\/li><li><strong>Feb 22 - Mar 1, 2025 - $3,990 - Spots Available<\/strong><\/li><\/ul><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HAXfDU",
+        "text_HUJMbD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -337,6 +364,7 @@
     "rich_text_3C3ek9",
     "slideshow_QRGhJB",
     "rich_text_UipGpw",
-    "text_columns_HDiVfk"
+    "text_columns_HDiVfk",
+    "rich_text_qHqLAe"
   ]
 }
