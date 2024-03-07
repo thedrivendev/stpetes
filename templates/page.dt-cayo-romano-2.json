@@ -353,6 +353,51 @@
         "divider": false
       }
     },
+    "slideshow_azqXnh": {
+      "type": "slideshow",
+      "blocks": {
+        "image_reNVkm": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/flats_manifesto.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_AD7qzi": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide titles.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_reNVkm",
+        "image_AD7qzi"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "rich_text_kJLQfa": {
       "type": "rich-text",
       "blocks": {
@@ -393,6 +438,7 @@
     "rich_text_UipGpw",
     "text_columns_HDiVfk",
     "rich_text_qHqLAe",
+    "slideshow_azqXnh",
     "rich_text_kJLQfa"
   ]
 }
