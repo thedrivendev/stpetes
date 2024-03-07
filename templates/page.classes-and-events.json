@@ -40,7 +40,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Guide-wading-1024x768.jpg",
-            "link": "shopify:\/\/blogs\/classes-and-events\/signature-fly-fishing-school",
+            "link": "shopify:\/\/pages\/classes",
             "width": "50%",
             "alignment": "center"
           }
@@ -94,12 +94,76 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_NTwC4r": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_pQ47RX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/guide_school_image.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_VYEmpY": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Guide School<\/h2><p><\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_pQ47RX",
+        "liquid_VYEmpY"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_ULkGY9": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_38yJNT": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Upcoming Events<\/h2><p><\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_M98qEk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/old_town_front_shot.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_38yJNT",
+        "image_M98qEk"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "rich_text_jDrVCC",
     "main",
     "advanced_content_MzwybV",
-    "advanced_content_tycwaU"
+    "advanced_content_tycwaU",
+    "advanced_content_NTwC4r",
+    "advanced_content_ULkGY9"
   ]
 }
