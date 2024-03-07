@@ -373,12 +373,13 @@
         "image_AD7qzi": {
           "type": "image",
           "settings": {
-            "title": "Two line\nslide titles.",
+            "title": "",
             "title_size": 80,
-            "subheading": "And big, beautiful imagery",
+            "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_3865_square.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
