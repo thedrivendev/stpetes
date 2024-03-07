@@ -39,7 +39,7 @@
         "image_kEzYin": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image0_1.jpg",
+            "image": "shopify:\/\/shop_images\/JB-Permit-cuba-guide_1.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -48,7 +48,7 @@
         "liquid_3a7QBf": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>The Fishery<\/h2><p>The first thing that guests need to know about when considering this location, aside from the exceptional flats fishing that is found here is that this new fishery is still very much in its infancy. The flats are an inviting combination of hard packed white sand and a semi-firm mottled bottom that still provides good wading. And what a place this is for those who like to wade! It‘s very similar to Los Roques in terms of the amount of area that‘s wadable and there are places here where you can wade for 4 straight hours without heading back to the boat.\n\n\nCayo Romano demonstrates all the characteristics of a recently discovered, virgin fishing territory – large numbers of fish, good sizes and their evident lack of exposure to flies and leaders. Add to this the natural beauty of the cays and of the water and you have a truly memorable place to fish.<\/p>",
+            "code": "<h2>The Fishery<\/h2><p>The first thing that guests need to know about when considering this location, aside from the exceptional flats fishing that is found here is that this new fishery is still very much in its infancy. The flats are an inviting combination of hard packed white sand and a semi-firm mottled bottom that still provides good wading. And what a place this is for those who like to wade! It‘s very similar to Los Roques in terms of the amount of area that‘s wadable and there are places here where you can wade for 4 straight hours without heading back to the boat.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -97,7 +97,7 @@
         "image_UPtzYR": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3973.jpg",
+            "image": "shopify:\/\/shop_images\/permit_cuba_3.24_2.jpg",
             "slide_title1": "",
             "slide_title2": ""
           }
@@ -139,296 +139,6 @@
         "mobile_height": "auto",
         "lazyload_images": true
       }
-    },
-    "rich_text_j6fyBq": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_6TnALd": {
-          "type": "heading",
-          "settings": {
-            "title": "Beat 2"
-          }
-        },
-        "text_pMG8K9": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Typically for this beat you will start the day at the lodge and wade your way up river. 100% of this beat is on the Pluma River. Your day will consist of sight casting and watching for feeding frenzies along the flats. Fish will also be hanging in the riffles, structure and boulder gardens as you approach fast stretches of water. As you make your way upstream the boat will follow you with your gear, providing an easy transport back to the lodge.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_6TnALd",
-        "text_pMG8K9"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "fading_images_Wgz7kH": {
-      "type": "fading-images",
-      "blocks": {
-        "image_YGj6b4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9516.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
-        "image_6UHMzy": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_5401.jpg",
-            "slide_title1": "Use this section",
-            "slide_title2": "to impress customers"
-          }
-        }
-      },
-      "block_order": [
-        "image_YGj6b4",
-        "image_6UHMzy"
-      ],
-      "settings": {
-        "title_lines": "2",
-        "title_font": "body",
-        "title_size": 45,
-        "title_color": "#ffffff",
-        "title_bg_color": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "link": "",
-        "slide_speed": 5,
-        "color_overlay": "#000000",
-        "color_overlay_opacity": 30,
-        "desktop_height": "550px",
-        "mobile_height": "auto",
-        "lazyload_images": true
-      }
-    },
-    "rich_text_zdFCfB": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_xyYmtb": {
-          "type": "heading",
-          "settings": {
-            "title": "Beat 3"
-          }
-        },
-        "text_UYfmUk": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Starting from the lodge down to the confluence of the Secure River this beat offers some really fantastic waters for Dorado. If the conditions are better on the Secure you also have the option to fish the bottom 2 miles above the confluence. The Pluma river in this stretch is famous for Dorado to school up and erupt sábalo along the bank. The lower half of the Pluma and the Secure have ideal run riffles with wood structure throughout. Pick pocket each whole and hold on as it won’t be long before the water will erupt. Beat 3 is accessed by a boat with a motor which allows you to work up and downstream as needed.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_xyYmtb",
-        "text_UYfmUk"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "fading_images_A86Fti": {
-      "type": "fading-images",
-      "blocks": {
-        "image_dqLKFx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Picture2.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
-        "image_TUgqbq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_5555.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_dqLKFx",
-        "image_TUgqbq"
-      ],
-      "settings": {
-        "title_lines": "2",
-        "title_font": "body",
-        "title_size": 45,
-        "title_color": "#ffffff",
-        "title_bg_color": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "link": "",
-        "slide_speed": 5,
-        "color_overlay": "#000000",
-        "color_overlay_opacity": 30,
-        "desktop_height": "550px",
-        "mobile_height": "auto",
-        "lazyload_images": true
-      }
-    },
-    "rich_text_aVLG7f": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_UbYzMA": {
-          "type": "heading",
-          "settings": {
-            "title": "Beat 4"
-          }
-        },
-        "text_3NapPU": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>The lowest beat offered at Pluma Lodge consist of fishing the Secure below the confluence of the Pluma. Water has a tendency to be more off colored down low, but persistent casting and covering water pays off. This stretch is known for having the largest Golden Dorado as well as a good number of Pacu. Log jams and deep shelves make for ideal habitat for these golden monsters to live in. Beat 4 is accessed by a boat with a motor which allows you to work up and downstream as needed.<\/p><p>We recommend you fish all the beats as each of them provide a unique experience. Golden Dorado and Pacu can be found in all beats. Pacu are most frequently caught using the same method as Dorado. At the same time be sure to slow down and see if you can spot them in the deeper holes, creating the perfect sight casting opportunity.<\/p><p><\/p>"
-          }
-        },
-        "button_4zjXmB": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link": "https:\/\/www.youtube.com\/watch?v=fiF-1QFRU2g&rco=1",
-            "link_text": "Tsimane Lodge Packing Video"
-          }
-        }
-      },
-      "block_order": [
-        "heading_UbYzMA",
-        "text_3NapPU",
-        "button_4zjXmB"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "rich_text_7GfmLi": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Jrkpep": {
-          "type": "heading",
-          "settings": {
-            "title": "Preparations and Packing"
-          }
-        },
-        "text_4ejJcd": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Preparing for a fly fishing trip to Bolivia is one of the most important aspects of the journey. Pluma Lodge, like all of Tsimanes lodges, are located deep in the jungle. Once you arrive at any of their lodges, it is critical that you bring everything you are going to need for the week as there is no place to resupply. That means all gear and personal items that you may need must be packed and brought with you. The assurance of proper preparation is the difference in a successful or unsuccessful visit to the jungle. Not to worry, if you read this write up, and follow our suggestions, we feel pretty certain you’ll be dialed for one of the best fly fishing experiences that you’ll never forget.<\/p>"
-          }
-        },
-        "button_pTyYq7": {
-          "type": "button",
-          "settings": {
-            "link": "https:\/\/www.youtube.com\/watch?v=fiF-1QFRU2g&rco=1",
-            "link_text": "Tsimane Lodge Packing Video"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Jrkpep",
-        "text_4ejJcd",
-        "button_pTyYq7"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "text_columns_jHfrwy": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_QyMhKj": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/IMG_5546.jpg",
-            "image_mask": "square",
-            "image_width": 650,
-            "title": "What's Included",
-            "text": "<ul><li>7 nights at Pluma Lodge, 6 full days of guided fishing<\/li><li>Lodging in Santa Cruz, Bolivia on transfer days<\/li><li>All meals, water, soft drinks, beer, and alcohol while at the lodge<\/li><li>Transportation to and from Santa Cruz Airport to the lodge<\/li><li>Flights from Santa Cruz to Oromomo and back<\/li><li>Fishing License and all taxes<\/li><\/ul>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_Q9mtN7": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/IMG_9523.jpg",
-            "image_mask": "square",
-            "image_width": 650,
-            "title": "What's Not Included",
-            "text": "<ul><li>International flights to Santa Cruz, Bolivia<\/li><li>Accommodations outside the defined package above<\/li><li>Native Fees for passage on indigenous lands(see statement)<\/li><li>Gratuities for staff and guides<\/li><li>Personal Fishing Gear<\/li><li>Meals and beverages in Santa Cruz on transfer days.<\/li><li>Personal expenses<\/li><\/ul>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_MLqKV8": {
-          "type": "text_block",
-          "disabled": true,
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_QyMhKj",
-        "text_block_Q9mtN7",
-        "text_block_MLqKV8"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "advanced_content_k6nYBj": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_qCQgTT": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1175.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_cMzp3b": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Upcoming Hosted Trips<\/h2><p>August 16th-23rd, 2025\n$7,600 + ($120 National Park Fees, $550 Native Fees = $8,270<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_qCQgTT",
-        "liquid_cMzp3b"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -436,14 +146,6 @@
     "rich_text_JnWUcx",
     "advanced_content_R3haEd",
     "rich_text_DF9CLK",
-    "fading_images_QGeDAk",
-    "rich_text_j6fyBq",
-    "fading_images_Wgz7kH",
-    "rich_text_zdFCfB",
-    "fading_images_A86Fti",
-    "rich_text_aVLG7f",
-    "rich_text_7GfmLi",
-    "text_columns_jHfrwy",
-    "advanced_content_k6nYBj"
+    "fading_images_QGeDAk"
   ]
 }
