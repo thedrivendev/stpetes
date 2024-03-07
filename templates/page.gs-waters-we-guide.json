@@ -11,7 +11,7 @@
         "liquid_DAGn9k": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Poudre River<\/h2><p>Short description using old page, we will have Thomas link to flybook instead of another page on the website<\/p>",
+            "code": "<h2>Poudre River<\/h2><p>The Cache La Poudre is one of the only undammed rivers in the state and the canyon views are breathtaking. Only minutes away from our shop, this is our main local water and where most of our guide trips take place.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -19,6 +19,7 @@
         "image_zh7hCY": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6169.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -49,7 +50,7 @@
         "liquid_MFNzeY": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Big Thompson<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2>Big Thompson<\/h2><p>Beginning as a freestone stream in Rocky Mountain National Park, the Big Thompson River meanders through the beautiful mountain town of Estes Park, into Lake Estes and flows back out where you can fish the technical tailwater at the top of the canyon.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -64,11 +65,197 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_ftqX8b": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_46Nt6m": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Grey Reef \/ Miracle Mile<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_Jq6LnG": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_46Nt6m",
+        "image_Jq6LnG"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_U9CgE4": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_qKqUAL": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_Uq4jKD": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Rocky Mountain National Park<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_qKqUAL",
+        "liquid_Uq4jKD"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_T3AJdP": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_8pHTDj": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Upper North Platte<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_RwDadf": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_8pHTDj",
+        "image_RwDadf"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_wQNKcj": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_C4jGbw": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_qTfpmV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Encampment River<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_C4jGbw",
+        "liquid_qTfpmV"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_gwN43U": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_zNg8Q8": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Local Stillwater<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_3zYPjf": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_zNg8Q8",
+        "image_3zYPjf"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_X98RP3": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_fkVHBf": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_yXaaTy": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Horsetooth Reservoir<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_fkVHBf",
+        "liquid_yXaaTy"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
     "advanced_content_tycwaU",
-    "advanced_content_4rETVU"
+    "advanced_content_4rETVU",
+    "advanced_content_ftqX8b",
+    "advanced_content_U9CgE4",
+    "advanced_content_T3AJdP",
+    "advanced_content_wQNKcj",
+    "advanced_content_gwN43U",
+    "advanced_content_X98RP3"
   ]
 }
