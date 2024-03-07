@@ -219,18 +219,10 @@
           "settings": {
             "title": ""
           }
-        },
-        "text_b47Hid": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Besides the fishing for permit, bonefish and tarpon, you will also cast for other challenging species such<br\/>as mutton snapper, snook, cubera snapper, jack crevalle, barracuda and more!<\/p>"
-          }
         }
       },
       "block_order": [
-        "heading_zzr6yq",
-        "text_b47Hid"
+        "heading_zzr6yq"
       ],
       "settings": {
         "align_text": "center",
@@ -249,7 +241,7 @@
             "image_mask": "square",
             "image_width": 650,
             "title": "What's Included",
-            "text": "<ul><li>Lodging<\/li><li>All meals and beverages at the lodge<\/li><li>Guided fishing (1 guide for every 2 anglers)<\/li><\/ul>",
+            "text": "<ul><li>Lodging<\/li><li>All meals and beverages while on the liveaboard boat<\/li><li>Guided fishing (1 guide for every 2 anglers).<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -262,7 +254,7 @@
             "image_mask": "square",
             "image_width": 650,
             "title": "What's Not Included",
-            "text": "<ul><li>Travel outside of the package<\/li><li>Flights, and hotels<\/li><li>Personal fishing gear<\/li><li>Gratuities for staff and guide<\/li><li>Conservation fee<\/li><li>Cuba Visa<\/li><li>Personal expenses<\/li><\/ul>",
+            "text": "<ul><li>Travel outside of the package <\/li><li>Flights, and hotels<\/li><li>Personal fishing gear<\/li><li>Gratuities for staff and guide<\/li><li>Conservation fee<\/li><li>Cuba Visa<\/li><li>Personal expenses<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
