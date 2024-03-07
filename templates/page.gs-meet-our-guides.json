@@ -34,71 +34,61 @@
         "divider": false
       }
     },
-    "advanced_content_tycwaU": {
-      "type": "advanced-content",
+    "text_columns_TGHagA": {
+      "type": "text-columns",
       "blocks": {
-        "liquid_DAGn9k": {
-          "type": "liquid",
+        "text_block_3W363R": {
+          "type": "text_block",
           "settings": {
-            "code": "<h2>Poudre River<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
-            "width": "50%",
-            "alignment": "center"
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
           }
         },
-        "image_zh7hCY": {
-          "type": "image",
+        "text_block_CLCCPj": {
+          "type": "text_block",
           "settings": {
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_HpDNcw": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "liquid_DAGn9k",
-        "image_zh7hCY"
+        "text_block_3W363R",
+        "text_block_CLCCPj",
+        "text_block_HpDNcw"
       ],
       "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
-    },
-    "advanced_content_4rETVU": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_NWanYB": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_MFNzeY": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Poudre River<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_NWanYB",
-        "liquid_MFNzeY"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
+        "title": "",
+        "align_text": "center",
+        "divider": false
       }
     }
   },
   "order": [
     "main",
     "rich_text_7CMDYe",
-    "advanced_content_tycwaU",
-    "advanced_content_4rETVU"
+    "text_columns_TGHagA"
   ]
 }
