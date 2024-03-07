@@ -339,13 +339,40 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><strong>7 night\/ 6 Day package<\/strong><\/p><ul><li>Feb 10 - 17, 2024 - Full<\/li><li>Feb 17 - 24, 2024 - Full<\/li><li>Feb 24 - March 2, 2024 - Full<\/li><li>Oct 5 - 12, 2024 - $3,790 - Spots Available<\/li><li>Oct 12 - 19, 2024 - Full<\/li><li>Oct 19 - 26, 2024- $3,790 - Full<\/li><li>Feb 22 - Mar 1, 2025 - $3,990 - Spots Available<\/li><\/ul><p><\/p>"
+            "text": "<p><strong>7 night\/ 6 Day package<\/strong><\/p><p>-Feb 10 - 17, 2024 - Full<\/p><p>-Feb 17 - 24, 2024 - Full<\/p><p>-Feb 24 - March 2, 2024 - Full<\/p><p>-Oct 5 - 12, 2024 - $3,790 - Spots Available<\/p><p>-Oct 12 - 19, 2024 - Full<\/p><p>-Oct 19 - 26, 2024- $3,790 - Full<\/p><p>-Feb 22 - Mar 1, 2025 - $3,990 - Spots Available<\/p><p><\/p>"
           }
         }
       },
       "block_order": [
         "heading_HAXfDU",
         "text_HUJMbD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_kJLQfa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Bmy4zk": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_ejQWXp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Non-Angler Package price:  please inquire<\/p><p>\"<em>Cayo Romano <\/em>is part of our affiliated travel program. If our hosted dates don't work for you, we'd be happy to arrange custom trips at no extra charge.\"<\/p><p>For more information or to book your trip to Cayo Romano, please contact the shop <strong>(970)498-8968<\/strong>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Bmy4zk",
+        "text_ejQWXp"
       ],
       "settings": {
         "align_text": "center",
@@ -365,6 +392,7 @@
     "slideshow_QRGhJB",
     "rich_text_UipGpw",
     "text_columns_HDiVfk",
-    "rich_text_qHqLAe"
+    "rich_text_qHqLAe",
+    "rich_text_kJLQfa"
   ]
 }
