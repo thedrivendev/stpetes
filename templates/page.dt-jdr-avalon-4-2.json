@@ -39,7 +39,7 @@
         "image_kEzYin": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/JB-Permit-cuba-guide_1.jpg",
+            "image": "shopify:\/\/shop_images\/Joey-Permit-Cuba_d94e8b6f-4252-42b3-8f0f-060cffba069f.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -94,22 +94,6 @@
     "fading_images_QGeDAk": {
       "type": "fading-images",
       "blocks": {
-        "image_UPtzYR": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/permit_cuba_3.24_2.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
-        "image_VqmbJP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bone_release_sector_d830b5cf-70cd-40b8-a738-e2f28d0e515b.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
         "image_ghjLnX": {
           "type": "image",
           "settings": {
@@ -120,8 +104,6 @@
         }
       },
       "block_order": [
-        "image_UPtzYR",
-        "image_VqmbJP",
         "image_ghjLnX"
       ],
       "settings": {
@@ -155,7 +137,7 @@
         "liquid_QGmNNV": {
           "type": "liquid",
           "settings": {
-            "code": "<h2><\/h2><p>The average sized bonefish is a healthy 4 pounds and during the course of the week it is not unheard of for guests to land a fish or two in the 10 pound range. Tailing bonefish are common and guests can expect to see bonefish in singles and doubles, all the way up to schools of several hundred fish. What really sets this location apart from so many other fisheries is that guests can expect to encounter and get shots at good numbers of permit each day. There are very few places on earth where guests can fish for big bonefish each day and also get shots at tailing permit. This combination may take place in other locations but not with the consistency that is virtually guaranteed at Cayo Romano. It is a rare day when you don‘t encounter and get shots at permit. The permit will range in size between about 8 and 30 pounds.<\/p>",
+            "code": "<h2><\/h2><p>Fly fishing in Cuba is far different from other destinations in the Caribbean. Cuba has given these pristine areas protection as Cuban National Marine Parks, where no commercial fishing is allowed other than for lobster. Flats fish like tarpon, permit, bonefish, snook, mutton snapper, barracuda, and a variety of jacks are found in incredible numbers. Since the fishing pressure is so light in these areas, the fish rarely encounter sport fishermen and are unusually easy to catch.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -184,7 +166,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>The flats at Cayo Romano are a little deeper than those found in other areas of Cuba, which means that the bonefish and permit are still found in excellent numbers throughout the year. There are two locations within the Cayo Romano that offer very good tarpon fishing. Guides tend to save these areas for when an angler has already boated a permit and is looking for a Grand Slam. These fish will range from 30 to 90 pounds.<\/p>"
+            "text": "<p>Think about a place where you can fish more than 100 miles of flats without seeing another fisherman. A place where the flats fishing is so good, you can catch seven species of fish in one day. A place where big bonefish run toward your fly even when it hits the water too hard, rather than fleeing off the flat in the other direction. A place where you have a legitimate chance for a Grand Slam every day of the year. A place where big permit are as plentiful as they were in the Florida Keys 30 years ago. A place where you can wade miles of white-sand flats for big bonefish. A place where you’ll find enough big tarpon, jacks, cudas, and sharks on the flats to wear you out!<\/p>"
           }
         }
       },
