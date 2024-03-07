@@ -155,6 +155,62 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "featured_product_HpPyUx": {
+      "type": "featured-product",
+      "blocks": {
+        "price_9hcynt": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "separator_xcHjCT": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker_UV9rkU": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_7frU3h": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description_7pq84K": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "price_9hcynt",
+        "separator_xcHjCT",
+        "variant_picker_UV9rkU",
+        "buy_buttons_7frU3h",
+        "description_7pq84K"
+      ],
+      "settings": {
+        "featured_product": "poudre-river-fly-assortment",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
     }
   },
   "order": [
@@ -163,6 +219,7 @@
     "rich_text_A3XKJB",
     "text_columns_jbNjYX",
     "rich_text_jifnEU",
-    "blog-posts"
+    "blog-posts",
+    "featured_product_HpPyUx"
   ]
 }
