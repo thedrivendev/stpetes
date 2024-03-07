@@ -5,9 +5,37 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "rich_text_GLCrhT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gDqpxd": {
+          "type": "heading",
+          "settings": {
+            "title": "St. Peter's Fly Fishing Guide Service"
+          }
+        },
+        "text_UUGw88": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_gDqpxd",
+        "text_UUGw88"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_GLCrhT"
   ]
 }
