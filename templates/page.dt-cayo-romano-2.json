@@ -139,6 +139,37 @@
         "mobile_height": "auto",
         "lazyload_images": true
       }
+    },
+    "advanced_content_rqbTrn": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_Yc84zK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AA_big_boney.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_QGmNNV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2><\/h2><p>The average sized bonefish is a healthy 4 pounds and during the course of the week it is not unheard of for guests to land a fish or two in the 10 pound range. Tailing bonefish are common and guests can expect to see bonefish in singles and doubles, all the way up to schools of several hundred fish. What really sets this location apart from so many other fisheries is that guests can expect to encounter and get shots at good numbers of permit each day. There are very few places on earth where guests can fish for big bonefish each day and also get shots at tailing permit. This combination may take place in other locations but not with the consistency that is virtually guaranteed at Cayo Romano. It is a rare day when you don‘t encounter and get shots at permit. The permit will range in size between about 8 and 30 pounds.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Yc84zK",
+        "liquid_QGmNNV"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -146,6 +177,7 @@
     "rich_text_JnWUcx",
     "advanced_content_R3haEd",
     "rich_text_DF9CLK",
-    "fading_images_QGeDAk"
+    "fading_images_QGeDAk",
+    "advanced_content_rqbTrn"
   ]
 }
