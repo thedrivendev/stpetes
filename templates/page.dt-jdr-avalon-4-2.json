@@ -128,7 +128,7 @@
         "image_Yc84zK": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AA_big_boney.jpg",
+            "image": "shopify:\/\/shop_images\/Ross-Trigger-Xmas.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -183,34 +183,6 @@
     "slideshow_QRGhJB": {
       "type": "slideshow",
       "blocks": {
-        "image_fppRzn": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/tommy_cuda.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_844GKb": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/flats.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
         "image_84DPgd": {
           "type": "image",
           "settings": {
@@ -227,8 +199,6 @@
         }
       },
       "block_order": [
-        "image_fppRzn",
-        "image_844GKb",
         "image_84DPgd"
       ],
       "settings": {
