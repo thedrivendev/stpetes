@@ -285,6 +285,57 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "text_columns_HDiVfk": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_mfTVYa": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_VnVTWP": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_nL8adN": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_mfTVYa",
+        "text_block_VnVTWP",
+        "text_block_nL8adN"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -296,6 +347,7 @@
     "advanced_content_rqbTrn",
     "rich_text_3C3ek9",
     "slideshow_QRGhJB",
-    "rich_text_UipGpw"
+    "rich_text_UipGpw",
+    "text_columns_HDiVfk"
   ]
 }
