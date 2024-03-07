@@ -218,12 +218,27 @@
         "image_844GKb": {
           "type": "image",
           "settings": {
-            "title": "Two line\nslide titles.",
+            "title": "",
             "title_size": 80,
-            "subheading": "And big, beautiful imagery",
+            "subheading": "",
             "link": "",
             "link_text": "Optional button",
             "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/flats.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_84DPgd": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/tommy_tarpon.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -231,7 +246,8 @@
       },
       "block_order": [
         "image_fppRzn",
-        "image_844GKb"
+        "image_844GKb",
+        "image_84DPgd"
       ],
       "settings": {
         "section_height": "650px",
