@@ -201,7 +201,7 @@
         "description_7pq84K"
       ],
       "settings": {
-        "featured_product": "{{ article.metafields.custom.fly_assortment.value }}",
+        "featured_product": "poudre-river-fly-assortment",
         "divider": false,
         "sku_enable": false,
         "image_size": "medium",
