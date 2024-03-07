@@ -122,62 +122,6 @@
         "divider": false
       }
     },
-    "featured_product_jzUbtr": {
-      "type": "featured-product",
-      "blocks": {
-        "price_qzC9PY": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "separator_DBjchP": {
-          "type": "separator",
-          "settings": {
-          }
-        },
-        "variant_picker_QaKGfK": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "buy_buttons_UdhRpY": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true,
-            "show_gift_card_recipient": false
-          }
-        },
-        "description_JwXxeA": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        }
-      },
-      "block_order": [
-        "price_qzC9PY",
-        "separator_DBjchP",
-        "variant_picker_QaKGfK",
-        "buy_buttons_UdhRpY",
-        "description_JwXxeA"
-      ],
-      "settings": {
-        "featured_product": "poudre-river-fly-assortment",
-        "divider": false,
-        "sku_enable": false,
-        "image_size": "small",
-        "product_zoom_enable": true,
-        "thumbnail_position": "beside",
-        "thumbnail_arrows": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted"
-      }
-    },
     "rich_text_jifnEU": {
       "type": "rich-text",
       "blocks": {
@@ -185,7 +129,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><strong>The 2023 season on the Cache La Poudre was an absolute blast!  If you have any questions about guide trips please contact us at 970-498-8968.<\/strong><\/p>"
+            "text": "<p><strong>The 2024 season on the Cache La Poudre was an absolute blast!  If you have any questions about guide trips please contact us at 970-498-8968.<\/strong><\/p>"
           }
         }
       },
@@ -218,7 +162,6 @@
     "slideshow_mGrDTc",
     "rich_text_A3XKJB",
     "text_columns_jbNjYX",
-    "featured_product_jzUbtr",
     "rich_text_jifnEU",
     "blog-posts"
   ]
