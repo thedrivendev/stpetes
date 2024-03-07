@@ -170,6 +170,33 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "rich_text_3C3ek9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AtxVVc": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_j8ENNc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The flats at Cayo Romano are a little deeper than those found in other areas of Cuba, which means that the bonefish and permit are still found in excellent numbers throughout the year. There are two locations within the Cayo Romano that offer very good tarpon fishing. Guides tend to save these areas for when an angler has already boated a permit and is looking for a Grand Slam. These fish will range from 30 to 90 pounds.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AtxVVc",
+        "text_j8ENNc"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -178,6 +205,7 @@
     "advanced_content_R3haEd",
     "rich_text_DF9CLK",
     "fading_images_QGeDAk",
-    "advanced_content_rqbTrn"
+    "advanced_content_rqbTrn",
+    "rich_text_3C3ek9"
   ]
 }
