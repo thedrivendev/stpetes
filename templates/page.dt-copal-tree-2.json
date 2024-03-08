@@ -219,18 +219,10 @@
           "settings": {
             "title": ""
           }
-        },
-        "text_b47Hid": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Besides the fishing for permit, bonefish and tarpon, you will also cast for other challenging species such<br\/>as mutton snapper, snook, cubera snapper, jack crevalle, barracuda and more!<\/p>"
-          }
         }
       },
       "block_order": [
-        "heading_zzr6yq",
-        "text_b47Hid"
+        "heading_zzr6yq"
       ],
       "settings": {
         "align_text": "center",
