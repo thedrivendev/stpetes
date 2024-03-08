@@ -257,37 +257,6 @@
         "divider": false
       }
     },
-    "slideshow_azqXnh": {
-      "type": "slideshow",
-      "blocks": {
-        "image_LqXdwX": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/cuda_teeth.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_LqXdwX"
-      ],
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
     "rich_text_kJLQfa": {
       "type": "rich-text",
       "blocks": {
@@ -301,7 +270,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>\"Ikari House <\/em>is part of our affiliated travel program. If our hosted dates don't work for you, we'd be happy to arrange custom trips at no extra charge.\"For more information or to book your trip to Ikari House, please contact the shop (970)498-8968.<\/p>"
+            "text": "<p><em>Duncan Camp <\/em>is part of our affiliated travel program.If our hosted dates don't work for you, we'd be happy to arrange custom trips at no extra charge.For more information or to book your trip to Duncan Camp, please contact the shop (970)498-8968.<\/p>"
           }
         }
       },
@@ -327,7 +296,6 @@
     "rich_text_UipGpw",
     "text_columns_HDiVfk",
     "rich_text_qHqLAe",
-    "slideshow_azqXnh",
     "rich_text_kJLQfa"
   ]
 }
