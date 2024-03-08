@@ -94,22 +94,6 @@
     "fading_images_QGeDAk": {
       "type": "fading-images",
       "blocks": {
-        "image_UPtzYR": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/permit_cuba_3.24_2.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
-        "image_VqmbJP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bone_release_sector_d830b5cf-70cd-40b8-a738-e2f28d0e515b.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
         "image_ghjLnX": {
           "type": "image",
           "settings": {
@@ -120,8 +104,6 @@
         }
       },
       "block_order": [
-        "image_UPtzYR",
-        "image_VqmbJP",
         "image_ghjLnX"
       ],
       "settings": {
@@ -201,34 +183,6 @@
     "slideshow_QRGhJB": {
       "type": "slideshow",
       "blocks": {
-        "image_fppRzn": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/tommy_cuda.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_844GKb": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/flats.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
         "image_84DPgd": {
           "type": "image",
           "settings": {
@@ -245,8 +199,6 @@
         }
       },
       "block_order": [
-        "image_fppRzn",
-        "image_844GKb",
         "image_84DPgd"
       ],
       "settings": {
@@ -356,34 +308,6 @@
     "slideshow_azqXnh": {
       "type": "slideshow",
       "blocks": {
-        "image_reNVkm": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/flats_manifesto.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_AD7qzi": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/IMG_3865_square.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
         "image_LqXdwX": {
           "type": "image",
           "settings": {
@@ -400,8 +324,6 @@
         }
       },
       "block_order": [
-        "image_reNVkm",
-        "image_AD7qzi",
         "image_LqXdwX"
       ],
       "settings": {
