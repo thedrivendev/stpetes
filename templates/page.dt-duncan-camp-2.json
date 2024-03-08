@@ -12,14 +12,14 @@
         "heading_y7U7Hp": {
           "type": "heading",
           "settings": {
-            "title": "Ikari House, Christmas Island"
+            "title": "Kanektok River, Duncan Camp, Alaska"
           }
         },
         "text_rqbjiy": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>The fact that virtually every flats fishing angler in North America has heard of Christmas Island is far from coincidence. Amidst the vast inventory of the world’s saltwater flats destinations, Christmas Island is a unique and natural masterpiece that magically combines all the elements critical to fly fishing success. Endless hard sand flats fishing, remarkable numbers of cruising bonefish and trevally, and consistent year-round weather await all who visit this unique atoll.<\/p><p>Fly fishing guides at Ikari House have been handpicked for their overall level of experience and skill, calmness under pressure, and instructional abilities. Virtually all fly fishing entails sight casting to visible fish while wading in shallow water.  The fly fishing guides at the Ikari House are also among the atoll’s most skilled and passionate trevally hunters and love nothing more than to share with their guests the thrill of hooking these monsters. Excellent blue water fishing for tuna, wahoo, and trevally is also available.<\/p>"
+            "text": "<p>Dave Duncan & Sons, Ltd. features base camps that are deluxe tent camps complete with spacious kitchen and dining facilities, as well as a large social tent. The sleeping tents are spacious double occupancy tents that will stay dry in any weather. The meals served are excellent and come with homemade bread, fresh salads, and large cuts of quality meats. The base camps even have a hot shower facility.<\/p>"
           }
         }
       },
@@ -39,7 +39,7 @@
         "image_kEzYin": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GT-Photo-Ross.jpg",
+            "image": "shopify:\/\/shop_images\/Duncan-Camp-Grant-Bow-1024x680_2.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -48,7 +48,7 @@
         "liquid_3a7QBf": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>The Fishery<\/h2><p>Christmas Island is the world’s largest coral atoll and a virtual paradise for stalking bonefish. Having almost single-handedly brought the sport of fly-fishing for bonefish into the public consciousness, Christmas Island remains one of the best destinations in the world for both beginning and advanced saltwater anglers alike. The reasons for this are many. First, the Island’s vast hard sand flats enable anglers to wade fish all day in relative solitude. Second, the flats hold great numbers of bonefish that cruise in shallow water, providing anglers with constant opportunities or “shots” throughout their visit.<\/p>",
+            "code": "<h2>The Fishery<\/h2><p>If you've dreamed of catching chrome bright Salmon until your arms ached, this is the place it happens. Anglers from our Lower Camp have the opportunity to fish the countless Salmon pools in the lower eighteen miles of river. The Kanektok River has strong runs of King, Chum, Sockeye, Pink, and Silver Salmon. These fish are fresh from the sea and quick to attack the fly.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -77,7 +77,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>And last, but certainly not least, the atoll’s proximity to the equator (less than 200 miles) has blessed Christmas Island with consistently good weather, which enables a quality fishing experience year round. While the majority of the island’s bonefish average 2-4 pounds, fish in the 5-10 pound class are always a real possibility as are several species of trevally and triggerfish.<\/p>"
+            "text": "<p>The lower camp is known for its fantastic Salmon fishing but it also has some spectacular fishing for Rainbow, Arctic Char and Dolly Varden. With an abundance of 9 different species of fish, combined with incredible habitat, structure and holding water, the Kanektok river is truly one of the finest flyfishing rivers in Alaska.<\/p>"
           }
         }
       },
@@ -160,18 +160,10 @@
           "settings": {
             "title": ""
           }
-        },
-        "text_j8ENNc": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Whether you are an experienced saltwater angler or a novice keen on honing your flats fishing skills, Christmas Island Outfitters offers the finest and most intimate angling experience the island has to offer.<\/p>"
-          }
         }
       },
       "block_order": [
-        "heading_AtxVVc",
-        "text_j8ENNc"
+        "heading_AtxVVc"
       ],
       "settings": {
         "align_text": "center",
@@ -205,11 +197,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Ross-Trigger-Xmas.jpg",
+            "image": "shopify:\/\/shop_images\/char-1024x680.jpg",
             "image_mask": "square",
             "image_width": 650,
             "title": "What's Included",
-            "text": "<ul><li>Accommodations<\/li><li>Meals<\/li><li>Guide fees<\/li><li>Christmas Island ground transfers<\/li><li>Flats transportation<\/li><\/ul>",
+            "text": "<ul><li>Airport transfers to and from Quinhagak Airport<\/li><li>Lodging<\/li><li>All meals and snacks<\/li><li>Guided fishing (1 guide for every 2 anglers)<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -218,11 +210,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/IMG_7832.jpg",
+            "image": "shopify:\/\/shop_images\/fishon-1024x680.jpg",
             "image_mask": "square",
             "image_width": 650,
             "title": "What's Not Included",
-            "text": "<ul><li>Air fare to\/from Christmas Island <\/li><li>ALL beverages<\/li><li>Travel insurance<\/li><li>Gratuities ($20-30 per guide per day and $5-10 per day for room service)<\/li><li>Laundry services<\/li><li>Fishing licenses<\/li><li>Departure taxes<\/li><\/ul>",
+            "text": "<ul><li>Flights<\/li><li>Personal fishing gear<\/li><li>Gratuities for staff and guides<\/li><li>Personal expenses<\/li><li>Beverages<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
