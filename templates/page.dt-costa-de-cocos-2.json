@@ -137,7 +137,7 @@
         "liquid_QGmNNV": {
           "type": "liquid",
           "settings": {
-            "code": "<h2><\/h2><p>The average sized bonefish is a healthy 4 pounds and during the course of the week it is not unheard of for guests to land a fish or two in the 10 pound range. Tailing bonefish are common and guests can expect to see bonefish in singles and doubles, all the way up to schools of several hundred fish. What really sets this location apart from so many other fisheries is that guests can expect to encounter and get shots at good numbers of permit each day. There are very few places on earth where guests can fish for big bonefish each day and also get shots at tailing permit. This combination may take place in other locations but not with the consistency that is virtually guaranteed at Cayo Romano. It is a rare day when you don‘t encounter and get shots at permit. The permit will range in size between about 8 and 30 pounds.<\/p>",
+            "code": "<h2><\/h2><p>Need small writeup on costa fihery, size of fish, species etc<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -166,7 +166,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>The flats at Cayo Romano are a little deeper than those found in other areas of Cuba, which means that the bonefish and permit are still found in excellent numbers throughout the year. There are two locations within the Cayo Romano that offer very good tarpon fishing. Guides tend to save these areas for when an angler has already boated a permit and is looking for a Grand Slam. These fish will range from 30 to 90 pounds.<\/p>"
+            "text": "<p>Small blurb on the permit fishery specifically<\/p>"
           }
         }
       },
@@ -224,7 +224,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Besides the fishing for permit, bonefish and tarpon, you will also cast for other challenging species such<br\/>as mutton snapper, snook, cubera snapper, jack crevalle, barracuda and more!<\/p>"
+            "text": ""
           }
         }
       },
@@ -249,7 +249,7 @@
             "image_mask": "square",
             "image_width": 650,
             "title": "What's Included",
-            "text": "<ul><li>Lodging<\/li><li>All meals and beverages at the lodge<\/li><li>Guided fishing (1 guide for every 2 anglers)<\/li><\/ul>",
+            "text": "<ul><li>7 nights of lodging, 6 full days of guided fishing<\/li><li>All meals, water, soft drinks, beer, and alcohol<\/li><li>Transportation to and from Cancun Airport to the lodge<\/li><li>Fishing License and all taxes<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
