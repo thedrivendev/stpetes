@@ -1,0 +1,341 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "rich_text_JnWUcx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_y7U7Hp": {
+          "type": "heading",
+          "settings": {
+            "title": "Ikari House, Christmas Island"
+          }
+        },
+        "text_rqbjiy": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The fact that virtually every flats fishing angler in North America has heard of Christmas Island is far from coincidence. Amidst the vast inventory of the world’s saltwater flats destinations, Christmas Island is a unique and natural masterpiece that magically combines all the elements critical to fly fishing success. Endless hard sand flats fishing, remarkable numbers of cruising bonefish and trevally, and consistent year-round weather await all who visit this unique atoll.<\/p><p>Fly fishing guides at Ikari House have been handpicked for their overall level of experience and skill, calmness under pressure, and instructional abilities. Virtually all fly fishing entails sight casting to visible fish while wading in shallow water.  The fly fishing guides at the Ikari House are also among the atoll’s most skilled and passionate trevally hunters and love nothing more than to share with their guests the thrill of hooking these monsters. Excellent blue water fishing for tuna, wahoo, and trevally is also available.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_y7U7Hp",
+        "text_rqbjiy"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_R3haEd": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_kEzYin": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GT-Photo-Ross.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_3a7QBf": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>The Fishery<\/h2><p>Christmas Island is the world’s largest coral atoll and a virtual paradise for stalking bonefish. Having almost single-handedly brought the sport of fly-fishing for bonefish into the public consciousness, Christmas Island remains one of the best destinations in the world for both beginning and advanced saltwater anglers alike. The reasons for this are many. First, the Island’s vast hard sand flats enable anglers to wade fish all day in relative solitude. Second, the flats hold great numbers of bonefish that cruise in shallow water, providing anglers with constant opportunities or “shots” throughout their visit.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_kEzYin",
+        "liquid_3a7QBf"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_wFNWT6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_b4YfmT": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_3QbiFG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>And last, but certainly not least, the atoll’s proximity to the equator (less than 200 miles) has blessed Christmas Island with consistently good weather, which enables a quality fishing experience year round. While the majority of the island’s bonefish average 2-4 pounds, fish in the 5-10 pound class are always a real possibility as are several species of trevally and triggerfish.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_b4YfmT",
+        "text_3QbiFG"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_DF9CLK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FMB6LM": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Lodging"
+          }
+        },
+        "text_CDqinw": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The accommodations at Cayo Romano make this location ideal for anglers and non-anglers alike. Guests stay at a luxurious beach resort that is conveniently located across the road from the boat launch. For those that don’t want to fish, you can spend your time on white sand beaches or one of the resort's numerous relaxing swimming pools. When you return from a day on the water, there are multiple full service beverage bars as well as a wonderful variety of cuisine.<\/p><p>Cayo Romano offers an outstanding Cuban experience and some of the best flats fishing in the world!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FMB6LM",
+        "text_CDqinw"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_rqbTrn": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_Yc84zK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AA_big_boney.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_QGmNNV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2><\/h2><p>The average sized bonefish is a healthy 4 pounds and during the course of the week it is not unheard of for guests to land a fish or two in the 10 pound range. Tailing bonefish are common and guests can expect to see bonefish in singles and doubles, all the way up to schools of several hundred fish. What really sets this location apart from so many other fisheries is that guests can expect to encounter and get shots at good numbers of permit each day. There are very few places on earth where guests can fish for big bonefish each day and also get shots at tailing permit. This combination may take place in other locations but not with the consistency that is virtually guaranteed at Cayo Romano. It is a rare day when you don‘t encounter and get shots at permit. The permit will range in size between about 8 and 30 pounds.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Yc84zK",
+        "liquid_QGmNNV"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_3C3ek9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AtxVVc": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_j8ENNc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Whether you are an experienced saltwater angler or a novice keen on honing your flats fishing skills, Christmas Island Outfitters offers the finest and most intimate angling experience the island has to offer.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AtxVVc",
+        "text_j8ENNc"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_UipGpw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zzr6yq": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_zzr6yq"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_columns_HDiVfk": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_mfTVYa": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Ross-Trigger-Xmas.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "What's Included",
+            "text": "<ul><li>Accommodations<\/li><li>Meals<\/li><li>Guide fees<\/li><li>Christmas Island ground transfers<\/li><li>Flats transportation<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_VnVTWP": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IMG_7832.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "What's Not Included",
+            "text": "<ul><li>Air fare to\/from Christmas Island <\/li><li>ALL beverages<\/li><li>Travel insurance<\/li><li>Gratuities ($20-30 per guide per day and $5-10 per day for room service)<\/li><li>Laundry services<\/li><li>Fishing licenses<\/li><li>Departure taxes<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_mfTVYa",
+        "text_block_VnVTWP"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "rich_text_qHqLAe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HAXfDU": {
+          "type": "heading",
+          "settings": {
+            "title": "Upcoming Trips and Pricing"
+          }
+        },
+        "text_HUJMbD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>7 night\/ 6 Day package<\/strong><\/p><p>-Feb 26 - Mar 4, 2025 - $3,650 - Spots Available<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HAXfDU",
+        "text_HUJMbD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "slideshow_azqXnh": {
+      "type": "slideshow",
+      "blocks": {
+        "image_LqXdwX": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/cuda_teeth.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_LqXdwX"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_kJLQfa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Bmy4zk": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_ejQWXp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>\"Ikari House <\/em>is part of our affiliated travel program. If our hosted dates don't work for you, we'd be happy to arrange custom trips at no extra charge.\"For more information or to book your trip to Ikari House, please contact the shop (970)498-8968.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Bmy4zk",
+        "text_ejQWXp"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_JnWUcx",
+    "advanced_content_R3haEd",
+    "rich_text_wFNWT6",
+    "rich_text_DF9CLK",
+    "advanced_content_rqbTrn",
+    "rich_text_3C3ek9",
+    "rich_text_UipGpw",
+    "text_columns_HDiVfk",
+    "rich_text_qHqLAe",
+    "slideshow_azqXnh",
+    "rich_text_kJLQfa"
+  ]
+}
