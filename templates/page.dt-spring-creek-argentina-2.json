@@ -91,62 +91,13 @@
         "divider": false
       }
     },
-    "fading_images_QGeDAk": {
-      "type": "fading-images",
-      "blocks": {
-        "image_UPtzYR": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/permit_cuba_3.24_2.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
-        "image_VqmbJP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bone_release_sector_d830b5cf-70cd-40b8-a738-e2f28d0e515b.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
-        "image_ghjLnX": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1543.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_UPtzYR",
-        "image_VqmbJP",
-        "image_ghjLnX"
-      ],
-      "settings": {
-        "title_lines": "1",
-        "title_font": "body",
-        "title_size": 45,
-        "title_color": "#ffffff",
-        "title_bg_color": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "link": "",
-        "slide_speed": 5,
-        "color_overlay": "#000000",
-        "color_overlay_opacity": 30,
-        "desktop_height": "550px",
-        "mobile_height": "auto",
-        "lazyload_images": true
-      }
-    },
     "advanced_content_rqbTrn": {
       "type": "advanced-content",
       "blocks": {
         "image_Yc84zK": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AA_big_boney.jpg",
+            "image": "shopify:\/\/shop_images\/SpringCreeklodgeRiverCamp.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -155,7 +106,7 @@
         "liquid_QGmNNV": {
           "type": "liquid",
           "settings": {
-            "code": "<h2><\/h2><p>The average sized bonefish is a healthy 4 pounds and during the course of the week it is not unheard of for guests to land a fish or two in the 10 pound range. Tailing bonefish are common and guests can expect to see bonefish in singles and doubles, all the way up to schools of several hundred fish. What really sets this location apart from so many other fisheries is that guests can expect to encounter and get shots at good numbers of permit each day. There are very few places on earth where guests can fish for big bonefish each day and also get shots at tailing permit. This combination may take place in other locations but not with the consistency that is virtually guaranteed at Cayo Romano. It is a rare day when you don‘t encounter and get shots at permit. The permit will range in size between about 8 and 30 pounds.<\/p>",
+            "code": "<h2><\/h2><p>ANDES DRIFTERS DELUXE RIVER CAMPS\nAndes Drifters has offered this unique option for a multitude of years.\nTheir years of experience have literally equipped them to provide for all your needs. A dedicated camp staff is responsible for all camp chores.\nCAMP INCLUDES:\n*Dedicated camp staff and dedicated gear\/equipment rafts\n*Tents, cots with mattresses, bedside table and flashlight\n*Sleeping bags with a comfort range down to 32 degrees F\n*Dining tent with tables and chairs\n*Chemical toilet with surrounding tent\n*Hot water shower with surrounding tent\n*Electronic power supply to illuminate camp & recharge batteries\n*All snacks, hors d’ oeuvres and meals\n*Mini bar, including scotch, vodka, whiskey, wine, beer & ice<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -201,34 +152,6 @@
     "slideshow_QRGhJB": {
       "type": "slideshow",
       "blocks": {
-        "image_fppRzn": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/tommy_cuda.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_844GKb": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/flats.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
         "image_84DPgd": {
           "type": "image",
           "settings": {
@@ -245,8 +168,6 @@
         }
       },
       "block_order": [
-        "image_fppRzn",
-        "image_844GKb",
         "image_84DPgd"
       ],
       "settings": {
@@ -267,18 +188,10 @@
           "settings": {
             "title": ""
           }
-        },
-        "text_b47Hid": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Besides the fishing for permit, bonefish and tarpon, you will also cast for other challenging species such<br\/>as mutton snapper, snook, cubera snapper, jack crevalle, barracuda and more!<\/p>"
-          }
         }
       },
       "block_order": [
-        "heading_zzr6yq",
-        "text_b47Hid"
+        "heading_zzr6yq"
       ],
       "settings": {
         "align_text": "center",
@@ -297,7 +210,7 @@
             "image_mask": "square",
             "image_width": 650,
             "title": "What's Included",
-            "text": "<ul><li>Lodging<\/li><li>All meals and beverages at the lodge<\/li><li>Guided fishing (1 guide for every 2 anglers)<\/li><\/ul>",
+            "text": "<ul><li>5 nights at Spring Creek Lodge<\/li><li>1 night in an Andes Drifters Deluxe River Camp*<\/li><li>1 night in Bariloche at the Inacayal Hotel<\/li><li>All meals, soft drinks, beer, wine, and bar<\/li><li>6 1\/2 days of professionally guided fishing, including fishing license<\/li><li>All local transfers<\/li><li>2 wine tasting experiences - discovering the wines of Argentina<\/li><li>1 evening of local folk music <\/li><li>Voces de los Andes<\/li><li>1 evening tango dance performance<\/li><\/ul><p>*(If you do not wish to participate in the one night of camping you are welcome to stay at Spring Creek Lodge for two additional nights. However, this will increase your trip cost by an additional $200. Additionally, your return flight to Buenos Aires will be from San Martin de los Andes, not Bariloche.)<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -356,53 +269,22 @@
     "slideshow_azqXnh": {
       "type": "slideshow",
       "blocks": {
-        "image_reNVkm": {
+        "image_4Ykep6": {
           "type": "image",
           "settings": {
-            "title": "",
+            "title": "Two line\nslide title.",
             "title_size": 80,
-            "subheading": "",
+            "subheading": "And an optional subheading",
             "link": "",
-            "link_text": "",
+            "link_text": "Optional button",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/flats_manifesto.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_AD7qzi": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/IMG_3865_square.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_LqXdwX": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/cuda_teeth.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "image_reNVkm",
-        "image_AD7qzi",
-        "image_LqXdwX"
+        "image_4Ykep6"
       ],
       "settings": {
         "section_height": "650px",
@@ -447,7 +329,6 @@
     "rich_text_JnWUcx",
     "advanced_content_R3haEd",
     "rich_text_DF9CLK",
-    "fading_images_QGeDAk",
     "advanced_content_rqbTrn",
     "rich_text_3C3ek9",
     "slideshow_QRGhJB",
