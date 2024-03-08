@@ -183,34 +183,6 @@
     "slideshow_QRGhJB": {
       "type": "slideshow",
       "blocks": {
-        "image_fppRzn": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/tommy_cuda.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_844GKb": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/flats.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
         "image_84DPgd": {
           "type": "image",
           "settings": {
@@ -227,8 +199,6 @@
         }
       },
       "block_order": [
-        "image_fppRzn",
-        "image_844GKb",
         "image_84DPgd"
       ],
       "settings": {
@@ -270,38 +240,6 @@
     },
     "text_columns_HDiVfk": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_mfTVYa": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/IMG_7832.jpg",
-            "image_mask": "square",
-            "image_width": 650,
-            "title": "What's Included",
-            "text": "<ul><li>Lodging<\/li><li>All meals and beverages at the lodge<\/li><li>Guided fishing (1 guide for every 2 anglers)<\/li><\/ul>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_VnVTWP": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/tarpon_cuba_thomas.jpg",
-            "image_mask": "square",
-            "image_width": 650,
-            "title": "What's Not Included",
-            "text": "<ul><li>Travel outside of the package<\/li><li>Flights, and hotels<\/li><li>Personal fishing gear<\/li><li>Gratuities for staff and guide<\/li><li>Conservation fee<\/li><li>Cuba Visa<\/li><li>Personal expenses<\/li><\/ul>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_mfTVYa",
-        "text_block_VnVTWP"
-      ],
       "settings": {
         "title": "",
         "align_text": "center",
