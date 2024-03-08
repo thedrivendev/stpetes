@@ -1,0 +1,460 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "rich_text_JnWUcx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_y7U7Hp": {
+          "type": "heading",
+          "settings": {
+            "title": "Cayo Romano, Cuba"
+          }
+        },
+        "text_rqbjiy": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Located on the northeast shore of the eastern province of Cuba, Cayo Romano (formerly Cayo Cruz) Lodge offers a huge variety of salt water fly fishing. This newly formed fishery is surrounded by a marine park and offers an enormous and expansive system of flats, lagoons and pristine estuaries. Virtually untouched, this fishing location represents one of the cleanest and most biologically diverse ecosystems providing opportunities for catching bonefish, permit, tarpon, snook, and barracuda. The flats are an inviting combination of hard packed white sand and a semi-firm mottled bottom great for wade fishing. Spend the day wading or boat fishing the flats and then return to the  hotel for some rest and relaxation.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_y7U7Hp",
+        "text_rqbjiy"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_R3haEd": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_kEzYin": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cuba_flats.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_3a7QBf": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>The Fishery<\/h2><p>The first thing that guests need to know about when considering this location, aside from the exceptional flats fishing that is found here is that this new fishery is still very much in its infancy. The flats are an inviting combination of hard packed white sand and a semi-firm mottled bottom that still provides good wading. And what a place this is for those who like to wade! It‘s very similar to Los Roques in terms of the amount of area that‘s wadable and there are places here where you can wade for 4 straight hours without heading back to the boat.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_kEzYin",
+        "liquid_3a7QBf"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_DF9CLK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FMB6LM": {
+          "type": "heading",
+          "settings": {
+            "title": "Lodging"
+          }
+        },
+        "text_CDqinw": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The accommodations at Cayo Romano make this location ideal for anglers and non-anglers alike. Guests stay at a luxurious beach resort that is conveniently located across the road from the boat launch. For those that don’t want to fish, you can spend your time on white sand beaches or one of the resort's numerous relaxing swimming pools. When you return from a day on the water, there are multiple full service beverage bars as well as a wonderful variety of cuisine.<\/p><p>Cayo Romano offers an outstanding Cuban experience and some of the best flats fishing in the world!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FMB6LM",
+        "text_CDqinw"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "fading_images_QGeDAk": {
+      "type": "fading-images",
+      "blocks": {
+        "image_UPtzYR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/permit_cuba_3.24_2.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        },
+        "image_VqmbJP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bone_release_sector_d830b5cf-70cd-40b8-a738-e2f28d0e515b.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        },
+        "image_ghjLnX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1543.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_UPtzYR",
+        "image_VqmbJP",
+        "image_ghjLnX"
+      ],
+      "settings": {
+        "title_lines": "1",
+        "title_font": "body",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "550px",
+        "mobile_height": "auto",
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_rqbTrn": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_Yc84zK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AA_big_boney.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_QGmNNV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2><\/h2><p>The average sized bonefish is a healthy 4 pounds and during the course of the week it is not unheard of for guests to land a fish or two in the 10 pound range. Tailing bonefish are common and guests can expect to see bonefish in singles and doubles, all the way up to schools of several hundred fish. What really sets this location apart from so many other fisheries is that guests can expect to encounter and get shots at good numbers of permit each day. There are very few places on earth where guests can fish for big bonefish each day and also get shots at tailing permit. This combination may take place in other locations but not with the consistency that is virtually guaranteed at Cayo Romano. It is a rare day when you don‘t encounter and get shots at permit. The permit will range in size between about 8 and 30 pounds.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Yc84zK",
+        "liquid_QGmNNV"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_3C3ek9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AtxVVc": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_j8ENNc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The flats at Cayo Romano are a little deeper than those found in other areas of Cuba, which means that the bonefish and permit are still found in excellent numbers throughout the year. There are two locations within the Cayo Romano that offer very good tarpon fishing. Guides tend to save these areas for when an angler has already boated a permit and is looking for a Grand Slam. These fish will range from 30 to 90 pounds.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AtxVVc",
+        "text_j8ENNc"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "slideshow_QRGhJB": {
+      "type": "slideshow",
+      "blocks": {
+        "image_fppRzn": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/tommy_cuda.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_844GKb": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/flats.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_84DPgd": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/tommy_tarpon.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_fppRzn",
+        "image_844GKb",
+        "image_84DPgd"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_UipGpw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zzr6yq": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_b47Hid": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Besides the fishing for permit, bonefish and tarpon, you will also cast for other challenging species such<br\/>as mutton snapper, snook, cubera snapper, jack crevalle, barracuda and more!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zzr6yq",
+        "text_b47Hid"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_columns_HDiVfk": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_mfTVYa": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IMG_7832.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "What's Included",
+            "text": "<ul><li>Lodging<\/li><li>All meals and beverages at the lodge<\/li><li>Guided fishing (1 guide for every 2 anglers)<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_VnVTWP": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/tarpon_cuba_thomas.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "What's Not Included",
+            "text": "<ul><li>Travel outside of the package<\/li><li>Flights, and hotels<\/li><li>Personal fishing gear<\/li><li>Gratuities for staff and guide<\/li><li>Conservation fee<\/li><li>Cuba Visa<\/li><li>Personal expenses<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_mfTVYa",
+        "text_block_VnVTWP"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "rich_text_qHqLAe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HAXfDU": {
+          "type": "heading",
+          "settings": {
+            "title": "Upcoming Trips and Pricing"
+          }
+        },
+        "text_HUJMbD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>7 night\/ 6 Day package<\/strong><\/p><p>-Feb 10 - 17, 2024 - Full<\/p><p>-Feb 17 - 24, 2024 - Full<\/p><p>-Feb 24 - March 2, 2024 - Full<\/p><p>-Oct 5 - 12, 2024 - $3,790 - Spots Available<\/p><p>-Oct 12 - 19, 2024 - Full<\/p><p>-Oct 19 - 26, 2024- $3,790 - Full<\/p><p>-Feb 22 - Mar 1, 2025 - $3,990 - Spots Available<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HAXfDU",
+        "text_HUJMbD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "slideshow_azqXnh": {
+      "type": "slideshow",
+      "blocks": {
+        "image_reNVkm": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/flats_manifesto.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_AD7qzi": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_3865_square.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_LqXdwX": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/cuda_teeth.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_reNVkm",
+        "image_AD7qzi",
+        "image_LqXdwX"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_kJLQfa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Bmy4zk": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_ejQWXp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Non-Angler Package price:  please inquire<\/p><p>\"<em>Cayo Romano <\/em>is part of our affiliated travel program. If our hosted dates don't work for you, we'd be happy to arrange custom trips at no extra charge.\"<\/p><p>For more information or to book your trip to Cayo Romano, please contact the shop (970)498-8968.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Bmy4zk",
+        "text_ejQWXp"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_JnWUcx",
+    "advanced_content_R3haEd",
+    "rich_text_DF9CLK",
+    "fading_images_QGeDAk",
+    "advanced_content_rqbTrn",
+    "rich_text_3C3ek9",
+    "slideshow_QRGhJB",
+    "rich_text_UipGpw",
+    "text_columns_HDiVfk",
+    "rich_text_qHqLAe",
+    "slideshow_azqXnh",
+    "rich_text_kJLQfa"
+  ]
+}
