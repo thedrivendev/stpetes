@@ -61,12 +61,13 @@
         "image_EkpJm7": {
           "type": "image",
           "settings": {
-            "title": "Endless\npossibilities.",
+            "title": "",
             "title_size": 80,
-            "subheading": "Bring your brand to life",
+            "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/guide_school_fish.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
