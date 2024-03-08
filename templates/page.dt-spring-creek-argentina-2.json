@@ -39,7 +39,7 @@
         "image_kEzYin": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cuba_flats.jpg",
+            "image": "shopify:\/\/shop_images\/SpringCreeklodge1.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -48,7 +48,7 @@
         "liquid_3a7QBf": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>The Fishery<\/h2><p>The first thing that guests need to know about when considering this location, aside from the exceptional flats fishing that is found here is that this new fishery is still very much in its infancy. The flats are an inviting combination of hard packed white sand and a semi-firm mottled bottom that still provides good wading. And what a place this is for those who like to wade! It‘s very similar to Los Roques in terms of the amount of area that‘s wadable and there are places here where you can wade for 4 straight hours without heading back to the boat.<\/p>",
+            "code": "<h2>The Fishery<\/h2><p> Argentina’s Northern Patagonia, in the area surrounding Junin and San Martin de los Andes, is without question an anglers dream come true. Boundless trout fishing opportunities exist on its crystal clear rivers, secluded spring creeks and unspoiled mountain lakes.  Andes Drifters, located in San Martin de los Andes, will be our local hosts. Their entire organization is committed to providing anglers with the trout fishing adventure of a lifetime. They are very professional and strive to deliver the highest standard of service.\n<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -77,7 +77,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>The accommodations at Cayo Romano make this location ideal for anglers and non-anglers alike. Guests stay at a luxurious beach resort that is conveniently located across the road from the boat launch. For those that don’t want to fish, you can spend your time on white sand beaches or one of the resort's numerous relaxing swimming pools. When you return from a day on the water, there are multiple full service beverage bars as well as a wonderful variety of cuisine.<\/p><p>Cayo Romano offers an outstanding Cuban experience and some of the best flats fishing in the world!<\/p>"
+            "text": "<p>Spring Creek Lodge is a dedicated fly fishing lodge located in Junin de los Andes. The lodge is situated adjacent to the Chimehuin River and also has easy access to many of the other local rivers. Including the Alumine,<br\/>Caleufu, Collon Cura and Malleo.  The lodge has six individual private chalets that contain two bedrooms,<br\/>shared bath and a living room. A great feature of lodging at SCL is that each angler has his or her own private bedroom. We have the entire lodge to ourselves. The lodge can accommodate 12 guests.  Meals are served in the clubhouse which includes a dining area, bar and<br\/>lounge. The dedicated staff provides great service and the chef prepares fresh gourmet meals nightly.<\/p>"
           }
         }
       },
