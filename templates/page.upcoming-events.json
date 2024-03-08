@@ -12,6 +12,7 @@
         "image_zE6BYe": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Craven-fly-tying.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -20,7 +21,7 @@
         "liquid_yjViAJ": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2>Craven Demo<\/h2><p>March 9th @ South 10:30am-1:00pm<\/p>",
             "width": "50%",
             "alignment": "center"
           }
