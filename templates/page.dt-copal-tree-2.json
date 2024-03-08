@@ -94,17 +94,17 @@
     "fading_images_QGeDAk": {
       "type": "fading-images",
       "blocks": {
-        "image_ghjLnX": {
+        "image_i4raFV": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1543.jpg",
+            "image": "shopify:\/\/shop_images\/copal-tree-jungle-room_1.jpg",
             "slide_title1": "",
             "slide_title2": ""
           }
         }
       },
       "block_order": [
-        "image_ghjLnX"
+        "image_i4raFV"
       ],
       "settings": {
         "title_lines": "1",
