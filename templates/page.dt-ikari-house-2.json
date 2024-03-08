@@ -96,12 +96,14 @@
       "blocks": {
         "heading_FMB6LM": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Lodging"
           }
         },
         "text_CDqinw": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": true,
             "text": "<p>The accommodations at Cayo Romano make this location ideal for anglers and non-anglers alike. Guests stay at a luxurious beach resort that is conveniently located across the road from the boat launch. For those that don’t want to fish, you can spend your time on white sand beaches or one of the resort's numerous relaxing swimming pools. When you return from a day on the water, there are multiple full service beverage bars as well as a wonderful variety of cuisine.<\/p><p>Cayo Romano offers an outstanding Cuban experience and some of the best flats fishing in the world!<\/p>"
@@ -116,37 +118,6 @@
         "align_text": "center",
         "narrow_column": true,
         "divider": false
-      }
-    },
-    "fading_images_QGeDAk": {
-      "type": "fading-images",
-      "blocks": {
-        "image_ghjLnX": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1543.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_ghjLnX"
-      ],
-      "settings": {
-        "title_lines": "1",
-        "title_font": "body",
-        "title_size": 45,
-        "title_color": "#ffffff",
-        "title_bg_color": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "link": "",
-        "slide_speed": 5,
-        "color_overlay": "#000000",
-        "color_overlay_opacity": 30,
-        "desktop_height": "550px",
-        "mobile_height": "auto",
-        "lazyload_images": true
       }
     },
     "advanced_content_rqbTrn": {
@@ -174,6 +145,7 @@
         "image_Yc84zK",
         "liquid_QGmNNV"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": true,
@@ -193,7 +165,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>The flats at Cayo Romano are a little deeper than those found in other areas of Cuba, which means that the bonefish and permit are still found in excellent numbers throughout the year. There are two locations within the Cayo Romano that offer very good tarpon fishing. Guides tend to save these areas for when an angler has already boated a permit and is looking for a Grand Slam. These fish will range from 30 to 90 pounds.<\/p>"
+            "text": "<p>Whether you are an experienced saltwater angler or a novice keen on honing your flats fishing skills, Christmas Island Outfitters offers the finest and most intimate angling experience the island has to offer.<\/p>"
           }
         }
       },
@@ -207,37 +179,6 @@
         "divider": false
       }
     },
-    "slideshow_QRGhJB": {
-      "type": "slideshow",
-      "blocks": {
-        "image_84DPgd": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/tommy_tarpon.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_84DPgd"
-      ],
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
     "rich_text_UipGpw": {
       "type": "rich-text",
       "blocks": {
@@ -246,18 +187,10 @@
           "settings": {
             "title": ""
           }
-        },
-        "text_b47Hid": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Besides the fishing for permit, bonefish and tarpon, you will also cast for other challenging species such<br\/>as mutton snapper, snook, cubera snapper, jack crevalle, barracuda and more!<\/p>"
-          }
         }
       },
       "block_order": [
-        "heading_zzr6yq",
-        "text_b47Hid"
+        "heading_zzr6yq"
       ],
       "settings": {
         "align_text": "center",
@@ -276,7 +209,7 @@
             "image_mask": "square",
             "image_width": 650,
             "title": "What's Included",
-            "text": "<ul><li>Lodging<\/li><li>All meals and beverages at the lodge<\/li><li>Guided fishing (1 guide for every 2 anglers)<\/li><\/ul>",
+            "text": "<ul><li>Accommodations<\/li><li>Meals<\/li><li>Guide fees<\/li><li>Christmas Island ground transfers<\/li><li>Flats transportation<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -397,10 +330,8 @@
     "advanced_content_R3haEd",
     "rich_text_wFNWT6",
     "rich_text_DF9CLK",
-    "fading_images_QGeDAk",
     "advanced_content_rqbTrn",
     "rich_text_3C3ek9",
-    "slideshow_QRGhJB",
     "rich_text_UipGpw",
     "text_columns_HDiVfk",
     "rich_text_qHqLAe",
