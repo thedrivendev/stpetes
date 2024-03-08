@@ -12,14 +12,14 @@
         "heading_y7U7Hp": {
           "type": "heading",
           "settings": {
-            "title": "Cayo Romano, Cuba"
+            "title": "Costa de Cocos, Mexico"
           }
         },
         "text_rqbjiy": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Located on the northeast shore of the eastern province of Cuba, Cayo Romano (formerly Cayo Cruz) Lodge offers a huge variety of salt water fly fishing. This newly formed fishery is surrounded by a marine park and offers an enormous and expansive system of flats, lagoons and pristine estuaries. Virtually untouched, this fishing location represents one of the cleanest and most biologically diverse ecosystems providing opportunities for catching bonefish, permit, tarpon, snook, and barracuda. The flats are an inviting combination of hard packed white sand and a semi-firm mottled bottom great for wade fishing. Spend the day wading or boat fishing the flats and then return to the  hotel for some rest and relaxation.<\/p>"
+            "text": "<p>Costa de Cocos is located at the end of the southern Yucatan Peninsula, the last village (Xcalak)in Mexico, just 8 miles north of the Belize border. Owned and operated by the same owners for the past 24yrs, there is no one who knows these expansive flats better. At Costa de Cocos, your comfort is very important. Their private cabanas have traditional exterior stonework, exotic tropical woods, native thatch palapa roofs, ceiling fans, and louvered windows all around that capture the cooling Caribbean breeze. Each cabana has it's own private bathroom & shower, fresh hot water, and daily maid service. Their fully stocked bar, home made margaritas and cold cervezas are available anytime.<\/p>"
           }
         }
       },
@@ -39,7 +39,7 @@
         "image_kEzYin": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cuba_flats.jpg",
+            "image": "shopify:\/\/shop_images\/AA_Permit_20695ddf-c118-4cd5-abd4-d7bbe651348d.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -48,7 +48,7 @@
         "liquid_3a7QBf": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>The Fishery<\/h2><p>The first thing that guests need to know about when considering this location, aside from the exceptional flats fishing that is found here is that this new fishery is still very much in its infancy. The flats are an inviting combination of hard packed white sand and a semi-firm mottled bottom that still provides good wading. And what a place this is for those who like to wade! It‘s very similar to Los Roques in terms of the amount of area that‘s wadable and there are places here where you can wade for 4 straight hours without heading back to the boat.<\/p>",
+            "code": "<h2>The Fishery<\/h2><p>Costa de Cocos is a wonderful lodge for beginning saltwater anglers to experienced anglers alike. Being further south from populations of people offers endless flats and lagoons that are not nearly as pressured as some of the waters around the Yucatan. In front of the Lodge to the East, are 22 miles of newly formed National Marine Park protected by a reef creating excellent habitat for flats species. To the West is a playground of more than 30 flats in the Chetumal Bay. <\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -70,14 +70,14 @@
         "heading_FMB6LM": {
           "type": "heading",
           "settings": {
-            "title": "Lodging"
+            "title": ""
           }
         },
         "text_CDqinw": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>The accommodations at Cayo Romano make this location ideal for anglers and non-anglers alike. Guests stay at a luxurious beach resort that is conveniently located across the road from the boat launch. For those that don’t want to fish, you can spend your time on white sand beaches or one of the resort's numerous relaxing swimming pools. When you return from a day on the water, there are multiple full service beverage bars as well as a wonderful variety of cuisine.<\/p><p>Cayo Romano offers an outstanding Cuban experience and some of the best flats fishing in the world!<\/p>"
+            "text": "<p>With such a large variety of water, there are great<br\/>opportunities for Bonefish, Permit, and Tarpon. Those species are present year<br\/>round and you can also target Snook, Jacks, Tuna, Barracuda, Snapper, Grouper,<br\/>Dorado, Marlin, Sailfish, and more. The lodge operates out of 23ft panga boats<br\/>with custom built casting platforms perfect for polling flats, but Chetumal bay<br\/>offers some of the best wading in the Yucatan.<\/p>"
           }
         }
       },
@@ -94,34 +94,16 @@
     "fading_images_QGeDAk": {
       "type": "fading-images",
       "blocks": {
-        "image_UPtzYR": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/permit_cuba_3.24_2.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
-        "image_VqmbJP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bone_release_sector_d830b5cf-70cd-40b8-a738-e2f28d0e515b.jpg",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
         "image_ghjLnX": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1543.jpg",
+            "image": "shopify:\/\/shop_images\/Costa-de-cocos-cabanas.jpg",
             "slide_title1": "",
             "slide_title2": ""
           }
         }
       },
       "block_order": [
-        "image_UPtzYR",
-        "image_VqmbJP",
         "image_ghjLnX"
       ],
       "settings": {
@@ -146,7 +128,7 @@
         "image_Yc84zK": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AA_big_boney.jpg",
+            "image": "shopify:\/\/shop_images\/big_perm_costa_20097c8e-2ed1-488d-b3cc-3635b103258f.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -201,34 +183,6 @@
     "slideshow_QRGhJB": {
       "type": "slideshow",
       "blocks": {
-        "image_fppRzn": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/tommy_cuda.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_844GKb": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/flats.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
         "image_84DPgd": {
           "type": "image",
           "settings": {
@@ -245,8 +199,6 @@
         }
       },
       "block_order": [
-        "image_fppRzn",
-        "image_844GKb",
         "image_84DPgd"
       ],
       "settings": {
@@ -356,34 +308,6 @@
     "slideshow_azqXnh": {
       "type": "slideshow",
       "blocks": {
-        "image_reNVkm": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/flats_manifesto.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_AD7qzi": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/IMG_3865_square.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
         "image_LqXdwX": {
           "type": "image",
           "settings": {
@@ -400,8 +324,6 @@
         }
       },
       "block_order": [
-        "image_reNVkm",
-        "image_AD7qzi",
         "image_LqXdwX"
       ],
       "settings": {
