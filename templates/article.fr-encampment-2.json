@@ -18,13 +18,13 @@
         "image_PFHApD": {
           "type": "image",
           "settings": {
-            "title": "Upper North Platte Fishing Report",
+            "title": "Encampment Fishing report",
             "title_size": 48,
             "subheading": "",
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/upper_northgate.jpg",
+            "image": "shopify:\/\/shop_images\/upper_campy_ad73d767-115e-4368-9170-d5a47a6df489.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -50,7 +50,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><strong>Last Updated:<\/strong><\/p><p><strong>Current Streamflow: Gauge is frozen for the Winter <\/strong>@ Northgate Canyon.<\/p>"
+            "text": "<p><strong>Last Updated: 2\/19\/24<\/strong><\/p><p><strong>Current Streamflow: Frozen <\/strong>@ Encampment<\/p>"
           }
         },
         "text_7NPt7d": {
