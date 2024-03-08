@@ -1,0 +1,525 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "advanced_content_e7xDt3": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_6igNtR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FFS_image.jpg",
+            "link": "shopify:\/\/blogs\/classes-and-events\/signature-fly-fishing-school",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_hG8WeR": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Signature Fly Fishing School<\/h2><p>St. Peter’s Signature Fly Fishing School focuses on building a strong foundation for any novice angler to work from. We work to create a deeper understanding of trout, their environment and the equipment used during this course, to ensure an enjoyable and fun learning experience for all.<\/p>\n\nCan we add a button to all of these that sends direct to each one on flybook via code. Button says, Click here to book now or learn more.",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_6igNtR",
+        "liquid_hG8WeR"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_g9cNhb": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_xB8gba": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Intro to Fly Fishing<\/h2><p>St. Peter’s Intro to Fly Fishing is a class designed to introduce new anglers to the absolute fundamentals of fly fishing. We understand that there is a lot of conflicting information out there in regard to fly fishing basics and how to do things. Our Intro to Fly Fishing class will take out the guess work and give you the need-to-know information all beginning fly anglers should have.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_W3cM3N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Intro_to_fly_Fishing.jpg",
+            "link": "shopify:\/\/blogs\/classes-and-events\/intro-to-fly-fishing",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_xB8gba",
+        "image_W3cM3N"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_qNdLhQ": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_K7HmEJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/intro_to_tying.jpg",
+            "link": "shopify:\/\/blogs\/classes-and-events\/intro-to-fly-tying",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_bzhkg9": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Intro to Fly Tying<\/h2><p>Join us for a tying session at our shop! We would love to introduce you to the next step of your fly-fishing journey. Intro to Fly Tying focuses on the basic tools, materials, and techniques used to tie a variety of different flies.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_K7HmEJ",
+        "liquid_bzhkg9"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_FPWdaf": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_88kFDN": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Intermediate Fly Tying<\/h2><p>Join us for a tying session at our shop! Our Intermediate fly tying class will take your abilities to the next level. We will introduce you to more advanced techniques, such as using biots and tying in dry fly posts and hackle. By the end of the class you will be able to tie a number of your favorite dry fly and nymph patterns.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_EhA9Gm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Inter-tying-class-image-2-1.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_88kFDN",
+        "image_EhA9Gm"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_BnU4Bi": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_Ky8hQB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/soft_hackle_tying.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_KzrRGL": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Soft Hackle Tying<\/h2><p>This tying class focuses on the fundamentals of tying traditional soft hackle wet flies with our guide and soft hackle addict, Joe McHugh.  We will be tying three unique soft hackle patterns and discussing how to effectively fish such flies.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Ky8hQB",
+        "liquid_KzrRGL"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_Jh7GmR": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_E3fCgL": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Angler's Entomology<\/h2><p>One of the most challenging aspects about Fly Fishing is trying to find out what fish are eating. With a plethora of options at a fish’s disposal, this can be an incredibly intimidating and overwhelming puzzle. Knowing what flies to use and when to use them, can be all the difference between catching fish or coming home disappointed.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_7XBa3R": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ento_class.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_E3fCgL",
+        "image_7XBa3R"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_CEfCxg": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_rXz3Eb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/caddis-rock.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_JNKEM4": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>On Water Entomology<\/h2><p>Have you taken our Angler's Entomology class and want to bring your knowledge to the next level? Or maybe you like bugs, but not classrooms?  Our on the water Entomology class is just the ticket for you!  Experience on water knowledge of our local river and the bugs that inhabit it.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_rXz3Eb",
+        "liquid_JNKEM4"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_rfCHWb": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_Aq6dU8": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Intro to Fly Fishing Knots<\/h2><p>A proficient knot is essential to landing a fish of any size or species, whether in salt or freshwater. A bad knot can be the difference between pure bliss or absolute devastation and it’s ok to admit that we have all been there before. In Intro to Fly Fishing Knots, our professionals want to sit down with you, up close and in person, to be able to help everyone tie the knots that we as anglers, use most.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_BWgeRG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Knots_class.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_Aq6dU8",
+        "image_BWgeRG"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_mnEKzg": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_yE3NJw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rigging_for_trout_class.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_FnBpPP": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Rigging for Trout<\/h2><p>With hands on classroom time, we will discuss and tie a variety of rigs for different trout fishing situations.  From dry\/dropper to indicator to stillwater rigs, you will leave with the confidence to tie up your own rigs and the confidence to fish them with success.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_yE3NJw",
+        "liquid_FnBpPP"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_hQ9czM": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_WPAUWc": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Technical Tailwaters<\/h2><p>A tailwater is a river that flows from, and is situated just below a reservoir. As the reservoir releases water throughout the year, the flows rise and fall creating a river. The fish that live in these rivers are infamously picky due to the highly regulated flows that create stable water temperatures, stable food sources, and happy fish.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_TqywX4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Thompson-1024x683_1_598c53ff-8d1f-4e8a-baa1-573ce4fd6cb6.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_WPAUWc",
+        "image_TqywX4"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_FWf8dJ": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_DDeCYc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brown_cheek.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_tnFk4F": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Trout Behavior Class<\/h2><p>Trout fishing is an on-going puzzle that is always evolving, just as trout themselves are complex specimens that have learned to survive and adapt to ever-changing habitat and pressures. It is very easy to apply what others have told us to do on the water but knowing why we did it is another level of enlightenment.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_DDeCYc",
+        "liquid_tnFk4F"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_WGj6TY": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_4nWgjP": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>On Water Streamer Tactics<\/h2><p>Streamer fishing is one of the most popular ways to catch fish on a fly rod. Like every technique, there is a learning curve to streamer fishing and certain things to understand in order to fish these flies effectively.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_djyfcC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/goldie_in_face.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_4nWgjP",
+        "image_djyfcC"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_MPbHdw": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_HVYUiH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Aaron-Nymphing.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_JMWYdD": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>On Water Nymphing Strategies<\/h2><p>Although one of the most effective ways to catch fish, nymphing also tends to be one of the most technical ways to catch fish. We wanted to put together a class that begins with basics and progresses in difficulty and technique throughout the class to help students understand why this method is so effective.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_HVYUiH",
+        "liquid_JMWYdD"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_qRhB8Q": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_jeja4d": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Warmwater Tactics Class<\/h2><p>Fly fishing is often thought of as a poetic way of catching trout in crystal clear mountain streams. A quiet, surreal experience filled with solitude, peace, and quiet. What we don’t think of is the large, aggressive, warmwater fish that are less than 10 minutes from our driveway right in the middle of Fort Collins.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_MBNCn7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/smallie_cover_tooth.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_jeja4d",
+        "image_MBNCn7"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_kLke96": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_PG7LPR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spe_pic.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_Nnh3hA": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Spey School on the Miracle Mile<\/h2><p>Learn to spey cast on one of our favorite rivers. We will discuss technique and approaches to the river through the lens of spey casting and swinging flies for trout. <\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_PG7LPR",
+        "liquid_Nnh3hA"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_4NCPcC": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_UgQydn": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Private Casting Lessons<\/h2><p>Every angler wants to throw tight loops and delicate presentations with their fly rod. Without proper muscle memory and a good understanding of your fly rod this can be nothing short of a frustrating task. Whether you are a seasoned angler or just picking up a fly rod for the first time, we want to help you understand how to unlock the maximum potential out of your fly rod, time, and money.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_VGJnJk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/casting_lesson.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_UgQydn",
+        "image_VGJnJk"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "advanced_content_e7xDt3",
+    "advanced_content_g9cNhb",
+    "advanced_content_qNdLhQ",
+    "advanced_content_FPWdaf",
+    "advanced_content_BnU4Bi",
+    "advanced_content_Jh7GmR",
+    "advanced_content_CEfCxg",
+    "advanced_content_rfCHWb",
+    "advanced_content_mnEKzg",
+    "advanced_content_hQ9czM",
+    "advanced_content_FWf8dJ",
+    "advanced_content_WGj6TY",
+    "advanced_content_MPbHdw",
+    "advanced_content_qRhB8Q",
+    "advanced_content_kLke96",
+    "advanced_content_4NCPcC"
+  ]
+}
