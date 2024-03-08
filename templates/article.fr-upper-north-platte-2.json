@@ -18,13 +18,13 @@
         "image_PFHApD": {
           "type": "image",
           "settings": {
-            "title": "Big Thompson Fishing Report",
+            "title": "Upper North Platte Fishing Report",
             "title_size": 48,
             "subheading": "",
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Thompson-1024x683_1.jpg",
+            "image": "shopify:\/\/shop_images\/upper_northgate.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
