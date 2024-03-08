@@ -67,6 +67,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Luke-B-Guide-photo.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Luke Barrick",
@@ -79,6 +80,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Matt-guide-pic.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Matt Nisbet",
