@@ -64,6 +64,33 @@
         "lazyload_images": true
       }
     },
+    "rich_text_wFNWT6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_b4YfmT": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_3QbiFG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>And last, but certainly not least, the atoll’s proximity to the equator (less than 200 miles) has blessed Christmas Island with consistently good weather, which enables a quality fishing experience year round. While the majority of the island’s bonefish average 2-4 pounds, fish in the 5-10 pound class are always a real possibility as are several species of trevally and triggerfish.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_b4YfmT",
+        "text_3QbiFG"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "rich_text_DF9CLK": {
       "type": "rich-text",
       "blocks": {
@@ -368,6 +395,7 @@
     "main",
     "rich_text_JnWUcx",
     "advanced_content_R3haEd",
+    "rich_text_wFNWT6",
     "rich_text_DF9CLK",
     "fading_images_QGeDAk",
     "advanced_content_rqbTrn",
