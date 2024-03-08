@@ -54,11 +54,39 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "rich_text_46EhRw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KFJjqd": {
+          "type": "heading",
+          "settings": {
+            "title": "Spring 2024 Guide School Course Details"
+          }
+        },
+        "text_YxxBrU": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>-Monday, May 20th- Saturday, May 25th, 2024  <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KFJjqd",
+        "text_YxxBrU"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
     "text_and_image_b83Gin",
-    "rich_text_pnUL8N"
+    "rich_text_pnUL8N",
+    "rich_text_46EhRw"
   ]
 }
