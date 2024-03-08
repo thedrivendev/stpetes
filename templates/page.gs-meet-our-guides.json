@@ -41,6 +41,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/RB-guide-profile-2-2.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Ryan Barrick",
@@ -53,6 +54,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Josh-guide-pic-2-1.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Josh Henriksen",
