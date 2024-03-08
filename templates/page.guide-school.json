@@ -5,9 +5,60 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "text_and_image_b83Gin": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/guide_school_image_c51c7db1-6ea7-4271-8088-cb81f1e47e81.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/Guide-wading-1024x768_4ff3b54c-e26f-464e-9984-5937d3037c17.jpg",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p><strong>Whether you are taking steps to becoming a fly fishing guide, or just want to increase your fly fishing knowledge and become proficient at rowing a drift boat, St. Peter's Guide School is an incredible value.  By offering a truly inclusive guide school package, St. Peter's offers an unrivaled experience. <\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_pnUL8N": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LN7eV3": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_jY9Bac": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The course is limited to 8 people. The 6 day school consists of 2 days in a classroom setting and 4 days out on the water practicing, rowing, and understanding all aspects of being a fly fishing guide. Upon completion of the school, each student will complete 30 rowing hours with Colorado certified guide instructors. The cost of the school is <strong>$1,795 per person<\/strong>. A 50% deposit is required to enroll & the remaining balance is due two weeks before the class. Included in the St. Peter's Guide School tuition is 2 days of classroom instruction and materials, 4 days of on-water instruction, including all lunches for on water days, and all boating equipment necessary. Each student will be required to have their own fishing equipment and fishing licenses.*<\/p><p>If you are interested in being certified as a Colorado Float Guide, a guide instructor can be available for another 2 days after the school to complete the 50 hours of guide instructor training needed. The cost is <strong>$500 <\/strong>for the additional days. The additional row days <strong>do not<\/strong> include food or accommodations.<\/p><p>Spaces are limited so don't wait until it is too late!<\/p><p>*Students are responsible for their own lodging, breakfasts and dinners during the on-water days.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LN7eV3",
+        "text_jY9Bac"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "text_and_image_b83Gin",
+    "rich_text_pnUL8N"
   ]
 }
