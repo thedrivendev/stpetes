@@ -21,7 +21,7 @@
         "liquid_hG8WeR": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Signature Fly Fishing School<\/h2><p>St. Peter’s Signature Fly Fishing School focuses on building a strong foundation for any novice angler to work from. We work to create a deeper understanding of trout, their environment and the equipment used during this course, to ensure an enjoyable and fun learning experience for all.<\/p>",
+            "code": "<h2>Signature Fly Fishing School<\/h2><p>St. Peter’s Signature Fly Fishing School focuses on building a strong foundation for any novice angler to work from. We work to create a deeper understanding of trout, their environment and the equipment used during this course, to ensure an enjoyable and fun learning experience for all.<\/p>\n\nCan we add a button to all of these that sends direct to each one on flybook via code. Button says, Click here to book now or learn more.",
             "width": "50%",
             "alignment": "center"
           }
