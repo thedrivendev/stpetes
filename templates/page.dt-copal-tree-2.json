@@ -128,7 +128,7 @@
         "image_Yc84zK": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AA_big_boney.jpg",
+            "image": "shopify:\/\/shop_images\/Copal-Tree-lodging_1.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -137,7 +137,7 @@
         "liquid_QGmNNV": {
           "type": "liquid",
           "settings": {
-            "code": "<h2><\/h2><p>The average sized bonefish is a healthy 4 pounds and during the course of the week it is not unheard of for guests to land a fish or two in the 10 pound range. Tailing bonefish are common and guests can expect to see bonefish in singles and doubles, all the way up to schools of several hundred fish. What really sets this location apart from so many other fisheries is that guests can expect to encounter and get shots at good numbers of permit each day. There are very few places on earth where guests can fish for big bonefish each day and also get shots at tailing permit. This combination may take place in other locations but not with the consistency that is virtually guaranteed at Cayo Romano. It is a rare day when you don‘t encounter and get shots at permit. The permit will range in size between about 8 and 30 pounds.<\/p>",
+            "code": "<h2><\/h2><p>Designed with nature and luxury in mind, the suites at Copal Tree Lodge allow you to take in the scenic beauty of the jungle while you relax in comfort.  Each suite is elegantly designed to make your stay at the Lodge an unforgettable experience.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -159,14 +159,14 @@
         "heading_AtxVVc": {
           "type": "heading",
           "settings": {
-            "title": ""
+            "title": "The Cuisine"
           }
         },
         "text_j8ENNc": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>The flats at Cayo Romano are a little deeper than those found in other areas of Cuba, which means that the bonefish and permit are still found in excellent numbers throughout the year. There are two locations within the Cayo Romano that offer very good tarpon fishing. Guides tend to save these areas for when an angler has already boated a permit and is looking for a Grand Slam. These fish will range from 30 to 90 pounds.<\/p>"
+            "text": "<p>Using seasonal produce, we prepare foods that are culturally significant, fresh, flavorful, and satisfying. At the Garden Table Restaurant, the chef makes wonderful use of the ingredients grown by our farm team and sourced locally from nearby farmers. We also forage the rainforest for wild foods such as the heart of cohune palm, wild herbs, and flavorful leaves and fruits. We invite you to complete your meal with our house roasted coffee, farm raised “bean to bar” chocolate, and a sampling of local rums.<\/p><p>The Garden Table Restaurant can accommodate a variety of diets including vegan, vegetarian, gluten free, or dairy free. Copal Tree Lodge offers a culinary experience to be remembered!<\/p>"
           }
         }
       },
