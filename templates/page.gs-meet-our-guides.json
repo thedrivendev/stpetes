@@ -215,6 +215,18 @@
             "button_label": "",
             "button_link": ""
           }
+        },
+        "text_block_Hna7NP": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Jake Baldwin",
+            "text": "<p>Guide ?<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
@@ -231,7 +243,8 @@
         "text_block_VpXbrQ",
         "text_block_xwqrai",
         "text_block_aMCknp",
-        "text_block_jiBRi6"
+        "text_block_jiBRi6",
+        "text_block_Hna7NP"
       ],
       "settings": {
         "title": "",
