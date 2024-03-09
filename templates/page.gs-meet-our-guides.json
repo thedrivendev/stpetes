@@ -202,6 +202,19 @@
             "button_label": "",
             "button_link": ""
           }
+        },
+        "text_block_jiBRi6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/kellen_guide_pic.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Kellen Chaney",
+            "text": "<p>Kellen is a Fort Collins local who started fly fishing on the Poudre and Big Thompson rivers at a very young age. Now attending the University of Wyoming, Kellen spends his days chasing trophy Trout and Carp around the Front Range and surrounding areas. With a very relaxed and educational approach to guiding, a day on the water with Kellen will be one to remember!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
@@ -217,7 +230,8 @@
         "text_block_gPUWii",
         "text_block_VpXbrQ",
         "text_block_xwqrai",
-        "text_block_aMCknp"
+        "text_block_aMCknp",
+        "text_block_jiBRi6"
       ],
       "settings": {
         "title": "",
