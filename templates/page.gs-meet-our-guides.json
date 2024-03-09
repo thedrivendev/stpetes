@@ -172,6 +172,18 @@
             "button_label": "",
             "button_link": ""
           }
+        },
+        "text_block_xwqrai": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Jarrod Collins",
+            "text": "<p>Jarrod is a Colorado native and has spent his life playing outside and in the mountains of our beautiful Centennial State! A Real Estate & Marketing Consultant by trade, Fly Fishing is all about the passion & the stoke level for Jarrod.<\/p><p>While the Poudre is home water, you can find him on just about anything wet that may have a fish--From floating freestones & tailwaters to high country cutts to top water bass action & carp, if it swims, Jarrod can be found chasing it.<\/p><p>Guiding for Jarrod is a true passion project and the passion lies in teaching and building a foundation  as not only an angler but as a steward and a sportsman.  Whether it is your first day ever with a fly rod or you are a skilled angler looking to master a new skill, Jarrod takes pride in keeping the smiles wide and creating a day of memories that will be the foundation for a lifetime of fishing.  The adventure, the beauty & the learning is the Juice that makes the Squeeze worth it all!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
@@ -185,7 +197,8 @@
         "text_block_8qzNHY",
         "text_block_hpVamn",
         "text_block_gPUWii",
-        "text_block_VpXbrQ"
+        "text_block_VpXbrQ",
+        "text_block_xwqrai"
       ],
       "settings": {
         "title": "",
