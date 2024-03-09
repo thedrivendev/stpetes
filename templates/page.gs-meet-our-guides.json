@@ -93,6 +93,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/xander-guide-pic-1.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Xander Elliot",
@@ -105,6 +106,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/dan-guide-pick-1.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Dan Nicks",
@@ -117,6 +119,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dawson-guide-pic.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Dawson Balmer",
@@ -153,6 +156,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/jsmall.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Jason Small",
@@ -165,6 +169,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Kyle-Stack.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Kyle Stack",
@@ -177,6 +182,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/jarrod-Collins-bio-1.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Jarrod Collins",
