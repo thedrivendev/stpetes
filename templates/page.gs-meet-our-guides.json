@@ -129,10 +129,9 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Matt-guide-pic.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Matt Nisbet",
+            "title": "Neal Warner",
             "text": "<p>A Fort Collins Native who grew up fly fishing all over the front range, Matt is no<br\/>stranger to our local waters.  Having a family property in the Saratoga region of<br\/>Wyoming, the North Platte river and high alpine lakes of south eastern Wyoming are<br\/>just some of the regional waters that Matt calls home. Due to his love of hunting and<br\/>the chase of wild things, if you find Matt on the water, you’ll usually find him with a<br\/>streamer in his hand! If you don’t find him on the water, he’s either tying flies,<br\/>searching for Whitetail bucks, or chasing wild turkeys through the hills of Fort Collins,<br\/>and of course, chasing the beautiful trout of our wonderful home waters!<\/p>",
             "button_label": "",
             "button_link": ""
