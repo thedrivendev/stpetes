@@ -184,6 +184,18 @@
             "button_label": "",
             "button_link": ""
           }
+        },
+        "text_block_aMCknp": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Mike Graham",
+            "text": "<p>Mike G Bio and pic needed<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
@@ -198,7 +210,8 @@
         "text_block_hpVamn",
         "text_block_gPUWii",
         "text_block_VpXbrQ",
-        "text_block_xwqrai"
+        "text_block_xwqrai",
+        "text_block_aMCknp"
       ],
       "settings": {
         "title": "",
