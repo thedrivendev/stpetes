@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Winter is finally here in the park. With the cold weather, finding open water can be a challenge. If you can find open water, small midges and blue winged olive nymphs will be the most effective. If you have any questions or concerns reach out to either shop and we would be more than happy to help you get out on the water!<\/p><p><strong>Dries ::  <\/strong> Para. Adams #18-22, Ext. Body BWO #18-22, CDC Baetis Dun #18-20, CDC Thorax BWO #18-20, Eric's HiVis #20-22, Griffiths Gnat #18-20, Renegade #18-22, Sprout Midge #18-24, Shucking Midge #18-20<\/p><p><strong>Nymphs:: <\/strong>Zebra Midge #18-22, Poison Tung #18-20, Juju Midge #18-20, Juju Baetis #18-20, Tung. Redemption BWO #18, Radiation Baetis #20, Brassie #18-22<\/p><p><strong>Streamer\/Buggers: <\/strong>Thin Mint #8-12, Wooly Bugger #10, Mini Peanut Envy #6, Trick Or Treat #6<\/p>"
+            "text": "<p>Winter is finally here in the park. With the cold weather, finding open water can be a challenge. If you can find open water, small midges and blue winged olive nymphs will be the most effective. If you have any questions or concerns reach out to either shop and we would be more than happy to help you get out on the water!<\/p>"
           }
         }
       },
@@ -81,7 +81,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Dry Flies",
-            "text": "<ul><li>Adams#18-24<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Adams#18-24<\/li><li>Para. Adams #18-22<\/li><li>Ext. Body BWO #18-22<\/li><li>CDC Baetis Dun #18-20<\/li><li>CDC Thorax BWO #18-20<\/li><li>Eric's HiVis #20-22<\/li><li>Griffiths Gnat #18-20<\/li><li>Renegade #18-22<\/li><li>Sprout Midge #18-24<\/li><li>Shucking Midge #18-20<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -93,7 +93,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Nymphs",
-            "text": "<ul><li>Copper John #18-22<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Copper John #18-22<\/li><li>Zebra Midge #18-22<\/li><li>Poison Tung #18-20<\/li><li>Juju Midge #18-20<\/li><li>Juju Baetis #18-20<\/li><li>Tung. Redemption BWO #18<\/li><li>Radiation Baetis #20<\/li><li>Brassie #18-22<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -105,7 +105,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Streamers",
-            "text": "<ul><li>Thin Mint #8-12<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Thin Mint #8-12<\/li><li>Wooly Bugger #10<\/li><li>Mini Peanut Envy #6<\/li><li>Trick Or Treat #6<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
