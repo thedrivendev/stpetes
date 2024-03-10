@@ -39,30 +39,10 @@
         "sticky_index": true,
         "sticky_collection": false
       }
-    },
-    "rich_text_6mfEEY": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_mDgJni": {
-          "type": "heading",
-          "settings": {
-            "title": "Recent Destination Travel"
-          }
-        }
-      },
-      "block_order": [
-        "heading_mDgJni"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "rich_text_6mfEEY"
+    "header"
   ]
 }

@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p><strong>Current Streamflow :  497 cfs <\/strong>@<strong> <\/strong>Grey Reef<strong>, 532 cfs <\/strong>@ Miracle Mile<strong><br\/><\/strong><br\/><\/p><p>The flows on both the Miracle Mile and Grey Reef have remained steady over the last few weeks. Both sections of river will remain around 500-600 cfs through the colder months. Midges and baetis can be seen hatching on the North Platte throughout the winter months. In addition to these small bugs there are plenty of scuds, leeches, worms, and eggs in the river year round, so definitely give them a try as well. Having a larger, heavier lead fly with a smaller midge trailing is a great way to fish the Platte in the winter. Make sure to have some additional weight on your nymph rigs to get your flies down to the fish in some of the deeper holes. Nymphing has been the most productive way to find some fish, but streamers can also be very effective. Streamers such as a geisha girl, sparkle minnow, and slump busters have been working well. The conditions up north will be changing by the day, so be sure to swing by the shop or give us a call if you have any questions!<\/p><p><strong>Nymphs: <\/strong> Juju Baetis #18-22, Sparkle Wing RS2 #18-#20, Olive Two-bit Hooker #18, Split Foam Back #18-#22, WD-40 #18-22, Mayhem Midge #18-20, Theo's Melting Pot Midge #18-22,  Mohair Leech Black\/ Wine #10-14, Sparkle Worm #10, Annelid #14-18, Otter Egg #12-14, Gabriels Trumpet #10-16, Girdle Bug\/Rubber Legs Stone #8-12, Flossy Worm, IED #10<\/p><p><strong>Dries: <\/strong> Para Adams #18-24, Sprout Midge #18-22  Griffith Gnat #18-#20, Para Wulf Adams #18-22, Erics High Vis Midge #20-22, Mole Fly #18-22, ARF Midge #20-22, Film Critic BWO #18-22, Ext. Body BWO #18-22<\/p><p><strong>Streamers:<\/strong>  Dungeons, Rusty Trombones, Platte River Spider,  Goldies, Peanut Envys, Thin-Mint #8-12, Sparkle Minnow #4-6, Rubber Bugger Yellow\/Brown #4, Platte River Special, Ish's Snitch<\/p>"
+            "text": "<p><strong>Current Streamflow :  497 cfs <\/strong>@<strong> <\/strong>Grey Reef<strong>, 532 cfs <\/strong>@ Miracle Mile<strong><br\/><\/strong><br\/><\/p><p>The flows on both the Miracle Mile and Grey Reef have remained steady over the last few weeks. Both sections of river will remain around 500-600 cfs through the colder months. Midges and baetis can be seen hatching on the North Platte throughout the winter months. In addition to these small bugs there are plenty of scuds, leeches, worms, and eggs in the river year round, so definitely give them a try as well. Having a larger, heavier lead fly with a smaller midge trailing is a great way to fish the Platte in the winter. Make sure to have some additional weight on your nymph rigs to get your flies down to the fish in some of the deeper holes. Nymphing has been the most productive way to find some fish, but streamers can also be very effective. Streamers such as a geisha girl, sparkle minnow, and slump busters have been working well. The conditions up north will be changing by the day, so be sure to swing by the shop or give us a call if you have any questions!<\/p>"
           }
         }
       },
@@ -81,7 +81,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Dry Flies",
-            "text": "<ul><li>Adams#18-24<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Adams#18-24<\/li><li>Para Adams #18-24<\/li><li>Sprout Midge #18-22<\/li><li>Griffith Gnat #18-#20<\/li><li>Para Wulf Adams #18-22<\/li><li>Erics High Vis Midge #20-22<\/li><li>Mole Fly #18-22<\/li><li>ARF Midge #20-22<\/li><li>Film Critic BWO #18-22<\/li><li>Ext. Body BWO #18-22<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -93,7 +93,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Nymphs",
-            "text": "<ul><li>Copper John #18-22<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Copper John #18-22<\/li><li>Juju Baetis #18-22<\/li><li>Sparkle Wing RS2 #18-#20<\/li><li>Olive Two-bit Hooker #18<\/li><li>Split Foam Back #18-#22<\/li><li>WD-40 #18-22<\/li><li>Mayhem Midge #18-20<\/li><li>Theo's Melting Pot Midge #18-22<\/li><li>Mohair Leech Black\/ Wine #10-14<\/li><li>Sparkle Worm #10<\/li><li>Annelid #14-18<\/li><li>Otter Egg #12-14<\/li><li>Gabriels Trumpet #10-16<\/li><li>Girdle Bug\/Rubber Legs Stone #8-12<\/li><li>Flossy Worm, IED #10<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -105,7 +105,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Streamers",
-            "text": "<ul><li>Thin Mint #8-12<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Thin Mint #8-12<\/li><li>Dungeons<\/li><li>Rusty Trombones<\/li><li>Platte River Spider<\/li><li>Goldies<\/li><li>Peanut Envys<\/li><li>Thin-Mint #8-12<\/li><li>Sparkle Minnow #4-6<\/li><li>Rubber Bugger Yellow\/Brown #4<\/li><li>Platte River Special<\/li><li>Ish's Snitch<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
