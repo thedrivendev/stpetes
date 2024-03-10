@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>The majority of the river will be unfishable due to ice and slush. If you happen to find open water, try fishing small flies under an indicator. Small midge and baetis nymphs in #18-22 work well when fishing sub-surface. Also, be sure to move slowly when approaching the water you are going to fish. Feel free to stop by either shop with any questions!<\/p><p> <\/p><p><strong>Recommended Flies:<\/strong><\/p><p><strong>Nymphs: <\/strong>Pheasant tail #18-22, Hares Ear #18-20,  Anatomical BWO #18-20, Juju Baetis #18-20, Two Bit Hooker #16-18, Barr's Emerger #18-22, Micro Mayfly #18-20<\/p><p><strong>Streamers: <\/strong>Thin Mint #8-12, Wooly Buggers (White, Black, or Olive) #6-12, Slump Buster #6, Sculpzilla #8, Rusty Trombone<\/p><p><strong>Dries: <\/strong> Parachute Adams #16-22, Giffiths Gnat #18-20, Extended Body BWO #18-20<\/p>"
+            "text": "<p>The majority of the river will be unfishable due to ice and slush. If you happen to find open water, try fishing small flies under an indicator. Small midge and baetis nymphs in #18-22 work well when fishing sub-surface. Also, be sure to move slowly when approaching the water you are going to fish. Feel free to stop by either shop with any questions!<\/p>"
           }
         }
       },
@@ -67,6 +67,25 @@
       ],
       "settings": {
         "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_PMAxFJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jLgkpT": {
+          "type": "heading",
+          "settings": {
+            "title": "Recommended Laramie River Flies:"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jLgkpT"
+      ],
+      "settings": {
+        "align_text": "center",
         "narrow_column": true,
         "divider": false
       }
@@ -217,6 +236,7 @@
     "main",
     "slideshow_mGrDTc",
     "rich_text_A3XKJB",
+    "rich_text_PMAxFJ",
     "text_columns_jbNjYX",
     "featured_product_jzUbtr",
     "rich_text_jifnEU",
