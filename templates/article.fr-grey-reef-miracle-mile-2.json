@@ -71,6 +71,25 @@
         "divider": false
       }
     },
+    "rich_text_BH4zKV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gcmQiW": {
+          "type": "heading",
+          "settings": {
+            "title": "Recommended Grey Reef \/ Miracle Mile Flies:"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gcmQiW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "text_columns_jbNjYX": {
       "type": "text-columns",
       "blocks": {
@@ -119,25 +138,6 @@
       "settings": {
         "title": "",
         "align_text": "left",
-        "divider": false
-      }
-    },
-    "rich_text_BH4zKV": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_gcmQiW": {
-          "type": "heading",
-          "settings": {
-            "title": "Recommended Grey Reef \/ Miracle Mile Flies:"
-          }
-        }
-      },
-      "block_order": [
-        "heading_gcmQiW"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
         "divider": false
       }
     },
@@ -236,8 +236,8 @@
     "main",
     "slideshow_mGrDTc",
     "rich_text_A3XKJB",
-    "text_columns_jbNjYX",
     "rich_text_BH4zKV",
+    "text_columns_jbNjYX",
     "featured_product_jzUbtr",
     "rich_text_jifnEU",
     "blog-posts"
