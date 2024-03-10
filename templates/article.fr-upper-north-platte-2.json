@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>The gage at Northgate is frozen, so be ready for the majority of the water to be covered in ice. If you find open water, fish small midges and baetis patterns. Trying some larger leeches and attractor patterns as a lead fly can be effective. Also, give some streamers a try now that the water has cooled off. A floating line will work when fishing the shallower water, but having a sink line or sink tip will help to get your streamer down in the deeper holes. If you have any questions about fishing the upper North Platte, give us a shout!<\/p><p> <\/p><p><strong>Dries: <\/strong>Ext. Body BWO #18-22, Winger Para. BWO #18-20, CDC Thorax BWO #18, Para. Adams #14-20, CDC Flav Dun #10-14, Mole Fly-tan #22-24<\/p><p><strong>Nymphs:<\/strong> Prince Nymph #8-16, Restless Stone #6-12, Peacock Perdigon #14, Duracell #14-16, Copper John #14-18, Hot Head Leech #6, Zebra Midge #18-22, Two Bit Hooker #16-20, Poison Tongue #18-20<\/p><p><strong>Streamers<\/strong>: Thin Mints #8-12, Goldies and Rusty Trombones, Platte River Spider #4, N.Platte Special #4, Ish's Snitch Black #6, Slump Buster Black #4, Sculpzilla #6-8<\/p>"
+            "text": "<p>The gage at Northgate is frozen, so be ready for the majority of the water to be covered in ice. If you find open water, fish small midges and baetis patterns. Trying some larger leeches and attractor patterns as a lead fly can be effective. Also, give some streamers a try now that the water has cooled off. A floating line will work when fishing the shallower water, but having a sink line or sink tip will help to get your streamer down in the deeper holes. If you have any questions about fishing the upper North Platte, give us a shout!<\/p>"
           }
         }
       },
@@ -67,6 +67,25 @@
       ],
       "settings": {
         "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_6xR4JA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GgKKJ7": {
+          "type": "heading",
+          "settings": {
+            "title": "Recommended Upper North Platte Flies:"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GgKKJ7"
+      ],
+      "settings": {
+        "align_text": "center",
         "narrow_column": true,
         "divider": false
       }
@@ -81,7 +100,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Dry Flies",
-            "text": "<ul><li>Adams#18-24<\/li><li>Para Winger BWO #18-20<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Adams#18-24<\/li><li>Para Winger BWO #18-20<\/li><li>Ext. Body BWO #18-22<\/li><li>Winger Para. BWO #18-20<\/li><li>CDC Thorax BWO #18<\/li><li>Para. Adams #14-20<\/li><li>CDC Flav Dun #10-14<\/li><li>Mole Fly-tan #22-24<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -93,7 +112,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Nymphs",
-            "text": "<ul><li>Copper John #18-22<\/li><li>Flashback Scud Olv. #14-16<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Copper John #18-22<\/li><li>Flashback Scud Olv. #14-16<\/li><li>Prince Nymph #8-16<\/li><li>Restless Stone #6-12<\/li><li>Peacock Perdigon #14<\/li><li>Duracell #14-16<\/li><li>Copper John #14-18<\/li><li>Hot Head Leech #6<\/li><li>Zebra Midge #18-22<\/li><li>Two Bit Hooker #16-20<\/li><li>Poison Tongue #18-20<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -105,7 +124,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Streamers",
-            "text": "<ul><li>Thin Mint #8-12<\/li><li>Beldar Bugger #8<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Thin Mint #8-12<\/li><li>Beldar Bugger #8<\/li><li>Goldies and Rusty Trombones<\/li><li>Platte River Spider #4<\/li><li>N.Platte Special #4<\/li><li>Ish's Snitch Black #6<\/li><li>Slump Buster Black #4<\/li><li>Sculpzilla #6-8<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -217,6 +236,7 @@
     "main",
     "slideshow_mGrDTc",
     "rich_text_A3XKJB",
+    "rich_text_6xR4JA",
     "text_columns_jbNjYX",
     "featured_product_jzUbtr",
     "rich_text_jifnEU",
