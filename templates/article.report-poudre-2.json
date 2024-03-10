@@ -71,6 +71,25 @@
         "divider": false
       }
     },
+    "rich_text_fPG7Wb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VWmPJ3": {
+          "type": "heading",
+          "settings": {
+            "title": "Recommended Poudre River Flies:"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VWmPJ3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "text_columns_jbNjYX": {
       "type": "text-columns",
       "blocks": {
@@ -161,6 +180,7 @@
     "main",
     "slideshow_mGrDTc",
     "rich_text_A3XKJB",
+    "rich_text_fPG7Wb",
     "text_columns_jbNjYX",
     "rich_text_jifnEU",
     "blog-posts"
