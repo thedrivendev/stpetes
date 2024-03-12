@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Winter is finally here, and with that the Encampment will have a significant amount of ice and slush until spring. Fish can be found on small nymphs such as zebra midges, bling midges, and two bit midges if you can find open water.<\/p><p><strong>Dries:<\/strong> CDC Thorax BWO #18-20, Ext. Body BWO #18-22, Parachute Adams #16-22, CDC Baetis Dun #18-22, Film Critic BWO #18-20, Bucky's Upbeat Baetis #18, Mole Fly Brown\/Olive #18-22<\/p><p><strong>Nymphs: <\/strong> Prince Nymph #8-14, Hot Head Leech #6, Pine Squirrel Leech #10, Anatomical BWO #18-20,Juju Baetis #18-22, Two bit hooker #16-18, RS2 #18-22, Copper Ribbed RS2 #18-22<\/p><p><strong>Streamers<\/strong>: Thin Mints #6-12, Platte River Spider #4, Sparkle Minnow#6 , Articulated Goldies #6, Trick or Treat #4-6, Rubber Bugger #4, Sex Dungeon #4, Mini Peanut Envy<\/p>"
+            "text": "<p>Winter is finally here, and with that the Encampment will have a significant amount of ice and slush until spring. Fish can be found on small nymphs such as zebra midges, bling midges, and two bit midges if you can find open water.<\/p>"
           }
         }
       },
@@ -81,7 +81,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Dry Flies",
-            "text": "<ul><li>Adams#18-24<\/li><li>Para Winger BWO #18-20<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Adams#18-24<\/li><li>Para Winger BWO #18-20<\/li><li>CDC Thorax BWO #18-20 <\/li><li>Ext. Body BWO #18-22<\/li><li>Parachute Adams #16-22<\/li><li>CDC Baetis Dun #18-22<\/li><li>Film Critic BWO #18-20<\/li><li>Bucky's Upbeat Baetis #18<\/li><li>Mole Fly Brown\/Olive #18-22<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -93,7 +93,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Nymphs",
-            "text": "<ul><li>Copper John #18-22<\/li><li>Flashback Scud Olv. #14-16<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Copper John #18-22<\/li><li>Flashback Scud Olv. #14-16<\/li><li>Prince Nymph #8-14<\/li><li>Hot Head Leech #6<\/li><li>Pine Squirrel Leech #10<\/li><li>Anatomical BWO #18-20<\/li><li>Juju Baetis #18-22<\/li><li>Two bit hooker #16-18<\/li><li>RS2 #18-22<\/li><li>Copper Ribbed RS2 #18-22<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -105,7 +105,7 @@
             "image_mask": "none",
             "image_width": 400,
             "title": "Streamers",
-            "text": "<ul><li>Thin Mint #8-12<\/li><li>Beldar Bugger #8<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Thin Mint #8-12<\/li><li>Beldar Bugger #8<\/li><li>Thin Mints #6-12<\/li><li>Platte River Spider #4<\/li><li>Sparkle Minnow#6<\/li><li>Articulated Goldies #6<\/li><li>Trick or Treat #4-6<\/li><li>Rubber Bugger #4<\/li><li>Sex Dungeon #4<\/li><li>Mini Peanut Envy<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
