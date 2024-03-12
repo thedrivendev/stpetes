@@ -46,6 +46,13 @@
     "rich_text_A3XKJB": {
       "type": "rich-text",
       "blocks": {
+        "text_gc8a3B": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3><strong>Local Ponds Report:<\/strong><\/h3><p>Typically most of the ponds and lakes across town are all frozen at this time of year, but we have seen a lot of them open up with the recent warm weather and wind. If you find open water to fish in town, be sure to keep your flies small as the water is still plenty cold and the fish will be moving slow. Some flies to try include Mayers mini leech, thin mints, and a jigged slumlord. Be sure to work the flies slow and cover water to find where the fish are at.<\/p><h3><strong>Horsetooth Reservoir Report:<\/strong><\/h3><p>Most fish in the lake have moved deep with the colder water, but trout can still be found cruising the shorelines near drop offs. Try throwing smaller streamers and leeches when targeting the trout in Horsetooth.<\/p><p><\/p>"
+          }
+        },
         "text_MjJijk": {
           "type": "text",
           "settings": {
@@ -62,6 +69,7 @@
         }
       },
       "block_order": [
+        "text_gc8a3B",
         "text_MjJijk",
         "text_7NPt7d"
       ],
