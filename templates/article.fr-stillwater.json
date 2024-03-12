@@ -62,57 +62,6 @@
         "divider": false
       }
     },
-    "text_columns_bLtALp": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_CkkEDy": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_rPCtXf": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_NBcUCp": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_CkkEDy",
-        "text_block_rPCtXf",
-        "text_block_NBcUCp"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
     "rich_text_A3XKJB": {
       "type": "rich-text",
       "blocks": {
@@ -129,6 +78,25 @@
       ],
       "settings": {
         "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_7Nh4V3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CqmpXR": {
+          "type": "heading",
+          "settings": {
+            "title": "Recommended Warmwater Flies:"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CqmpXR"
+      ],
+      "settings": {
+        "align_text": "center",
         "narrow_column": true,
         "divider": false
       }
@@ -181,6 +149,41 @@
       "settings": {
         "title": "",
         "align_text": "left",
+        "divider": false
+      }
+    },
+    "rich_text_YDFUFD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aYC98m": {
+          "type": "heading",
+          "settings": {
+            "title": "Stillwater Trout"
+          }
+        },
+        "text_tXXjhH": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Our trout stillwaters are all frozen over for winter. We are all anxiously waiting for ice off and great lake fishing ahead! We're happy to answer any lake fishing questions you may have, so give us a call if <br\/>you need any help.<\/p><h3>Plains Lakes Report<br\/><\/h3><p><\/p>"
+          }
+        },
+        "text_R8JmVM": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_aYC98m",
+        "text_tXXjhH",
+        "text_R8JmVM"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
         "divider": false
       }
     },
@@ -279,9 +282,10 @@
     "main",
     "slideshow_mGrDTc",
     "rich_text_KnyKmU",
-    "text_columns_bLtALp",
     "rich_text_A3XKJB",
+    "rich_text_7Nh4V3",
     "text_columns_jbNjYX",
+    "rich_text_YDFUFD",
     "featured_product_jzUbtr",
     "rich_text_jifnEU",
     "blog-posts"
