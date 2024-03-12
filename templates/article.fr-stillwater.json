@@ -43,6 +43,25 @@
         "lazyload_images": true
       }
     },
+    "rich_text_KnyKmU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_edbdQ8": {
+          "type": "heading",
+          "settings": {
+            "title": "Local Warmwater:"
+          }
+        }
+      },
+      "block_order": [
+        "heading_edbdQ8"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "rich_text_A3XKJB": {
       "type": "rich-text",
       "blocks": {
@@ -57,7 +76,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Typically most of the ponds and lakes across town are all frozen at this time of year, but we have seen a lot of them open up with the recent warm weather and wind. If you find open water to fish in town, be sure to keep your flies small as the water is still plenty cold and the fish will be moving slow. Some flies to try include Mayers mini leech, thin mints, and a jigged slumlord. Be sure to work the flies slow and cover water to find where the fish are at.<\/p><p><span style=\"text-decoration:underline\"><strong>Horsetooth Reservoir Report<br\/><\/strong><\/span><\/p><p>Most fish in the lake have moved deep with the colder water, but trout can still be found cruising the shorelines near drop offs. Try throwing smaller streamers and leeches when targeting the trout in Horsetooth.<\/p><p><span style=\"text-decoration:underline\"><strong>Local Ponds Report<\/strong><\/span><\/p><p>Many of the ponds are starting to open up and there is fishable water to be had across town. Some of these ponds might freeze back up if we have another cold snap but for the time being there are some great opportunities. Be sure to check the regulations of the natural areas because some have certain restrictions, you can check <a href=\"https:\/\/www.fcgov.com\/naturalareas\/fishing\"><span style=\"text-decoration:underline\">here.<\/span><\/a><\/p><p><span style=\"text-decoration:underline\"><strong>Flies<br\/><\/strong><\/span><\/p><p><strong>Bass:<\/strong> Sparkle Minnow, Jawbreaker, Ritt's Fighting Craw, Meat Whistle, Balanced Baitfish, NearNuf Crayfish, Galloup's Nancy P, Thin Mint #6-10, Clouser Minnows<\/p><p><strong>Pike: <\/strong>Barry's Pike Fly, Game Changer, GT Roosta, Sparkle Minnow, EP Minnows, Clouser Minnows, Deceivers<\/p><p><strong>Carp: <\/strong>Headstand, Backstabber, Swimming Nymph, Mayer's Mini Leech, Dirty Monkey, Montana Prince Nymph<\/p><h3>We have a Staff Selection of flies for Warmwater Species <a href=\"https:\/\/stpetes.com\/warm-water-spring-2020-fly-assortment.html\"><span style=\"text-decoration:underline\">HERE<\/span><\/a> and Carp <a href=\"https:\/\/stpetes.com\/catalog\/product\/view\/id\/13041\/s\/carp-fly-assortment\/\"><span style=\"text-decoration:underline\">HERE<\/span><\/a><\/h3><p> <\/p><h3><span style=\"text-decoration:underline\"><strong>Stillwater Trout:<\/strong><\/span><\/h3><p>Our trout stillwaters are all frozen over for winter. We are all anxiously waiting for ice off and great lake fishing ahead! We're happy to answer any lake fishing questions you may have, so give us a call if you need any help.<\/p><p><strong>            <\/strong>         <span style=\"text-decoration:underline\"><strong>North Park Report<br\/><\/strong><\/span><\/p><p>All of the lakes in North Park are now frozen for the winter.<\/p><p><span style=\"text-decoration:underline\"><strong>Plains Lakes Reports<br\/><\/strong><\/span><\/p><p>Alsop, Gelatt, Twin Buttes, Leazenby, and Lake Hattie all are frozen for the season. Unfortunately Meeboer had a significant fish kill, read more about it <a href=\"https:\/\/www.wyomingnewsnow.tv\/2023\/03\/29\/wyoming-game-fish-department-restock-meeboer-lake\/\"><span style=\"text-decoration:underline\">here.<\/span><\/a><\/p><p><span style=\"text-decoration:underline\"><strong>Honholz Lakes Reports<br\/><\/strong><\/span><\/p><p>All 3 of the Honholz Lakes are capped with ice.<\/p><p><span style=\"text-decoration:underline\"><strong>Red Feather Lakes Reports<\/strong><\/span><\/p><p>West Lake, Dowdy Lake, Parvin Lake and Lake Bellaire all have ice on them.<\/p><p><span style=\"text-decoration:underline\"><strong>Highway 14 Alpine Lakes<br\/><\/strong><\/span><\/p><p>Joe Wright, Chambers, and  Barnes Meadow have all completely frozen up for the season. Lake Agnes and Longdraw are completely frozen.<\/p><p><span style=\"text-decoration:underline\"><strong>Flies<\/strong><\/span><\/p><p><strong>Trout: <\/strong>Balanced leech #10, Juju Chironimid #12-16, Chironocone #12-16, Flash Back Scud #14-18, Mayers Mini Leech, Crystal Chironomid #12-16,Thin Mint #6-12, Ritt's Fighting Craw<\/p>"
+            "text": "<p><\/p><p><span style=\"text-decoration:underline\"><strong>Local Ponds Report<\/strong><\/span><\/p><p>Many of the ponds are starting to open up and there is fishable water to be had across town. Some of these ponds might freeze back up if we have another cold snap but for the time being there are some great opportunities. Be sure to check the regulations of the natural areas because some have certain restrictions, you can check <a href=\"https:\/\/www.fcgov.com\/naturalareas\/fishing\"><span style=\"text-decoration:underline\">here.<\/span><\/a><\/p><p><span style=\"text-decoration:underline\"><strong>Flies<br\/><\/strong><\/span><\/p><p><strong>Bass:<\/strong> Sparkle Minnow, Jawbreaker, Ritt's Fighting Craw, Meat Whistle, Balanced Baitfish, NearNuf Crayfish, Galloup's Nancy P, Thin Mint #6-10, Clouser Minnows<\/p><p><strong>Pike: <\/strong>Barry's Pike Fly, Game Changer, GT Roosta, Sparkle Minnow, EP Minnows, Clouser Minnows, Deceivers<\/p><p><strong>Carp: <\/strong>Headstand, Backstabber, Swimming Nymph, Mayer's Mini Leech, Dirty Monkey, Montana Prince Nymph<\/p><h3>We have a Staff Selection of flies for Warmwater Species <a href=\"https:\/\/stpetes.com\/warm-water-spring-2020-fly-assortment.html\"><span style=\"text-decoration:underline\">HERE<\/span><\/a> and Carp <a href=\"https:\/\/stpetes.com\/catalog\/product\/view\/id\/13041\/s\/carp-fly-assortment\/\"><span style=\"text-decoration:underline\">HERE<\/span><\/a><\/h3><p> <\/p><h3><span style=\"text-decoration:underline\"><strong>Stillwater Trout:<\/strong><\/span><\/h3><p>Our trout stillwaters are all frozen over for winter. We are all anxiously waiting for ice off and great lake fishing ahead! We're happy to answer any lake fishing questions you may have, so give us a call if you need any help.<\/p><p><strong>            <\/strong>         <span style=\"text-decoration:underline\"><strong>North Park Report<br\/><\/strong><\/span><\/p><p>All of the lakes in North Park are now frozen for the winter.<\/p><p><span style=\"text-decoration:underline\"><strong>Plains Lakes Reports<br\/><\/strong><\/span><\/p><p>Alsop, Gelatt, Twin Buttes, Leazenby, and Lake Hattie all are frozen for the season. Unfortunately Meeboer had a significant fish kill, read more about it <a href=\"https:\/\/www.wyomingnewsnow.tv\/2023\/03\/29\/wyoming-game-fish-department-restock-meeboer-lake\/\"><span style=\"text-decoration:underline\">here.<\/span><\/a><\/p><p><span style=\"text-decoration:underline\"><strong>Honholz Lakes Reports<br\/><\/strong><\/span><\/p><p>All 3 of the Honholz Lakes are capped with ice.<\/p><p><span style=\"text-decoration:underline\"><strong>Red Feather Lakes Reports<\/strong><\/span><\/p><p>West Lake, Dowdy Lake, Parvin Lake and Lake Bellaire all have ice on them.<\/p><p><span style=\"text-decoration:underline\"><strong>Highway 14 Alpine Lakes<br\/><\/strong><\/span><\/p><p>Joe Wright, Chambers, and  Barnes Meadow have all completely frozen up for the season. Lake Agnes and Longdraw are completely frozen.<\/p><p><span style=\"text-decoration:underline\"><strong>Flies<\/strong><\/span><\/p><p><strong>Trout: <\/strong>Balanced leech #10, Juju Chironimid #12-16, Chironocone #12-16, Flash Back Scud #14-18, Mayers Mini Leech, Crystal Chironomid #12-16,Thin Mint #6-12, Ritt's Fighting Craw<\/p>"
           }
         },
         "text_7NPt7d": {
@@ -224,6 +243,7 @@
   "order": [
     "main",
     "slideshow_mGrDTc",
+    "rich_text_KnyKmU",
     "rich_text_A3XKJB",
     "text_columns_jbNjYX",
     "featured_product_jzUbtr",
