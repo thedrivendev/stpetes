@@ -40,14 +40,6 @@
     "advanced_content_g9cNhb": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_xB8gba": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Intro to Fly Fishing<\/h2><p>St. Peter’s Intro to Fly Fishing is a class designed to introduce new anglers to the absolute fundamentals of fly fishing. We understand that there is a lot of conflicting information out there in regard to fly fishing basics and how to do things. Our Intro to Fly Fishing class will take out the guess work and give you the need-to-know information all beginning fly anglers should have.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "image_W3cM3N": {
           "type": "image",
           "settings": {
@@ -56,11 +48,19 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "liquid_xB8gba": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Intro to Fly Fishing<\/h2><p>St. Peter’s Intro to Fly Fishing is a class designed to introduce new anglers to the absolute fundamentals of fly fishing. We understand that there is a lot of conflicting information out there in regard to fly fishing basics and how to do things. Our Intro to Fly Fishing class will take out the guess work and give you the need-to-know information all beginning fly anglers should have.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "liquid_xB8gba",
-        "image_W3cM3N"
+        "image_W3cM3N",
+        "liquid_xB8gba"
       ],
       "settings": {
         "full_width": false,
@@ -102,14 +102,6 @@
     "advanced_content_FPWdaf": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_88kFDN": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Intermediate Fly Tying<\/h2><p>Join us for a tying session at our shop! Our Intermediate fly tying class will take your abilities to the next level. We will introduce you to more advanced techniques, such as using biots and tying in dry fly posts and hackle. By the end of the class you will be able to tie a number of your favorite dry fly and nymph patterns.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "image_EhA9Gm": {
           "type": "image",
           "settings": {
@@ -118,11 +110,19 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "liquid_88kFDN": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Intermediate Fly Tying<\/h2><p>Join us for a tying session at our shop! Our Intermediate fly tying class will take your abilities to the next level. We will introduce you to more advanced techniques, such as using biots and tying in dry fly posts and hackle. By the end of the class you will be able to tie a number of your favorite dry fly and nymph patterns.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "liquid_88kFDN",
-        "image_EhA9Gm"
+        "image_EhA9Gm",
+        "liquid_88kFDN"
       ],
       "settings": {
         "full_width": false,
@@ -164,14 +164,6 @@
     "advanced_content_Jh7GmR": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_E3fCgL": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Angler's Entomology<\/h2><p>One of the most challenging aspects about Fly Fishing is trying to find out what fish are eating. With a plethora of options at a fish’s disposal, this can be an incredibly intimidating and overwhelming puzzle. Knowing what flies to use and when to use them, can be all the difference between catching fish or coming home disappointed.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "image_7XBa3R": {
           "type": "image",
           "settings": {
@@ -180,11 +172,19 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "liquid_E3fCgL": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Angler's Entomology<\/h2><p>One of the most challenging aspects about Fly Fishing is trying to find out what fish are eating. With a plethora of options at a fish’s disposal, this can be an incredibly intimidating and overwhelming puzzle. Knowing what flies to use and when to use them, can be all the difference between catching fish or coming home disappointed.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "liquid_E3fCgL",
-        "image_7XBa3R"
+        "image_7XBa3R",
+        "liquid_E3fCgL"
       ],
       "settings": {
         "full_width": false,
@@ -226,14 +226,6 @@
     "advanced_content_rfCHWb": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_Aq6dU8": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Intro to Fly Fishing Knots<\/h2><p>A proficient knot is essential to landing a fish of any size or species, whether in salt or freshwater. A bad knot can be the difference between pure bliss or absolute devastation and it’s ok to admit that we have all been there before. In Intro to Fly Fishing Knots, our professionals want to sit down with you, up close and in person, to be able to help everyone tie the knots that we as anglers, use most.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "image_BWgeRG": {
           "type": "image",
           "settings": {
@@ -242,11 +234,19 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "liquid_Aq6dU8": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Intro to Fly Fishing Knots<\/h2><p>A proficient knot is essential to landing a fish of any size or species, whether in salt or freshwater. A bad knot can be the difference between pure bliss or absolute devastation and it’s ok to admit that we have all been there before. In Intro to Fly Fishing Knots, our professionals want to sit down with you, up close and in person, to be able to help everyone tie the knots that we as anglers, use most.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "liquid_Aq6dU8",
-        "image_BWgeRG"
+        "image_BWgeRG",
+        "liquid_Aq6dU8"
       ],
       "settings": {
         "full_width": false,
@@ -288,14 +288,6 @@
     "advanced_content_hQ9czM": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_WPAUWc": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Technical Tailwaters<\/h2><p>A tailwater is a river that flows from, and is situated just below a reservoir. As the reservoir releases water throughout the year, the flows rise and fall creating a river. The fish that live in these rivers are infamously picky due to the highly regulated flows that create stable water temperatures, stable food sources, and happy fish.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "image_TqywX4": {
           "type": "image",
           "settings": {
@@ -304,11 +296,19 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "liquid_WPAUWc": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Technical Tailwaters<\/h2><p>A tailwater is a river that flows from, and is situated just below a reservoir. As the reservoir releases water throughout the year, the flows rise and fall creating a river. The fish that live in these rivers are infamously picky due to the highly regulated flows that create stable water temperatures, stable food sources, and happy fish.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "liquid_WPAUWc",
-        "image_TqywX4"
+        "image_TqywX4",
+        "liquid_WPAUWc"
       ],
       "settings": {
         "full_width": false,
@@ -350,14 +350,6 @@
     "advanced_content_WGj6TY": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_4nWgjP": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>On Water Streamer Tactics<\/h2><p>Streamer fishing is one of the most popular ways to catch fish on a fly rod. Like every technique, there is a learning curve to streamer fishing and certain things to understand in order to fish these flies effectively.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "image_djyfcC": {
           "type": "image",
           "settings": {
@@ -366,11 +358,19 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "liquid_4nWgjP": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>On Water Streamer Tactics<\/h2><p>Streamer fishing is one of the most popular ways to catch fish on a fly rod. Like every technique, there is a learning curve to streamer fishing and certain things to understand in order to fish these flies effectively.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "liquid_4nWgjP",
-        "image_djyfcC"
+        "image_djyfcC",
+        "liquid_4nWgjP"
       ],
       "settings": {
         "full_width": false,
@@ -412,14 +412,6 @@
     "advanced_content_qRhB8Q": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_jeja4d": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Warmwater Tactics Class<\/h2><p>Fly fishing is often thought of as a poetic way of catching trout in crystal clear mountain streams. A quiet, surreal experience filled with solitude, peace, and quiet. What we don’t think of is the large, aggressive, warmwater fish that are less than 10 minutes from our driveway right in the middle of Fort Collins.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "image_MBNCn7": {
           "type": "image",
           "settings": {
@@ -428,11 +420,19 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "liquid_jeja4d": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Warmwater Tactics Class<\/h2><p>Fly fishing is often thought of as a poetic way of catching trout in crystal clear mountain streams. A quiet, surreal experience filled with solitude, peace, and quiet. What we don’t think of is the large, aggressive, warmwater fish that are less than 10 minutes from our driveway right in the middle of Fort Collins.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "liquid_jeja4d",
-        "image_MBNCn7"
+        "image_MBNCn7",
+        "liquid_jeja4d"
       ],
       "settings": {
         "full_width": false,
@@ -474,14 +474,6 @@
     "advanced_content_4NCPcC": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_UgQydn": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Private Casting Lessons<\/h2><p>Every angler wants to throw tight loops and delicate presentations with their fly rod. Without proper muscle memory and a good understanding of your fly rod this can be nothing short of a frustrating task. Whether you are a seasoned angler or just picking up a fly rod for the first time, we want to help you understand how to unlock the maximum potential out of your fly rod, time, and money.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "image_VGJnJk": {
           "type": "image",
           "settings": {
@@ -490,11 +482,19 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "liquid_UgQydn": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Private Casting Lessons<\/h2><p>Every angler wants to throw tight loops and delicate presentations with their fly rod. Without proper muscle memory and a good understanding of your fly rod this can be nothing short of a frustrating task. Whether you are a seasoned angler or just picking up a fly rod for the first time, we want to help you understand how to unlock the maximum potential out of your fly rod, time, and money.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "liquid_UgQydn",
-        "image_VGJnJk"
+        "image_VGJnJk",
+        "liquid_UgQydn"
       ],
       "settings": {
         "full_width": false,
