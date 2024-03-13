@@ -18,7 +18,7 @@
         "image_EJfh8C": {
           "type": "image",
           "settings": {
-            "title": "Scott Session",
+            "title": "Come cast the all new\nScott Session!",
             "title_size": 80,
             "subheading": "",
             "link": "",
@@ -52,16 +52,24 @@
             "title": "Come join us Scott Rod Day May 4th!"
           }
         },
+        "text_hCw6nP": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
         "text_FBVtnj": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>St. Peter's has acquired one of the first shipments of Scott Fly Rods' new Session fly rod.  The wait for the Flex replacement is over: enter the new mid-priced Scott Session fly rod ($675).<\/p><p>From Scott Fly Rods:<\/p><p>Session rods bring together high line speed, exceptional loop control, and a light and lively feel in hand.<\/p><p>They load easily, and they respond to subtle inputs from the angler.<\/p><p>President, Jim Bartschi said, “Anyone who has fished Scott freshwater rods in the recent past will immediately recognize our signature ‘fast with feel’ action in Session rods. They share some of the design approaches and materials DNA with some of our most legendary rods. Incorporating some of our newest technologies give these rods their own unique feel and attributes.”<\/p><p>Session rods feature Scott’s Carbon Link epoxy resin system, Multi-Modulus lay ups, ARC2 reinforcement, ReAct, and Natural Finish blanks.<\/p><p>Session rods are handcrafted in Montrose, Colorado, using the finest components including milled aluminum reel seats with type 2 anodize and wood inserts, silicon nitride stripping guides, and Super grade cork handles.<\/p><p><\/p><p>Available from 8 to 10 feet, in four-piece configuration for 3 weight to 8 weight lines, MSRP $675.00<\/p><p>In our thoughts, the <a href=\"https:\/\/stpetes.com\/catalog\/product\/view\/id\/13789\/s\/scott-session-fly-rod\/category\/4\/\">Scott Session fly rod<\/a> is a huge step forward from the \"Flex\" rod that was put to bed a few years ago.  We have been itching to get our hands on the Flex \"replacement\" for a few years, and Scott has delivered a great rod at a great price.  The Session is not so much a replacement to the Flex, as it's a fine new rod in it's own right.  It is not the Flex 2.0...it's the Session.  It's unique, and it's definitely right at home in the Scott family.  If you enjoy the \"fast with feel\" idea from Scott, this rod is for you.  For a fast action rod, it's slower than you might imagine as a rod in that category.  This idea, combined with its solid loop control, gives you confidence to make an accurate cast near and far.  The Session is a do-it-all rod for a variety of conditions and fishing tactics, and is accessibly priced to leave room for your other fly fishing needs.<\/p><p>Stop by today to cast one and see what all the buzz is about!  ~  Available <a href=\"https:\/\/stpetes.com\/catalog\/product\/view\/id\/13789\/s\/scott-session-fly-rod\/category\/4\/\">here online.<\/a><\/p><p><\/p><p><\/p>"
+            "text": "<p>St. Peter's has acquired one of the first shipments of Scott Fly Rods' new Session fly rod.  The wait for the Flex replacement is over: enter the new mid-priced Scott Session fly rod ($675).<\/p><p>From Scott Fly Rods:<\/p><p>Session rods bring together high line speed, exceptional loop control, and a light and lively feel in hand.<\/p><p>They load easily, and they respond to subtle inputs from the angler.<\/p><p><\/p>"
           }
         }
       },
       "block_order": [
         "heading_7dfYzC",
+        "text_hCw6nP",
         "text_FBVtnj"
       ],
       "settings": {
