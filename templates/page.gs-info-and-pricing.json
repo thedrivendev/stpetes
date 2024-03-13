@@ -71,11 +71,32 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "rich_text_XXNGPy": {
+      "type": "rich-text",
+      "blocks": {
+        "text_jrB46D": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Your day on the river with a guide from St. Peter's Fly Shop is designed to maximize your enjoyment. All guide trips can be instructional...or we can just go out and help you catch fish. Part school, part fishing, our trips will build your fundamental fly fishing skills, expand your understanding of local entomology, work the kinks out of your presentation, or help you get rid of that annoying tailing loop. Let us know what we can do to maximize your enjoyment on stream and we'll do whatever we can to accommodate you.<\/p><p>Our guide trips include everything you'll need for your day on stream. We are pleased to provide our clients with the fine rods from the Sage Manufacturing and Scott Fly Rod Company. Our reels and lines come from leading manufacturers in the industry such as Waterworks Lamson, Hatch Reels and Ross Reels, Scientific Anglers, Rio Products. Wading equipment can be provided upon request.<\/p><p>Our full day float and wade trips include lunch and beverages on stream. Drinks and snacks are provided on half day trips. Do you have dietary restrictions or other special needs? Please let us know and we're happy to accommodate you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_jrB46D"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
     "rich_text_9YTrrX",
-    "slideshow_YN9FcH"
+    "slideshow_YN9FcH",
+    "rich_text_XXNGPy"
   ]
 }
