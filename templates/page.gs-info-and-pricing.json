@@ -122,6 +122,82 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "rich_text_wYkmjk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PQitft": {
+          "type": "heading",
+          "settings": {
+            "title": "What to Bring?"
+          }
+        },
+        "text_tktiD3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Bring any of your own equipment that you would like to use. We have waders, boots, rods and reels available for all our clients going on a guided fishing trip with us.<\/p><p>Light Jacket \/ Rain Jacket  -  Polarized Sunglasses  -  Hat with brim  -  Sunscreen  -  Socks<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PQitft",
+        "text_tktiD3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_tT6GbC": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_yUF9dV": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_7bfNzD": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_yUF9dV",
+        "liquid_7bfNzD"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_GYqf8j": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dGGqDb": {
+          "type": "heading",
+          "settings": {
+            "title": "Pricing"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dGGqDb"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -129,6 +205,9 @@
     "rich_text_9YTrrX",
     "slideshow_YN9FcH",
     "rich_text_XXNGPy",
-    "advanced_content_BCfVCA"
+    "advanced_content_BCfVCA",
+    "rich_text_wYkmjk",
+    "advanced_content_tT6GbC",
+    "rich_text_GYqf8j"
   ]
 }
