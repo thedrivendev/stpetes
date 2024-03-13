@@ -77,11 +77,34 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "text_and_image_kgybHL": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Session-4-flat-5-wght.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/Session-regular-butt.jpg",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>Session rods bring together high line speed, exceptional loop control, and a light and lively feel in hand.<\/p><p>They load easily, and they respond to subtle inputs from the angler.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
     "slideshow_ztMMap",
-    "rich_text_rcjx43"
+    "rich_text_rcjx43",
+    "text_and_image_kgybHL"
   ]
 }
