@@ -32,13 +32,13 @@
         "image_3Lrt9W": {
           "type": "image",
           "settings": {
-            "title": "Scott Day is on the way!\nMay 6th @ Both Shops",
+            "title": "NEW! G3 Guide Boot",
             "title_size": 54,
-            "subheading": "Introducing the new Scott Session!",
-            "link": "shopify:\/\/blogs\/news\/new-scott-session-fly-rod-available-now",
-            "link_text": "Check it out here",
+            "subheading": "",
+            "link": "shopify:\/\/products\/241-simms-g3-guide-boot-vibram",
+            "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/IMG_6078.jpg",
+            "image": "shopify:\/\/shop_images\/new_g3_boot_ec3351ae-1014-4572-a4e8-0dfbbe539d46.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
