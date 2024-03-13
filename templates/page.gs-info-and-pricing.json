@@ -25,10 +25,57 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "slideshow_YN9FcH": {
+      "type": "slideshow",
+      "blocks": {
+        "image_aRfyPh": {
+          "type": "image",
+          "settings": {
+            "title": "The Experience",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Jason-Guiding-Rainbow-1024x593_55a2d8a6-2512-40ec-8aab-889d14334cf2.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_BYhdmK": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_6169.webp",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_aRfyPh",
+        "image_BYhdmK"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
-    "rich_text_9YTrrX"
+    "rich_text_9YTrrX",
+    "slideshow_YN9FcH"
   ]
 }
