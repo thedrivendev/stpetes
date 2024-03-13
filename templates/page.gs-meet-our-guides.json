@@ -55,7 +55,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Josh-guide-pic-2-1.jpg",
-            "image_mask": "none",
+            "image_mask": "square",
             "image_width": 650,
             "title": "Josh Henriksen",
             "text": "<p>Josh grew up in Fort Collins and has been exploring the Poudre Canyon and wild<br\/>places since a young age. Nature has been Josh’s “happy place” his entire life. He holds<br\/>the belief that when one immerses themselves in nature, they learn not just about plants,<br\/>animals and landscape, but more importantly about oneself. Josh is at home in the<br\/>woods, and hunting wild fish with a fly rod is a perfect fit. Fly fishing is definitely a<br\/>lifestyle for him.<\/p><p>Wading Colorado’s rivers, rowing bigger waters in Wyoming, hiking to high<br\/>mountain lakes and tying flies are ways Josh is always trying to learn more. He stays<br\/>thoroughly embedded in fish up to his gills and would have it no other way!<\/p><p>Becoming a guide seemed inevitable in Josh’s life. He loves to share his<br\/>knowledge about trout and their ecosystem. His passion for guiding is obvious with a<br\/>day spent on the water with him. “Sharing these amazing places and beautiful fish with<br\/>people is a dream come true for me! Seeing people connect with their natural<br\/>environment and the experience it gives them is my motivation each day.” -Josh<\/p><p><\/p>",
@@ -81,7 +81,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Matt-guide-pic.jpg",
-            "image_mask": "none",
+            "image_mask": "square",
             "image_width": 650,
             "title": "Matt Nisbet",
             "text": "<p>A Fort Collins Native who grew up fly fishing all over the front range, Matt is no<br\/>stranger to our local waters.  Having a family property in the Saratoga region of<br\/>Wyoming, the North Platte river and high alpine lakes of south eastern Wyoming are<br\/>just some of the regional waters that Matt calls home. Due to his love of hunting and<br\/>the chase of wild things, if you find Matt on the water, you’ll usually find him with a<br\/>streamer in his hand! If you don’t find him on the water, he’s either tying flies,<br\/>searching for Whitetail bucks, or chasing wild turkeys through the hills of Fort Collins,<br\/>and of course, chasing the beautiful trout of our wonderful home waters!<\/p>",
@@ -144,7 +144,8 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_mask": "none",
+            "image": "shopify:\/\/shop_images\/C.Murph_Guide.Pic.jpg",
+            "image_mask": "square",
             "image_width": 650,
             "title": "Connor Murphy",
             "text": "<p>Born and raised in Fort Collins, Connor has been darkening the doorstep of St. Pete’s and<br\/>roaming the Poudre since before he could walk. Another addition to a long line of anglers, fly fishing has truly been an all-consuming passion for Connor since childhood. Connor has been guiding the Poudre for St. Pete’s for over a decade and has been fortunate enough to guide and fish all over the world. In addition to being an IFFF certified casting instructor, Connor teaches many of our classes at the shop, both in the field and the classroom. Graduating from CSU with a BS in Fisheries Biology, Connor currently spends most of his time working as a fisheries biologist for FlyWater inc., a local river restoration company. When he’s not wandering through a willow gallery somewhere Connor can be found at home with his wife and son, out puttering around in the garden or nestled in behind his fly tying desk.<\/p><p><br\/>For Connor, nothing is more enjoyable than spending time in a river, and no river is more<br\/>enjoyable to spend time in than the Cache la Poudre.<\/p>",
