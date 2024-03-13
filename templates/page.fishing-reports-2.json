@@ -40,14 +40,6 @@
     "advanced_content_MUeCgG": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_cWQdAr": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Big Thompson River<\/h2><p>.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "image_4XmgEN": {
           "type": "image",
           "settings": {
@@ -56,11 +48,19 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "liquid_cWQdAr": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Big Thompson River<\/h2><p>.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "liquid_cWQdAr",
-        "image_4XmgEN"
+        "image_4XmgEN",
+        "liquid_cWQdAr"
       ],
       "settings": {
         "full_width": false,
@@ -102,14 +102,6 @@
     "advanced_content_HLTXfj": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_FhYg8M": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Laramie River<\/h2><p><\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "image_6xkhGb": {
           "type": "image",
           "settings": {
@@ -118,11 +110,19 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "liquid_FhYg8M": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Laramie River<\/h2><p><\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "liquid_FhYg8M",
-        "image_6xkhGb"
+        "image_6xkhGb",
+        "liquid_FhYg8M"
       ],
       "settings": {
         "full_width": false,
@@ -164,14 +164,6 @@
     "advanced_content_jQ3p33": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_jGQ7UK": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Rocky Mountain National Park<\/h2><p><\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "image_VNhp8w": {
           "type": "image",
           "settings": {
@@ -180,11 +172,19 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "liquid_jGQ7UK": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Rocky Mountain National Park<\/h2><p><\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "liquid_jGQ7UK",
-        "image_VNhp8w"
+        "image_VNhp8w",
+        "liquid_jGQ7UK"
       ],
       "settings": {
         "full_width": false,
@@ -226,14 +226,6 @@
     "advanced_content_tycwaU": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_DAGn9k": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Encampment River<\/h2><p><\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "image_zh7hCY": {
           "type": "image",
           "settings": {
@@ -242,11 +234,19 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "liquid_DAGn9k": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Encampment River<\/h2><p><\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "liquid_DAGn9k",
-        "image_zh7hCY"
+        "image_zh7hCY",
+        "liquid_DAGn9k"
       ],
       "settings": {
         "full_width": false,
