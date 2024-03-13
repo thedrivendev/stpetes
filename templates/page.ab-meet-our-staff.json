@@ -27,7 +27,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Jin-GT-Xmas.jpg",
-            "image_mask": "none",
+            "image_mask": "square",
             "image_width": 650,
             "title": "Jin Choi",
             "text": "<p>Since moving to Fort Collins in 1991, Jin has been passionate about learning the local rivers and lakes. Although calling the northern Front Range home, his pursuit of any fish eager to chase a fly has led him to spend seasons in locations stretching from Alaska to the Caribbean. While there are not many things he enjoys more than time on the water, teaching others about flyfishing, fly tying, and entomology are just as rewarding. Even if you are unable to attend any of Jin's classes or arrange a guided trip with him, he is always happy to answer questions or just chat about your latest fishing adventure.<\/p>",
@@ -39,7 +39,8 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_mask": "none",
+            "image": "shopify:\/\/shop_images\/AA_permit_1d630ad3-4404-4587-aa6e-0115bd4d6c8a.jpg",
+            "image_mask": "square",
             "image_width": 650,
             "title": "Aaron Alexander",
             "text": "<p>A Northern Colorado native, fly fishing has been a part of Aaron's life since he was given his father’s old fiberglass fly rod at age 12. Armed with his father's traditional fly fishing techniques, an arsenal of stillwater knowledge from his father-in-law, and a new-found love for spey casting and two-handed rods, Aaron is equally at home tossing dries on the Poudre, swinging flies on the Miracle Mile or float tubing the Delaney Buttes with sinking lines and streamers. With unending patience and undying enthusiasm, he truly enjoys sharing the fly fishing life style with everyone...whether it be on the water, in the shop or the local watering hole. When not on the water, he can be found tying last minute bugs for tomorrow's trip, picking the guitar or reading John Gierach's latest work.<\/p>",
