@@ -14,6 +14,25 @@
     },
     "slideshow_ztMMap": {
       "type": "slideshow",
+      "blocks": {
+        "image_EJfh8C": {
+          "type": "image",
+          "settings": {
+            "title": "Scott Session",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_6078.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_EJfh8C"
+      ],
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
