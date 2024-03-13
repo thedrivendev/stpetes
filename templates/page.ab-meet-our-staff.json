@@ -125,6 +125,45 @@
             "button_label": "",
             "button_link": ""
           }
+        },
+        "text_block_hdJzrH": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/jay-bio-pic-2.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "Jay Frazier",
+            "text": "<p>Originally from Oklahoma, Jay fell in love with traditional fishing for catfish, sunfish, and bass. After moving to  Colorado in 2011, he was introduced to fly fishing and never looked back. Learning to fly fish on the South Platte came with some frustrations but has paid off in the long run. Jay can be found fishing the South and North Park lakes, the Colorado River, and our local rivers frequently between classes at CSU, where he is currently pursuing a degree in Supply Chain Management.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_V9MaLT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/brody-profile-pic.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "Brody Cinabro",
+            "text": "<p>A Colorado native, Brody grew up in Fort Collins and began fishing at 3 years old with his grandpa. He picked up fly fishing at 14 and has been an avid fly angler ever since. In his free time, Brody can be found fishing various streams and rivers for trout, chasing carp and other warm water species, skiing, or just enjoying being outside.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_LLWzzp": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/rigging_for_trout_class_a76895ca-404b-4f96-b00a-a04f8fb1614c.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "Brett Muller",
+            "text": "<p>Brett has spent his whole life in Colorado, growing up in the Denver area, and has plenty of knowledge of the watersheds we have near and far.  He is currently studying Natural Resources with a concentration in Tourism at Colorado State University.  When he isn't studying or working in the shop, you can most likely find him out on the water enjoying all that the Rocky Mountain west has to offer.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
@@ -136,7 +175,10 @@
         "text_block_cbxJmQ",
         "text_block_ka9pwA",
         "text_block_cUC6bD",
-        "text_block_LhPMpC"
+        "text_block_LhPMpC",
+        "text_block_hdJzrH",
+        "text_block_V9MaLT",
+        "text_block_LLWzzp"
       ],
       "settings": {
         "title": "",
