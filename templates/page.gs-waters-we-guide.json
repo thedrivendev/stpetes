@@ -11,7 +11,7 @@
         "liquid_DAGn9k": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Poudre River<\/h2><p>The Cache La Poudre is one of the only undammed rivers in the state and the canyon views are breathtaking. Only minutes away from our shop, this is our main local water and where most of our guide trips take place.<\/p>\n\n Add a link via code for each one of these direct to their flybook page. Click to learn more about the poudre river and available guide trips.",
+            "code": "<h2>Poudre River<\/h2><p>The Cache La Poudre is one of the only undammed rivers in the state and the canyon views are breathtaking. Only minutes away from our shop, this is our main local water and where most of our guide trips take place.<\/p>\n\n Add a link via code for each one of these direct to their flybook page. Click to learn more about the poudre river and available guide trips.\n\n<button class='flybook-book-now-button fb-widget-type-frontend fb-default-category-id-0 fb-account-id-1142 fb-entity-config-id-21672 fb-domain-go.theflybook.com fb-protocol-https' style='background-color: #ee5505;'>BOOK NOW<\/button><link rel='stylesheet' href='https:\/\/go.theflybook.com\/content\/bootstrapper\/flybookbootstrap.css' \/><script src='https:\/\/go.theflybook.com\/custom\/bootstrapper\/flybookbootstrap.js'><\/script>",
             "width": "50%",
             "alignment": "center"
           }
