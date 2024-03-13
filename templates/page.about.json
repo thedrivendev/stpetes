@@ -39,25 +39,6 @@
     },
     "rich-text": {
       "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "St. Peter's Old Town"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Located in a Victorian home from the 1800’s, St. Peter’s Fly Shop provides a very unique environment for our customers and is a must stop for all anglers visiting Colorado's Front Range. Loaded with the best fly selection.<\/p><p>St. Peters Old Town<br\/>202 Remington St.<br\/>Ft. Collins, CO. 80524<br\/>970-498-8968<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -107,8 +88,8 @@
     "map": {
       "type": "map",
       "settings": {
-        "map_title": "Our retail store",
-        "address": "<p>301 Front St W<br\/>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
+        "map_title": "St. Peter's Old Town",
+        "address": "<p>202 Remington St.<br\/>Fort Collins, CO 80524<\/p><p>Mon - Fri, 9:00am - 6:00pm<br\/>Saturday, 9:00am - 6:00pm<br\/>Sunday, CLOSED<\/p>",
         "map_address": "301 Front St W, Toronto, ON M5V 2T6",
         "api_key": "",
         "show_button": true,
@@ -117,6 +98,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured collection",
         "home_featured_products": "",
