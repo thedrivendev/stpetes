@@ -73,7 +73,7 @@
         "liquid_46Nt6m": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Grey Reef<\/h2><p>When anglers want to catch big fish on big water, we bring them to the Grey Reef and Miracle Mile. These lower sections of the North Platte River  provide anglers with the opportunity to catch some very large fish year-round. Despite having access to wadable water, fishing this section from a boat is our preferable way to cover the water effectively.<\/p>\n\nMake more reef specific",
+            "code": "<h2>Grey Reef<\/h2><p>When anglers want to catch big fish on big water, we bring them to the Grey Reef and Miracle Mile. These lower sections of the North Platte River  provide anglers with the opportunity to catch some very large fish year-round. Despite having access to wadable water, fishing this section from a boat is our preferable way to cover the water effectively.<\/p>\n\nMake more reef specific\n\n<button class='flybook-book-now-button fb-widget-type-frontend fb-default-category-id-0 fb-account-id-1142 fb-entity-config-id-21675 fb-domain-go.theflybook.com fb-protocol-https' style='background-color: #ee5505;'>BOOK NOW<\/button><link rel='stylesheet' href='https:\/\/go.theflybook.com\/content\/bootstrapper\/flybookbootstrap.css' \/><script src='https:\/\/go.theflybook.com\/custom\/bootstrapper\/flybookbootstrap.js'><\/script>",
             "width": "50%",
             "alignment": "center"
           }
@@ -104,7 +104,7 @@
         "liquid_Qb6NGa": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Miracle Mile<\/h2><p>Rewrite blurb specific to mile<\/p>",
+            "code": "<h2>Miracle Mile<\/h2><p>Rewrite blurb specific to mile<\/p>\n\n<button class='flybook-book-now-button fb-widget-type-frontend fb-default-category-id-0 fb-account-id-1142 fb-entity-config-id-21676 fb-domain-go.theflybook.com fb-protocol-https' style='background-color: #ee5505;'>BOOK NOW<\/button><link rel='stylesheet' href='https:\/\/go.theflybook.com\/content\/bootstrapper\/flybookbootstrap.css' \/><script src='https:\/\/go.theflybook.com\/custom\/bootstrapper\/flybookbootstrap.js'><\/script>",
             "width": "50%",
             "alignment": "center"
           }
