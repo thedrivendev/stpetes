@@ -91,12 +91,44 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "advanced_content_BCfVCA": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_xFzWyG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/group_ic.jpg",
+            "link": "shopify:\/\/blogs\/guide-service\/meet-our-guides",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_b4yPnG": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Our Guides<\/h2><p>Here at St. Peter's we strive to provide our clients with friendly, knowledgeable, well trained guides who's primary focus is you. There are plenty of shops out there willing to match you up with a warm body that's basically getting paid to learn the water and take you along. Not here...\nOur guides are experienced fly fishers with extensive knowledge of local streams, hatches, and techniques. While we've got our share of eccentrics on staff, you will not find attitudes, assumptions, or criticisms from our guides. If you do, we want to hear about it.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_xFzWyG",
+        "liquid_b4yPnG"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
     "rich_text_9YTrrX",
     "slideshow_YN9FcH",
-    "rich_text_XXNGPy"
+    "rich_text_XXNGPy",
+    "advanced_content_BCfVCA"
   ]
 }
