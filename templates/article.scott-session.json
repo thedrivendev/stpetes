@@ -12,68 +12,29 @@
         "social_sharing_blog": true
       }
     },
-    "slideshow_BK3jKY": {
-      "type": "slideshow",
-      "blocks": {
-        "image_RXyqnK": {
-          "type": "image",
-          "settings": {
-            "title": "G4Z Launch Party",
-            "title_size": 75,
-            "subheading": "April 6th @ Both Shops",
-            "link": "shopify:\/\/products\/241-simms-men-s-g4z-stockingfoot-wader",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Picture4.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_3Lrt9W": {
-          "type": "image",
-          "settings": {
-            "title": "NEW! G3 Guide Boot",
-            "title_size": 54,
-            "subheading": "",
-            "link": "shopify:\/\/products\/241-simms-g3-guide-boot-vibram",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/new_g3_boot_ec3351ae-1014-4572-a4e8-0dfbbe539d46.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_RXyqnK",
-        "image_3Lrt9W"
-      ],
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
-    "rich_text_cMTRHk": {
+    "rich_text_dpWa6T": {
       "type": "rich-text",
       "blocks": {
-        "text_YzqnyF": {
+        "heading_C7HAzT": {
+          "type": "heading",
+          "settings": {
+            "title": "St. Peter's Annual Scott Day"
+          }
+        },
+        "text_8zKr6D": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>We would like to invite one and all to our <strong>17th Annual Simms Day and G4Z Launch Party on April 6th. <\/strong> This is the one day each year we are able to hook up our customers with in-store specials on all Simms gear, including Winston Fly Rods and Lamson Reels.  Whether its Simms waders, boots, accessories, a new Winston fly rod or a new Lamson reel, we are excited to get you outfitted for the coming season with a few specials to \"boot!\"  Stay tuned for more details...<\/p><ul><li><strong>Specials and kickbacks will be offered on all Simms gear, so don't miss out!<\/strong><\/li><li><strong>Winston fly rod Gift Card kickbacks<\/strong><\/li><li><strong>Lamson reels Gift Card kickbacks<\/strong><\/li><li><strong>Store-wide Fly Sale<\/strong><\/li><li><strong>Extra discounts on clearance items<\/strong><\/li><\/ul><h3><strong>Simms Day Raffle- Win a Dry Creek Z Sling Pack & Daymaker Net - Medium. Any purchase of any Simms gear will get you entered. <\/strong><\/h3><p>Our Simms\/Winston\/Lamson reps will be on hand at both shops to answer questions and ensure proper sizing. Waders, rods, reels and flies...just add water for fishing fun!<\/p><p>From waders to boots to apparel and accessories, we've done our best to secure a great selection of inventory for our customers.<\/p><p>See you there!<\/p>"
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
       "block_order": [
-        "text_YzqnyF"
+        "heading_C7HAzT",
+        "text_8zKr6D"
       ],
       "settings": {
-        "align_text": "left",
+        "align_text": "center",
         "narrow_column": true,
         "divider": false
       }
@@ -81,7 +42,6 @@
   },
   "order": [
     "main",
-    "slideshow_BK3jKY",
-    "rich_text_cMTRHk"
+    "rich_text_dpWa6T"
   ]
 }
