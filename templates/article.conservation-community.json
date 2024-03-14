@@ -12,20 +12,6 @@
         "social_sharing_blog": true
       }
     },
-    "blog-posts": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "",
-        "blog": "fishing-reports",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": true,
-        "blog_show_comments": false,
-        "blog_show_author": false,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "advanced_content_BgnMaR": {
       "type": "advanced-content",
       "blocks": {
@@ -116,13 +102,27 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "",
+        "blog": "fishing-reports",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
-    "blog-posts",
     "advanced_content_BgnMaR",
     "advanced_content_XVtk6r",
-    "advanced_content_BmUxM4"
+    "advanced_content_BmUxM4",
+    "blog-posts"
   ]
 }
