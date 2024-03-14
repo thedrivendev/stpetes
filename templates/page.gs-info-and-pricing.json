@@ -56,11 +56,26 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_3QnEdt": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Jason_large_image_guidding_201b8af1-b58f-4bb4-823c-ba3fc7805dcf.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "image_aRfyPh",
-        "image_BYhdmK"
+        "image_BYhdmK",
+        "image_3QnEdt"
       ],
       "settings": {
         "section_height": "650px",
