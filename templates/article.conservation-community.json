@@ -87,6 +87,7 @@
         "image_Yywzzj": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/CPRW-logo-rgb.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
