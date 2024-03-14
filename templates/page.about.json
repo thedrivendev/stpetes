@@ -6,6 +6,26 @@
       "settings": {
       }
     },
+    "rich_text_geVnTP": {
+      "type": "rich-text",
+      "blocks": {
+        "text_cCVNcz": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Our shops are dedicated to providing each individual with highly personalized attention no matter what your needs in order to ensure the best angling experience possible. We are able to achieve and guarantee this level of service because we maintain a highly educated and helpful staff, and offer you the finest selection in fly fishing gear, tackle, and accessories. Whether you are looking for fly tackle, or just need information on the local waters and a few flies to get you started, let our staff offer you the best knowledge available. If you can’t stop by the shop's give us a call and we would be happy to assist you with any fly fishing needs.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_cCVNcz"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -120,6 +140,7 @@
   },
   "order": [
     "main",
+    "rich_text_geVnTP",
     "slideshow",
     "rich-text",
     "text-columns",
