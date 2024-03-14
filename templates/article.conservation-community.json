@@ -12,18 +12,6 @@
         "social_sharing_blog": true
       }
     },
-    "slideshow_mGrDTc": {
-      "type": "slideshow",
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
     "blog-posts": {
       "type": "blog-posts",
       "settings": {
@@ -37,11 +25,104 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "advanced_content_BgnMaR": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_etFL6t": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>St. Peter's Community<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_yVWi8y": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_etFL6t",
+        "image_yVWi8y"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_XVtk6r": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_YHHLJb": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Rocky Mountain Flycasters\/TU<\/h2><p>The chapter will be holding numerous volunteer opportunities this year as well. All of which can be found by visiting their website here.\n<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_jtMdH9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RMFC.png",
+            "link": "https:\/\/rmftu.org\/",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_YHHLJb",
+        "image_jtMdH9"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_BmUxM4": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_VNER4C": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Coalition for the Poudre River Watershed<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_Yywzzj": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_VNER4C",
+        "image_Yywzzj"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
-    "slideshow_mGrDTc",
-    "blog-posts"
+    "blog-posts",
+    "advanced_content_BgnMaR",
+    "advanced_content_XVtk6r",
+    "advanced_content_BmUxM4"
   ]
 }
