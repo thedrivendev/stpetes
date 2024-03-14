@@ -1,0 +1,245 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "disabled": true,
+      "settings": {
+        "blog_show_image": true,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": true,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "slideshow_mGrDTc": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PFHApD": {
+          "type": "image",
+          "settings": {
+            "title": "Grey Reef\/Miracle Mile Fishing Report",
+            "title_size": 48,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/rb.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_PFHApD"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_A3XKJB": {
+      "type": "rich-text",
+      "blocks": {
+        "text_MjJijk": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Latest Update:<strong> 2\/19\/2024<\/strong><\/p><p><strong>Current Streamflow : Gauge is Frozen <\/strong>@ Canyon Mouth, <strong> 10 cfs <\/strong> @ Town,<strong> 3 cfs @<\/strong>North Fork below Seaman<\/p>"
+          }
+        },
+        "text_7NPt7d": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>Current Streamflow :  497 cfs <\/strong>@<strong> <\/strong>Grey Reef<strong>, 532 cfs <\/strong>@ Miracle Mile<strong><br\/><\/strong><br\/><\/p><p>The flows on both the Miracle Mile and Grey Reef have remained steady over the last few weeks. Both sections of river will remain around 500-600 cfs through the colder months. Midges and baetis can be seen hatching on the North Platte throughout the winter months. In addition to these small bugs there are plenty of scuds, leeches, worms, and eggs in the river year round, so definitely give them a try as well. Having a larger, heavier lead fly with a smaller midge trailing is a great way to fish the Platte in the winter. Make sure to have some additional weight on your nymph rigs to get your flies down to the fish in some of the deeper holes. Nymphing has been the most productive way to find some fish, but streamers can also be very effective. Streamers such as a geisha girl, sparkle minnow, and slump busters have been working well. The conditions up north will be changing by the day, so be sure to swing by the shop or give us a call if you have any questions!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_MjJijk",
+        "text_7NPt7d"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_BH4zKV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gcmQiW": {
+          "type": "heading",
+          "settings": {
+            "title": "Recommended Grey Reef \/ Miracle Mile Flies:"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gcmQiW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_columns_jbNjYX": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_cKdhEc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "Dry Flies",
+            "text": "<ul><li>Adams#18-24<\/li><li>Para Adams #18-24<\/li><li>Sprout Midge #18-22<\/li><li>Griffith Gnat #18-#20<\/li><li>Para Wulf Adams #18-22<\/li><li>Erics High Vis Midge #20-22<\/li><li>Mole Fly #18-22<\/li><li>ARF Midge #20-22<\/li><li>Film Critic BWO #18-22<\/li><li>Ext. Body BWO #18-22<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_zY8zcT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "Nymphs",
+            "text": "<ul><li>Copper John #18-22<\/li><li>Juju Baetis #18-22<\/li><li>Sparkle Wing RS2 #18-#20<\/li><li>Olive Two-bit Hooker #18<\/li><li>Split Foam Back #18-#22<\/li><li>WD-40 #18-22<\/li><li>Mayhem Midge #18-20<\/li><li>Theo's Melting Pot Midge #18-22<\/li><li>Mohair Leech Black\/ Wine #10-14<\/li><li>Sparkle Worm #10<\/li><li>Annelid #14-18<\/li><li>Otter Egg #12-14<\/li><li>Gabriels Trumpet #10-16<\/li><li>Girdle Bug\/Rubber Legs Stone #8-12<\/li><li>Flossy Worm, IED #10<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_AXQGnW": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "Streamers",
+            "text": "<ul><li>Thin Mint #8-12<\/li><li>Dungeons<\/li><li>Rusty Trombones<\/li><li>Platte River Spider<\/li><li>Goldies<\/li><li>Peanut Envys<\/li><li>Thin-Mint #8-12<\/li><li>Sparkle Minnow #4-6<\/li><li>Rubber Bugger Yellow\/Brown #4<\/li><li>Platte River Special<\/li><li>Ish's Snitch<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_cKdhEc",
+        "text_block_zY8zcT",
+        "text_block_AXQGnW"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "left",
+        "divider": false
+      }
+    },
+    "featured_product_jzUbtr": {
+      "type": "featured-product",
+      "blocks": {
+        "price_qzC9PY": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "separator_DBjchP": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker_QaKGfK": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_UdhRpY": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description_JwXxeA": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "price_qzC9PY",
+        "separator_DBjchP",
+        "variant_picker_QaKGfK",
+        "buy_buttons_UdhRpY",
+        "description_JwXxeA"
+      ],
+      "settings": {
+        "featured_product": "{{ article.metafields.custom.fly_assortment.value }}",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "rich_text_jifnEU": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LYM8zq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>The 2023 season on the Cache La Poudre was an absolute blast!  If you have any questions about guide trips please contact us at 970-498-8968.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LYM8zq"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "",
+        "blog": "fishing-reports",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_mGrDTc",
+    "rich_text_A3XKJB",
+    "rich_text_BH4zKV",
+    "text_columns_jbNjYX",
+    "featured_product_jzUbtr",
+    "rich_text_jifnEU",
+    "blog-posts"
+  ]
+}
