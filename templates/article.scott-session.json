@@ -77,11 +77,47 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "rich_text_AV9zQU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jty7Jb": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_iVBieD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Session rods feature Scott’s Carbon Link epoxy resin system, Multi-Modulus lay ups, ARC2 reinforcement, ReAct, and Natural Finish blanks.<\/p><p>Scott Rods are handcrafted in Montrose, Colorado, using the finest components including milled aluminum reel seats with type 2 anodize and wood inserts, silicon nitride stripping guides, and Super grade cork handles.<\/p><p>Available from 8 to 10 feet, in four-piece configuration for 3 weight to 8 weight lines, MSRP $675.00<\/p><p>In our thoughts, the Scott Session fly rod is a huge step forward from the \"Flex\" rod that was put to bed a few years ago.  We have been itching to get our hands on the Flex \"replacement\" for a few years, and Scott has delivered a great rod at a great price. <\/p><p> The Session is not so much a replacement to the Flex, as it's a fine new rod in it's own right.  It is not the Flex 2.0...it's the Session.  It's unique, and it's definitely right at home in the Scott family.  If you enjoy the \"fast with feel\" idea from Scott, this rod is for you.  For a fast action rod, it's slower than you might imagine as a rod in that category.  This idea, combined with its solid loop control, gives you confidence to make an accurate cast near and far.  <\/p>"
+          }
+        },
+        "text_DpNdzy": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The Session is a do-it-all rod for a variety of conditions and fishing tactics, and is accessibly priced to leave room for your other fly fishing needs.Stop by today to cast one and see what all the buzz is about! <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jty7Jb",
+        "text_iVBieD",
+        "text_DpNdzy"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
     "rich_text_dpWa6T",
-    "advanced_content_DqqYQy"
+    "advanced_content_DqqYQy",
+    "rich_text_AV9zQU"
   ]
 }
