@@ -18,7 +18,7 @@
         "liquid_etFL6t": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>St. Peter's Community<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2>St. Peter's Community<\/h2><p><\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -80,7 +80,7 @@
         "liquid_VNER4C": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Coalition for the Poudre River Watershed<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2>Coalition for the Poudre River Watershed<\/h2><p>To improve & maintain the ecological health of the Poudre River Watershed through community collaboration.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
