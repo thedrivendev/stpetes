@@ -199,18 +199,6 @@
     },
     "rich_text_jifnEU": {
       "type": "rich-text",
-      "blocks": {
-        "text_LYM8zq": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><strong>The 2023 season on the Cache La Poudre was an absolute blast!  If you have any questions about guide trips please contact us at 970-498-8968.<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_LYM8zq"
-      ],
       "settings": {
         "align_text": "left",
         "narrow_column": true,
