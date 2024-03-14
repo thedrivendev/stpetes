@@ -62,7 +62,7 @@
         "liquid_kBthjC": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>President, Jim Bartschi said, “Anyone who has fished Scott freshwater rods in the recent past will immediately recognize our signature ‘fast with feel’ action in Session rods. They share some of the design approaches and materials DNA with some of our most legendary rods. Incorporating some of our newest technologies give these rods their own unique feel and attributes.”<\/p>",
+            "code": "<h2><\/h2><p>President, Jim Bartschi said, “Anyone who has fished Scott freshwater rods in the recent past will immediately recognize our signature ‘fast with feel’ action in Session rods. They share some of the design approaches and materials DNA with some of our most legendary rods. Incorporating some of our newest technologies give these rods their own unique feel and attributes.”<\/p>",
             "width": "50%",
             "alignment": "center"
           }
