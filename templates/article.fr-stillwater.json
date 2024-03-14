@@ -152,6 +152,62 @@
         "divider": false
       }
     },
+    "featured_product_VhNwmD": {
+      "type": "featured-product",
+      "blocks": {
+        "price_9nm4Nc": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "separator_XVKLkh": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker_9bw68V": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_zEwMVV": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description_pLRcT6": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "price_9nm4Nc",
+        "separator_XVKLkh",
+        "variant_picker_9bw68V",
+        "buy_buttons_zEwMVV",
+        "description_pLRcT6"
+      ],
+      "settings": {
+        "featured_product": "{{ article.metafields.custom.fly_assortment.value }}",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
     "rich_text_YDFUFD": {
       "type": "rich-text",
       "blocks": {
@@ -285,6 +341,7 @@
     "rich_text_A3XKJB",
     "rich_text_7Nh4V3",
     "text_columns_jbNjYX",
+    "featured_product_VhNwmD",
     "rich_text_YDFUFD",
     "featured_product_jzUbtr",
     "rich_text_jifnEU",
