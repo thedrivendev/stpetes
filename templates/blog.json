@@ -43,6 +43,37 @@
         "lazyload_images": true
       }
     },
+    "advanced_content_kDCK7m": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_CGhVyR": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>St. Peter's Annual Scott Day<\/h2><p>May 4th All Day @ Both Shops. Click for more details.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_WWE8tV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6078_8d2e46e2-70a4-4113-880f-e86606da9b09.jpg",
+            "link": "shopify:\/\/blogs\/news\/new-scott-session-fly-rod-available-now",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_CGhVyR",
+        "image_WWE8tV"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
     "blog_posts_rp7TgK": {
       "type": "blog-posts",
       "disabled": true,
@@ -62,6 +93,7 @@
   "order": [
     "main",
     "advanced_content_cjiLdt",
+    "advanced_content_kDCK7m",
     "blog_posts_rp7TgK"
   ]
 }
