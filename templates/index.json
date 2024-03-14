@@ -243,21 +243,6 @@
         "divider": false
       }
     },
-    "background-image-text": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image and text",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "layout": "left",
-        "height": 650,
-        "parallax": true,
-        "parallax_direction": "top",
-        "lazyload_images": true
-      }
-    },
     "6fc3ef79-3f88-4c10-bacb-28915c1a4eca": {
       "type": "featured-product",
       "blocks": {
@@ -324,7 +309,6 @@
     "rich-text",
     "fading-images",
     "collection-callout",
-    "background-image-text",
     "6fc3ef79-3f88-4c10-bacb-28915c1a4eca"
   ]
 }
