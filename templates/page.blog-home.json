@@ -47,53 +47,10 @@
     },
     "text-columns": {
       "type": "text-columns",
-      "blocks": {
-        "column1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/old_town_front_shot_a9b3db04-a8bc-444d-9e13-ccf72f1f76e2.jpg",
-            "image_mask": "square",
-            "image_width": 650,
-            "title": "St. Peter's Old Town",
-            "text": "<p>Located in a Victorian home from the 1800’s, St. Peter’s Fly Shop provides a very unique environment for our customers and is a must stop for all anglers visiting Colorado's Front Range. Loaded with the best fly selection.<\/p><p>St. Peters Old Town<br\/>202 Remington St.<br\/>Ft. Collins, CO. 80524<br\/>970-498-8968<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "column2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/sout_shop.jpg",
-            "image_mask": "square",
-            "image_width": 650,
-            "title": "St. Peter's South",
-            "text": "<p>Located on the South Side of Fort Collins, our South location is a full service fly shop servicing our customers in Southern Fort Collins, Windsor, Greeley, and Loveland. The south store is a great stop for those headed to the Big Thompson, Rocky Mountain National Park, or any of our warmwater lakes.<\/p><p>St. Peter's South<br\/>2008 E. Harmony Rd.<br\/>Ft. Collins, CO. 80528<br\/>970-377-3785<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2"
-      ],
       "settings": {
         "title": "",
         "align_text": "center",
         "divider": false
-      }
-    },
-    "map": {
-      "type": "map",
-      "settings": {
-        "map_title": "St. Peter's Old Town",
-        "address": "<p>202 Remington St.<br\/>Fort Collins, CO 80524<\/p><p>Mon - Fri, 9:00am - 6:00pm<br\/>Saturday, 9:00am - 6:00pm<br\/>Sunday, CLOSED<\/p>",
-        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
-        "api_key": "",
-        "show_button": true,
-        "lazyload_images": true
       }
     },
     "featured-collection": {
@@ -107,15 +64,6 @@
         "view_all": true,
         "divider": false
       }
-    },
-    "form": {
-      "type": "contact-form",
-      "settings": {
-        "title": "Contact us",
-        "text": "",
-        "show_phone": false,
-        "narrow_column": true
-      }
     }
   },
   "order": [
@@ -123,8 +71,6 @@
     "slideshow",
     "rich-text",
     "text-columns",
-    "map",
-    "featured-collection",
-    "form"
+    "featured-collection"
   ]
 }
