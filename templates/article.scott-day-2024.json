@@ -11,9 +11,37 @@
         "blog_show_author": false,
         "social_sharing_blog": true
       }
+    },
+    "rich_text_j84Bnn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3NkybT": {
+          "type": "heading",
+          "settings": {
+            "title": "Join us on"
+          }
+        },
+        "text_7VFnH4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_3NkybT",
+        "text_7VFnH4"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_j84Bnn"
   ]
 }
