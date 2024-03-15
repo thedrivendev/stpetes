@@ -5,9 +5,40 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "advanced_content_knK6xf": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_EmKiQB": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_wWqMVb": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>St Peter's Fly Shop 202 Remington St. Ft. Collins, Colorado 80524 Phone: 970-498-8968\n\nOld Town Hours - See Hours on About Us Page\n\nSummer (Apr-Sept) Mon - Sat: 9-6 pm \/ Sun: Closed\nWinter (Oct-Mar) Mon - Sat: 10-6 pm \/ Sun: Closed<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_EmKiQB",
+        "liquid_wWqMVb"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "advanced_content_knK6xf"
   ]
 }
