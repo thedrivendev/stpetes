@@ -45,6 +45,7 @@
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/client_shot_canyon_background.heic",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
