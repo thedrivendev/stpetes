@@ -19,7 +19,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>A day on the river with a professional guide from St. Peter’s is designed to maximize your enjoyment. All guide trips are tailored to the instructional needs of each individual. Each trip will build fundamental fly fishing skills, expand your understanding of local rivers and help perfect your fly presentation.<br\/>We are ready and willing to provide comprehensive instruction on casting, bug selection, rigging and fly fishing techniques.  Our overall goal is to increase your fly fishing knowledge and skills, all while having a pleasurable experience on the water.<\/p><p><\/p><p>add here with images link to flybook page with guide services<\/p>"
+            "text": "<p>A day on the river with a professional guide from St. Peter’s is designed to maximize your enjoyment. All guide trips are tailored to the instructional needs of each individual. Each trip will build fundamental fly fishing skills, expand your understanding of local rivers and help perfect your fly presentation.<br\/>We are ready and willing to provide comprehensive instruction on casting, bug selection, rigging and fly fishing techniques.  Our overall goal is to increase your fly fishing knowledge and skills, all while having a pleasurable experience on the water.<\/p>"
           }
         }
       },
@@ -32,10 +32,38 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "rich_text_K9CNHT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eEUg9X": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_GR9kc3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>To learn more about our guide trip options, click <a href=\"https:\/\/go.theflybook.com\/book\/1142\/c1577c48-81cb-4fe0-842b-8b66b3323fd0\/0#\/base\/1142\/c1577c48-81cb-4fe0-842b-8b66b3323fd0\/listview\" title=\"https:\/\/go.theflybook.com\/book\/1142\/c1577c48-81cb-4fe0-842b-8b66b3323fd0\/0#\/base\/1142\/c1577c48-81cb-4fe0-842b-8b66b3323fd0\/listview\"><strong>here. <\/strong><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eEUg9X",
+        "text_GR9kc3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
-    "rich_text_GLCrhT"
+    "rich_text_GLCrhT",
+    "rich_text_K9CNHT"
   ]
 }
