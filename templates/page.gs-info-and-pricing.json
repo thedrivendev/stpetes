@@ -165,6 +165,33 @@
         "divider": false
       }
     },
+    "rich_text_ddmzja": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XeGfrd": {
+          "type": "heading",
+          "settings": {
+            "title": "Pricing"
+          }
+        },
+        "text_NqnAec": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3>Walk-Wade Trips<\/h3><h3>Cache La Poudre - Big Thompson - Rocky Mountain National Park - North Park<\/h3><p><strong>1 Angler<\/strong>----------$350   <strong>Half Day<\/strong>     $450  <strong>Full Day<\/strong><\/p><p><strong>2 Anglers<\/strong>----------$450  <strong>Half Day <\/strong>    $550  <strong>Full Day<\/strong><\/p><p><strong>3 Anglers<\/strong>----------$550  <strong>Half Day<\/strong>     $650  <strong>Full Day<\/strong><\/p><p><strong>Upper North Platte Canyon and North Park*<\/strong> Walk\/Wade-----------<strong>Full Day Only<\/strong><\/p><p><strong>1 Angler<\/strong>----------$500<\/p><p><strong>2 Anglers<\/strong>----------$600<\/p><p>*Additional rod fee for private water on North Park waters<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XeGfrd",
+        "text_NqnAec"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "rich_text_GYqf8j": {
       "type": "rich-text",
       "blocks": {
@@ -208,6 +235,7 @@
     "rich_text_XXNGPy",
     "advanced_content_BCfVCA",
     "rich_text_wYkmjk",
+    "rich_text_ddmzja",
     "rich_text_GYqf8j"
   ]
 }
