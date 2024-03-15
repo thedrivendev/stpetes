@@ -18,7 +18,7 @@
             "image_width": 650,
             "title": "St. Peter's Fly Shop - Old Town",
             "text": "<ul><li>202 Remington Street, Fort Collins, Colorado 80524<\/li><li>Phone: 970-498-8968<\/li><li><strong>Summer (Apr-Sept) <\/strong>Mon - Sat: 9-6 pm \/ Sun: Closed<\/li><li><strong>Winter (Oct-Mar) <\/strong>Mon - Sat: 10-6 pm \/ Sun: Closed<\/li><\/ul>",
-            "button_label": "Optional button",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -30,7 +30,7 @@
             "image_width": 650,
             "title": "St. Peter's Fly Shop - South",
             "text": "<ul><li>2008 E. Harmony Road, Fort Collins, Colorado 80528<\/li><li>Phone: 970-377-3785<\/li><li><strong>Summer (Apr-Sept) <\/strong>Tues-Sat: 9-6 pm \/ Sun: 10-4 pm \/ Mon: Closed<\/li><li><strong>Winter (Oct-Mar) <\/strong>Tues - Sat 10-6 pm \/ Sun: 10-4 pm \/ Mon: Closed<\/li><\/ul>",
-            "button_label": "Optional button",
+            "button_label": "",
             "button_link": ""
           }
         }
