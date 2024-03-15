@@ -39,11 +39,11 @@
         "image_e93yQb": {
           "type": "image",
           "settings": {
-            "title": "Endless\npossibilities.",
+            "title": "",
             "title_size": 80,
-            "subheading": "Bring your brand to life",
+            "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
             "parallax_direction": "top",
             "overlay_opacity": 0
