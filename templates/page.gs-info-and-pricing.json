@@ -259,6 +259,33 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "rich_text_L6pjE6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MJ3dgH": {
+          "type": "heading",
+          "settings": {
+            "title": "Rental Gear Pricing"
+          }
+        },
+        "text_ACWVEY": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3><strong>Rod, Reel, Spey Line, Waders, and Boots:  Each Item $15.00 per day*<\/strong><\/h3><h3><strong>Spey Rod\/Reel\/Line Combo: $25\/Day*<\/strong><\/h3><p>*A one-time $30 credit is available for 60 days after original rental and can be applied to a future purchase of \"like\" item<strong>.<\/strong> <\/p><p>Ask store employee for details.<\/p><p>St. Peter's Fly Shop LLC is an equal opportunity service provider and employer including individuals with disabilities, operating under permit from the Medicine Bow-Routt National Forests, the Arapahoe-Roosevelt National Forests, and Bureau of Land Management.  St. Peter's Fly Shop is a registered Colorado Outfitter #2420.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MJ3dgH",
+        "text_ACWVEY"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -272,6 +299,7 @@
     "rich_text_GYqf8j",
     "rich_text_9VUthN",
     "text_columns_DYzBfa",
-    "rich_text_kDrrMf"
+    "rich_text_kDrrMf",
+    "rich_text_L6pjE6"
   ]
 }
