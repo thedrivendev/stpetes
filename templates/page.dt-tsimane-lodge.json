@@ -429,6 +429,26 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "rich_text_GPJ6gQ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_j8eRMf": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>For any questions or to book your next fly fishing adventure, please contact us at 970-498-8968 or email us at shop@stpetes.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_j8eRMf"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -444,6 +464,7 @@
     "rich_text_aVLG7f",
     "rich_text_7GfmLi",
     "text_columns_jHfrwy",
-    "advanced_content_k6nYBj"
+    "advanced_content_k6nYBj",
+    "rich_text_GPJ6gQ"
   ]
 }
