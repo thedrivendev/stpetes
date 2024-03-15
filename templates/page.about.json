@@ -107,6 +107,7 @@
     },
     "map": {
       "type": "map",
+      "disabled": true,
       "settings": {
         "map_title": "St. Peter's Old Town",
         "address": "<p>202 Remington St.<br\/>Fort Collins, CO 80524<\/p><p>Mon - Fri, 9:00am - 6:00pm<br\/>Saturday, 9:00am - 6:00pm<br\/>Sunday, CLOSED<\/p>",
