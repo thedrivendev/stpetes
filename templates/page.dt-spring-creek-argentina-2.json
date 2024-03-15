@@ -266,36 +266,6 @@
         "divider": false
       }
     },
-    "slideshow_azqXnh": {
-      "type": "slideshow",
-      "blocks": {
-        "image_4Ykep6": {
-          "type": "image",
-          "settings": {
-            "title": "Two line\nslide title.",
-            "title_size": 80,
-            "subheading": "And an optional subheading",
-            "link": "",
-            "link_text": "Optional button",
-            "text_align": "vertical-bottom horizontal-left",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_4Ykep6"
-      ],
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
     "rich_text_kJLQfa": {
       "type": "rich-text",
       "blocks": {
@@ -335,7 +305,6 @@
     "rich_text_UipGpw",
     "text_columns_HDiVfk",
     "rich_text_qHqLAe",
-    "slideshow_azqXnh",
     "rich_text_kJLQfa"
   ]
 }
