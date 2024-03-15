@@ -101,10 +101,19 @@
             "slide_title1": "",
             "slide_title2": ""
           }
+        },
+        "image_KxXFDz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/don_rodriguez_boney.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
         }
       },
       "block_order": [
-        "image_ghjLnX"
+        "image_ghjLnX",
+        "image_KxXFDz"
       ],
       "settings": {
         "title_lines": "1",
