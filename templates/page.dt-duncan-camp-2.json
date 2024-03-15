@@ -112,37 +112,6 @@
         "divider": false
       }
     },
-    "advanced_content_rqbTrn": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_Yc84zK": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ak_boat_shot_from_grass.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_QGmNNV": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2><\/h2><p>The lower camp is known for its fantastic Salmon fishing but it also has some spectacular fishing for Rainbow, Arctic Char and Dolly Varden. With an abundance of 9 different species of fish, combined with incredible habitat, structure and holding water, the Kanektok river is truly one of the finest flyfishing rivers in Alaska.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_Yc84zK",
-        "liquid_QGmNNV"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
-    },
     "rich_text_3C3ek9": {
       "type": "rich-text",
       "blocks": {
@@ -155,6 +124,26 @@
       },
       "block_order": [
         "heading_AtxVVc"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_689kwz": {
+      "type": "rich-text",
+      "blocks": {
+        "text_cQMTkh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The lower camp is known for its fantastic Salmon fishing but it also has some spectacular fishing for Rainbow, Arctic Char and Dolly Varden. With an abundance of 9 different species of fish, combined with incredible habitat, structure and holding water, the Kanektok river is truly one of the finest flyfishing rivers in Alaska.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_cQMTkh"
       ],
       "settings": {
         "align_text": "center",
@@ -282,8 +271,8 @@
     "advanced_content_R3haEd",
     "rich_text_wFNWT6",
     "rich_text_DF9CLK",
-    "advanced_content_rqbTrn",
     "rich_text_3C3ek9",
+    "rich_text_689kwz",
     "rich_text_UipGpw",
     "text_columns_HDiVfk",
     "rich_text_qHqLAe",
