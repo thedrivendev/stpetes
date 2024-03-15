@@ -39,7 +39,7 @@
         "image_kEzYin": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Duncan-Camp-Grant-Bow-1024x680_2.jpg",
+            "image": "shopify:\/\/shop_images\/AA_salmon_gurgler.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -197,7 +197,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/char-1024x680.jpg",
+            "image": "shopify:\/\/shop_images\/AA_silvers_alaska.jpg",
             "image_mask": "square",
             "image_width": 650,
             "title": "What's Included",
