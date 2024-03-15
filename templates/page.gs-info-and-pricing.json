@@ -277,6 +277,26 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "rich_text_kDrrMf": {
+      "type": "rich-text",
+      "blocks": {
+        "text_xfBQX6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h4><strong>ALL TRIPS INCLUDE GEAR, FLIES, BEVERAGES & SNACKS, FULL DAY TRIPS INCLUDE LUNCH<\/strong><\/h4><h4><strong>GRATUITY & FISHING LICENSE NOT INCLUDED IN COST<\/strong><\/h4><h5>*A deposit is required for booking.  All deposits are refundable, minus the 5% cancellation fee, up to 30 days prior to your trip.  All cancellations within 30 days of trip are subject to forfeiture of deposit. Health and medical issues do not change the cancellation policy. If you have any concern about the need to cancel, we recommend you purchase trip insurance to cover costs.*<\/h5>"
+          }
+        }
+      },
+      "block_order": [
+        "text_xfBQX6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -289,6 +309,7 @@
     "rich_text_ddmzja",
     "rich_text_GYqf8j",
     "rich_text_9VUthN",
-    "text_columns_DYzBfa"
+    "text_columns_DYzBfa",
+    "rich_text_kDrrMf"
   ]
 }
