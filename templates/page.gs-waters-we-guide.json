@@ -226,7 +226,7 @@
         "liquid_qTfpmV": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Encampment River<\/h2><p>Beginning just East of the Continental Divide in northern Colorado, the Encampment River briefly wanders north into Wyoming where it will soon converge with the North Platte River.<\/p>\n\n<button class='flybook-book-now-button fb-widget-type-frontend fb-default-category-id-0 fb-account-id-1142 fb-entity-config-id-21677 fb-domain-go.theflybook.com fb-protocol-https' style='background-color: #ee5505;'>BOOK NOW<\/button><link rel='stylesheet' href='https:\/\/go.theflybook.com\/content\/bootstrapper\/flybookbootstrap.css' \/><script src='https:\/\/go.theflybook.com\/custom\/bootstrapper\/flybookbootstrap.js'><\/script>",
+            "code": "<h2>Encampment River<\/h2><p>Beginning just East of the Continental Divide in northern Colorado, the Encampment River briefly wanders north into Wyoming where it will soon converge with the North Platte River.<\/p>\n\n<button class='flybook-book-now-button fb-widget-type-frontend fb-default-category-id-0 fb-account-id-1142 fb-entity-config-id-21677 fb-domain-go.theflybook.com fb-protocol-https' style='background-color: #ee5505;'>Click to learn more or book now<\/button><link rel='stylesheet' href='https:\/\/go.theflybook.com\/content\/bootstrapper\/flybookbootstrap.css' \/><script src='https:\/\/go.theflybook.com\/custom\/bootstrapper\/flybookbootstrap.js'><\/script>",
             "width": "50%",
             "alignment": "center"
           }
