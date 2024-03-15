@@ -33,6 +33,51 @@
         "divider": false
       }
     },
+    "slideshow_f8JKqU": {
+      "type": "slideshow",
+      "blocks": {
+        "image_e93yQb": {
+          "type": "image",
+          "settings": {
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_Np8md7": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Matt_High_water_class.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_e93yQb",
+        "image_Np8md7"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "rich_text_K9CNHT": {
       "type": "rich-text",
       "blocks": {
@@ -64,6 +109,7 @@
   "order": [
     "main",
     "rich_text_GLCrhT",
+    "slideshow_f8JKqU",
     "rich_text_K9CNHT"
   ]
 }
