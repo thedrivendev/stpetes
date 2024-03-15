@@ -186,6 +186,33 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "rich_text_96c4zc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GUJYET": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_NQVXhq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>For more information or to book your spot in our upcoming Guide School, please contact the shop 970-498-8968.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GUJYET",
+        "text_NQVXhq"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -195,6 +222,7 @@
     "slideshow_UeAxCH",
     "rich_text_pnUL8N",
     "rich_text_czFdAT",
-    "text_columns_FHdCkE"
+    "text_columns_FHdCkE",
+    "rich_text_96c4zc"
   ]
 }
