@@ -288,7 +288,7 @@
         "liquid_yXaaTy": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Horsetooth Reservoir<\/h2><p>Our local warmwater trips on Horsetooth Reservoir provide the opportunity to pursue new species and expand your horizons as an angler. These trips focus on chasing Smallmouth bass by using a boat to work the structure along the edges.<\/p>\n\n<button class='flybook-book-now-button fb-widget-type-frontend fb-default-category-id-0 fb-account-id-1142 fb-entity-config-id-26597 fb-domain-go.theflybook.com fb-protocol-https' style='background-color: #ee5505;'>BOOK NOW<\/button><link rel='stylesheet' href='https:\/\/go.theflybook.com\/content\/bootstrapper\/flybookbootstrap.css' \/><script src='https:\/\/go.theflybook.com\/custom\/bootstrapper\/flybookbootstrap.js'><\/script>",
+            "code": "<h2>Horsetooth Reservoir<\/h2><p>Our local warmwater trips on Horsetooth Reservoir provide the opportunity to pursue new species and expand your horizons as an angler. These trips focus on chasing Smallmouth bass by using a boat to work the structure along the edges.<\/p>\n\n<button class='flybook-book-now-button fb-widget-type-frontend fb-default-category-id-0 fb-account-id-1142 fb-entity-config-id-26597 fb-domain-go.theflybook.com fb-protocol-https' style='background-color: #ee5505;'>Click to learn more or book now<\/button><link rel='stylesheet' href='https:\/\/go.theflybook.com\/content\/bootstrapper\/flybookbootstrap.css' \/><script src='https:\/\/go.theflybook.com\/custom\/bootstrapper\/flybookbootstrap.js'><\/script>",
             "width": "50%",
             "alignment": "center"
           }
