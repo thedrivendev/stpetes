@@ -1,5 +1,24 @@
 {
   "sections": {
+    "rich_text_gbk6NQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rf6xrN": {
+          "type": "heading",
+          "settings": {
+            "title": "Guide Trip Lunch Menu"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rf6xrN"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "main": {
       "type": "article-template",
       "disabled": true,
@@ -122,6 +141,7 @@
     }
   },
   "order": [
+    "rich_text_gbk6NQ",
     "main",
     "text_columns_rpzg6P",
     "text_columns_fPzz3d"
