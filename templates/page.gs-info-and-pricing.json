@@ -173,18 +173,10 @@
           "settings": {
             "title": "Pricing"
           }
-        },
-        "text_NqnAec": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<h3>Walk-Wade Trips<\/h3><h3>Cache La Poudre - Big Thompson - Rocky Mountain National Park - North Park<\/h3><p><strong>1 Angler<\/strong>----------$350   <strong>Half Day<\/strong>     $450  <strong>Full Day<\/strong><\/p><p><strong>2 Anglers<\/strong>----------$450  <strong>Half Day <\/strong>    $550  <strong>Full Day<\/strong><\/p><p><strong>3 Anglers<\/strong>----------$550  <strong>Half Day<\/strong>     $650  <strong>Full Day<\/strong><\/p><p><strong>Upper North Platte Canyon and North Park*<\/strong> Walk\/Wade-----------<strong>Full Day Only<\/strong><\/p><p><strong>1 Angler<\/strong>----------$500<\/p><p><strong>2 Anglers<\/strong>----------$600<\/p><p>*Additional rod fee for private water on North Park waters<\/p>"
-          }
         }
       },
       "block_order": [
-        "heading_XeGfrd",
-        "text_NqnAec"
+        "heading_XeGfrd"
       ],
       "settings": {
         "align_text": "center",
@@ -205,7 +197,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h3>Walk-Wade Trips<\/h3><h3>Cache La Poudre - Big Thompson - Rocky Mountain National Park - North Park<\/h3><p><strong>1 Angler<\/strong>----------$350   <strong>Half Day<\/strong>     $450  <strong>Full Day<\/strong><\/p><p><strong>2 Anglers<\/strong>----------$450  <strong>Half Day <\/strong>    $550  <strong>Full Day<\/strong><\/p><p><strong>3 Anglers<\/strong>----------$550  <strong>Half Day<\/strong>     $650  <strong>Full Day<\/strong><\/p><p><strong>Upper North Platte Canyon and North Park*<\/strong> Walk\/Wade-----------<strong>Full Day Only<\/strong><\/p><p><strong>1 Angler<\/strong>----------$500<\/p><p><strong>2 Anglers<\/strong>----------$600<\/p><p>*Additional rod fee for private water on North Park waters<\/p><h1><strong> Float Trips<br\/><\/strong><\/h1><h3>Grey Reef - Miracle Mile - Upper North Platte - Encampment - Cache La Poudre<\/h3><p><strong>Grey Reef (April-October)<\/strong>----------$600<\/p><p><strong>Grey Reef (Nov-March)<\/strong>----------$500<\/p><p><strong>Miracle Mile (April-October)<\/strong>----------$650<\/p><p><strong>Miracle Mile (Nov-March)<\/strong>----------$550<\/p><p><strong>Upper North Platte (Saratoga\/Treasure Island area) & Encampment<\/strong>----------$700<\/p><p><strong>Upper North Platte (Northgate area)<\/strong>----------$750<\/p><p><strong>Cache La Poudre<\/strong> (Half Day)----------$500<\/p><p>-Float trip prices are for one boat with 2 anglers per boat.<\/p><p><strong>ALL TRIPS INCLUDE GEAR, FLIES, BEVERAGES & SNACKS, FULL DAY TRIPS INCLUDE LUNCH<\/strong><\/p><p><strong>GRATUITY & FISHING LICENSE NOT INCLUDED IN COST<\/strong><\/p><h4>*A deposit is required for booking.  All deposits are refundable, minus the 5% cancellation fee, up to 30 days prior to your trip.  All cancellations within 30 days of trip are subject to forfeiture of deposit. Health and medical issues do not change the cancellation policy. If you have any concern about the need to cancel, we recommend you purchase trip insurance to cover costs.*<\/h4>"
+            "text": "<p><\/p><h1><strong> Float Trips<br\/><\/strong><\/h1><h3>Grey Reef - Miracle Mile - Upper North Platte - Encampment - Cache La Poudre<\/h3><p><strong>Grey Reef (April-October)<\/strong>----------$600<\/p><p><strong>Grey Reef (Nov-March)<\/strong>----------$500<\/p><p><strong>Miracle Mile (April-October)<\/strong>----------$650<\/p><p><strong>Miracle Mile (Nov-March)<\/strong>----------$550<\/p><p><strong>Upper North Platte (Saratoga\/Treasure Island area) & Encampment<\/strong>----------$700<\/p><p><strong>Upper North Platte (Northgate area)<\/strong>----------$750<\/p><p><strong>Cache La Poudre<\/strong> (Half Day)----------$500<\/p><p>-Float trip prices are for one boat with 2 anglers per boat.<\/p><p><strong>ALL TRIPS INCLUDE GEAR, FLIES, BEVERAGES & SNACKS, FULL DAY TRIPS INCLUDE LUNCH<\/strong><\/p><p><strong>GRATUITY & FISHING LICENSE NOT INCLUDED IN COST<\/strong><\/p><h4>*A deposit is required for booking.  All deposits are refundable, minus the 5% cancellation fee, up to 30 days prior to your trip.  All cancellations within 30 days of trip are subject to forfeiture of deposit. Health and medical issues do not change the cancellation policy. If you have any concern about the need to cancel, we recommend you purchase trip insurance to cover costs.*<\/h4>"
           }
         },
         "text_kmMkgy": {
@@ -226,6 +218,44 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "text_columns_DYzBfa": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_nBaqgh": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Walk Wade Guide Trips",
+            "text": "<h3>Cache La Poudre - Big Thompson - Rocky Mountain National Park - North Park<\/h3><p><strong>1 Angler<\/strong>----------$350   <strong>Half Day<\/strong>     $450  <strong>Full Day<\/strong><\/p><p><strong>2 Anglers<\/strong>----------$450  <strong>Half Day <\/strong>    $550  <strong>Full Day<\/strong><\/p><p><strong>3 Anglers<\/strong>----------$550  <strong>Half Day<\/strong>     $650  <strong>Full Day<\/strong><\/p><p><strong>Upper North Platte Canyon and North Park*<\/strong> Walk\/Wade-----------<strong>Full Day Only<\/strong><\/p><p><strong>1 Angler<\/strong>----------$500<\/p><p><strong>2 Anglers<\/strong>----------$600<\/p><p>*Additional rod fee for private water on North Park waters<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_H8tCcp": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Float Trips",
+            "text": "<h3>Grey Reef - Miracle Mile - Upper North Platte - Encampment - Cache La Poudre<\/h3><p><strong>Grey Reef (April-October)<\/strong>----------$600<\/p><p><strong>Grey Reef (Nov-March)<\/strong>----------$500<\/p><p><strong>Miracle Mile (April-October)<\/strong>----------$650<\/p><p><strong>Miracle Mile (Nov-March)<\/strong>----------$550<\/p><p><strong>Upper North Platte (Saratoga\/Treasure Island area) & Encampment<\/strong>----------$700<\/p><p><strong>Upper North Platte (Northgate area)<\/strong>----------$750<\/p><p><strong>Cache La Poudre<\/strong> (Half Day)----------$500<\/p><p>-Float trip prices are for one boat with 2 anglers per boat.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_nBaqgh",
+        "text_block_H8tCcp"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -236,6 +266,7 @@
     "advanced_content_BCfVCA",
     "rich_text_wYkmjk",
     "rich_text_ddmzja",
-    "rich_text_GYqf8j"
+    "rich_text_GYqf8j",
+    "text_columns_DYzBfa"
   ]
 }
