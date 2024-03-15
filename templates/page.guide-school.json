@@ -13,7 +13,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>-Monday, May 20th- Saturday, May 25th, 2024  <\/p><p>-$1,795 per person<\/p><p><\/p><p><strong>Link to Flybook Guide School page needed<\/strong><\/p><p><\/p>"
+            "text": "<p>-Monday, May 20th- Saturday, May 25th, 2024  <\/p><p>-$1,795 per person<\/p><p><\/p><p>&lt;button class='flybook-book-now-button fb-widget-type-frontend fb-default-category-id-0 fb-account-id-1142 fb-entity-config-id-21693 fb-domain-go.theflybook.com fb-protocol-https' style='background-color: #ee5505;'&gt;BOOK NOW&lt;\/button&gt;&lt;link rel='stylesheet' href='https:\/\/go.theflybook.com\/content\/bootstrapper\/flybookbootstrap.css' \/&gt;&lt;script src='https:\/\/go.theflybook.com\/custom\/bootstrapper\/flybookbootstrap.js'&gt;&lt;\/script&gt;<\/p><p><\/p>"
           }
         }
       },
