@@ -9,6 +9,12 @@
     "rich_text_9YTrrX": {
       "type": "rich-text",
       "blocks": {
+        "heading_gGDtpe": {
+          "type": "heading",
+          "settings": {
+            "title": "Guide Service"
+          }
+        },
         "text_DGatGC": {
           "type": "text",
           "settings": {
@@ -18,6 +24,7 @@
         }
       },
       "block_order": [
+        "heading_gGDtpe",
         "text_DGatGC"
       ],
       "settings": {
