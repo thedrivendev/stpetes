@@ -140,25 +140,6 @@
     },
     "rich_text_wYkmjk": {
       "type": "rich-text",
-      "blocks": {
-        "heading_PQitft": {
-          "type": "heading",
-          "settings": {
-            "title": "What to Bring?"
-          }
-        },
-        "text_tktiD3": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Bring any of your own equipment that you would like to use. We have waders, boots, rods and reels available for all our clients going on a guided fishing trip with us.<\/p><p>Light Jacket \/ Rain Jacket  -  Polarized Sunglasses  -  Hat with brim  -  Sunscreen  -  Socks<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_PQitft",
-        "text_tktiD3"
-      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -179,6 +160,37 @@
         "align_text": "center",
         "narrow_column": true,
         "divider": false
+      }
+    },
+    "advanced_content_pzTGWG": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_bjB8jx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/family_shot_canyon_square.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_CcwCgG": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>What to Bring?<\/h2><p>Bring any of your own equipment that you would like to use. We have waders, boots, rods and reels available for all our clients going on a guided fishing trip with us.\nLight Jacket \/ Rain Jacket  -  Polarized Sunglasses  -  Hat with brim  -  Sunscreen  -  Socks<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_bjB8jx",
+        "liquid_CcwCgG"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
       }
     },
     "rich_text_9VUthN": {
@@ -305,6 +317,7 @@
     "rich_text_wYkmjk",
     "rich_text_ddmzja",
     "rich_text_GYqf8j",
+    "advanced_content_pzTGWG",
     "rich_text_9VUthN",
     "text_columns_DYzBfa",
     "rich_text_kDrrMf",
