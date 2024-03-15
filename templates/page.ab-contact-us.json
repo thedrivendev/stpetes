@@ -32,7 +32,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/old_town_front_shot.jpg",
+            "image": "shopify:\/\/shop_images\/old_town_front_shot_square.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "St. Peter's Fly Shop - Old Town",
@@ -45,6 +45,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/South_Shop_Front_1.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "St. Peter's Fly Shop - South",
