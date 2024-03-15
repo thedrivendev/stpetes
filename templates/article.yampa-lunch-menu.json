@@ -22,7 +22,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Trailhead",
-            "text": "<ul><li>Turkey<\/li><li>Swiss<\/li><li>Avocado<\/li><li>Lettuce<\/li><li>Tomato<\/li><li>Onion<\/li><li>Honey Dijon<\/li><li><\/li><\/ul>",
+            "text": "<ul><li>Turkey<\/li><li>Swiss<\/li><li>Avocado<\/li><li>Lettuce<\/li><li>Tomato<\/li><li>Onion<\/li><li>Honey Dijon<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -62,10 +62,62 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "text_columns_fPzz3d": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_YqRKaY": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Dolomite",
+            "text": "<ul><li>Prosciutto<\/li><li>Salami<\/li><li>Provolone<\/li><li>Red Peppers<\/li><li>Lettuce<\/li><li>Onion<\/li><li>Oil & Vinegar<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_GHEAim": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Summit",
+            "text": "<ul><li>Ham<\/li><li>Bacon<\/li><li>Brie<\/li><li>Cranberry Chutney<\/li><li>Lettuce<\/li><li>Chipotle Mayo<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_WgKCD3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Hot Springs (veg)",
+            "text": "<ul><li>Cucumber<\/li><li>Carrot<\/li><li>Avocado<\/li><li>Lettuce<\/li><li>Tomato<\/li><li>Onion<\/li><li>Chevre<\/li><li>Oil & Vinegar<\/li><\/ul><p><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_YqRKaY",
+        "text_block_GHEAim",
+        "text_block_WgKCD3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
-    "text_columns_rpzg6P"
+    "text_columns_rpzg6P",
+    "text_columns_fPzz3d"
   ]
 }
