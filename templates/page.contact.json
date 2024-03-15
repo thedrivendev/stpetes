@@ -13,7 +13,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Here at St. Peter's we are dedicated to providing the highest quality service, gear and information to our customers. If you have any questions or concerns we want to hear it. Please feel free to email us or call us directly at 970-498-8968. Thank you for supporting your local fly shop.<\/p>"
+            "text": "<p>Here at St. Peter's we are dedicated to providing the highest quality service, gear and information to our customers. If you have any questions or concerns we want to hear it. Please feel free to email us at <strong>shop@stpetes.com<\/strong> or call us directly at <strong>970-498-8968<\/strong>. Thank you for supporting your local fly shop.<\/p>"
           }
         }
       },
