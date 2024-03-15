@@ -19,6 +19,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/trailhead.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Trailhead",
@@ -31,6 +32,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Expedition_Web.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Expedition",
@@ -43,6 +45,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Ridgeline_Web.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Ridgeline",
@@ -70,6 +73,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/dolomite.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Dolomite",
@@ -82,6 +86,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/summit.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Summit",
@@ -94,6 +99,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/hotsprings.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Hot Springs (veg)",
