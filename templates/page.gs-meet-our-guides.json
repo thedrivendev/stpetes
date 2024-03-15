@@ -132,6 +132,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/stpeter-logo.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Neal Warner",
@@ -196,6 +197,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/stpeter-logo.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Mike Graham",
