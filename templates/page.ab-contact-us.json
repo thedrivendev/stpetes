@@ -44,10 +44,38 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "rich_text_Aem74c": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VEtWT3": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_98gPNY": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>If you don't have time to stop by, feel free to give us a call or send an email at <strong>shop@stpetes.com<\/strong>. Don't be alarmed if your email isn't answered within the hour...after all, fishing is a way of life around here.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VEtWT3",
+        "text_98gPNY"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
-    "text_columns_HKme4c"
+    "text_columns_HKme4c",
+    "rich_text_Aem74c"
   ]
 }
