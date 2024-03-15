@@ -2,34 +2,26 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
       }
     },
-    "rich-text": {
+    "rich_text_tmKjx9": {
       "type": "rich-text",
+      "blocks": {
+        "heading_ztctBX": {
+          "type": "heading",
+          "settings": {
+            "title": "Blog"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ztctBX"
+      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "divider": false
-      }
-    },
-    "text-columns": {
-      "type": "text-columns",
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Featured collection",
-        "home_featured_products": "",
-        "per_row": 4,
-        "rows": 1,
-        "view_all": true,
         "divider": false
       }
     },
@@ -66,9 +58,7 @@
   },
   "order": [
     "main",
-    "rich-text",
-    "text-columns",
-    "featured-collection",
+    "rich_text_tmKjx9",
     "advanced_content_kzXwMH"
   ]
 }
