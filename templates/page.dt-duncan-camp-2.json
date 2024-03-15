@@ -33,6 +33,51 @@
         "divider": false
       }
     },
+    "slideshow_WLxtqr": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xhpmjf": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/ak_boat_shot_from_grass.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_GjFW3X": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide titles.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_xhpmjf",
+        "image_GjFW3X"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "advanced_content_R3haEd": {
       "type": "advanced-content",
       "blocks": {
@@ -268,6 +313,7 @@
   "order": [
     "main",
     "rich_text_JnWUcx",
+    "slideshow_WLxtqr",
     "advanced_content_R3haEd",
     "rich_text_wFNWT6",
     "rich_text_DF9CLK",
