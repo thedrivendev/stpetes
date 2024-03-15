@@ -21,8 +21,8 @@
             "enable_image": true,
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "title": "Trailhead",
+            "text": "<ul><li>Turkey<\/li><li>Swiss<\/li><li>Avocado<\/li><li>Lettuce<\/li><li>Tomato<\/li><li>Onion<\/li><li>Honey Dijon<\/li><li><\/li><\/ul>",
             "button_label": "Optional button",
             "button_link": ""
           }
@@ -33,8 +33,8 @@
             "enable_image": true,
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "title": "Expedition",
+            "text": "<ul><li>Roast Beef<\/li><li>Cheddar<\/li><li>Avocado<\/li><li>Lettuce<\/li><li>Tomato<\/li><li>Chipotle Mayo<\/li><\/ul><p><\/p>",
             "button_label": "Optional button",
             "button_link": ""
           }
@@ -45,8 +45,8 @@
             "enable_image": true,
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "title": "Ridgeline",
+            "text": "<ul><li>Turkey<\/li><li>Bacon<\/li><li>Cheddar<\/li><li>Avocado<\/li><li>Lettuce<\/li><li>Tomato<\/li><li>Garlic Mayo<\/li><\/ul><p><\/p>",
             "button_label": "Optional button",
             "button_link": ""
           }
