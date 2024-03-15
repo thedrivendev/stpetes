@@ -219,6 +219,25 @@
         "divider": false
       }
     },
+    "rich_text_9VUthN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RNWkQH": {
+          "type": "heading",
+          "settings": {
+            "title": "Pricing"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RNWkQH"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "text_columns_DYzBfa": {
       "type": "text-columns",
       "blocks": {
@@ -226,6 +245,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Poudre_canyon_fishing_shot_square.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Walk Wade Guide Trips",
@@ -238,6 +258,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/guide_school_image_c51c7db1-6ea7-4271-8088-cb81f1e47e81.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Float Trips",
@@ -267,6 +288,7 @@
     "rich_text_wYkmjk",
     "rich_text_ddmzja",
     "rich_text_GYqf8j",
+    "rich_text_9VUthN",
     "text_columns_DYzBfa"
   ]
 }
