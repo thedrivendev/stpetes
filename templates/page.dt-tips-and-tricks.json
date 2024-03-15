@@ -5,9 +5,37 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "rich_text_FcWbw7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_e3ddXc": {
+          "type": "heading",
+          "settings": {
+            "title": "Coming soon..."
+          }
+        },
+        "text_qTQwD8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_e3ddXc",
+        "text_qTQwD8"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_FcWbw7"
   ]
 }
