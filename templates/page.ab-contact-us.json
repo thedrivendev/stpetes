@@ -6,39 +6,48 @@
       "settings": {
       }
     },
-    "advanced_content_knK6xf": {
-      "type": "advanced-content",
+    "text_columns_HKme4c": {
+      "type": "text-columns",
       "blocks": {
-        "image_EmKiQB": {
-          "type": "image",
+        "text_block_VCFpyf": {
+          "type": "text_block",
           "settings": {
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/old_town_front_shot.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "St. Peter's Fly Shop - Old Town",
+            "text": "<ul><li>202 Remington Street, Fort Collins, Colorado 80524<\/li><li><strong>Summer (Apr-Sept) <\/strong>Mon - Sat: 9-6 pm \/ Sun: Closed<\/li><li><strong>Winter (Oct-Mar) <\/strong>Mon - Sat: 10-6 pm \/ Sun: Closed<\/li><\/ul>",
+            "button_label": "Optional button",
+            "button_link": ""
           }
         },
-        "liquid_wWqMVb": {
-          "type": "liquid",
+        "text_block_fCeY84": {
+          "type": "text_block",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>St Peter's Fly Shop 202 Remington St. Ft. Collins, Colorado 80524 Phone: 970-498-8968\n\nOld Town Hours - See Hours on About Us Page\n\nSummer (Apr-Sept) Mon - Sat: 9-6 pm \/ Sun: Closed\nWinter (Oct-Mar) Mon - Sat: 10-6 pm \/ Sun: Closed<\/p>",
-            "width": "50%",
-            "alignment": "center"
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "image_EmKiQB",
-        "liquid_wWqMVb"
+        "text_block_VCFpyf",
+        "text_block_fCeY84"
       ],
       "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
+        "title": "",
+        "align_text": "center",
+        "divider": false
       }
     }
   },
   "order": [
     "main",
-    "advanced_content_knK6xf"
+    "text_columns_HKme4c"
   ]
 }
