@@ -91,13 +91,28 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_Dpxd8y": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Poudre_canyon_fishing_shot.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "image_e93yQb",
         "image_Np8md7",
         "image_JUCg3b",
-        "image_8n4UJJ"
+        "image_8n4UJJ",
+        "image_Dpxd8y"
       ],
       "settings": {
         "section_height": "650px",
