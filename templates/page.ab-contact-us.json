@@ -1,5 +1,24 @@
 {
   "sections": {
+    "rich_text_EL8PNM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QTfK68": {
+          "type": "heading",
+          "settings": {
+            "title": "Contact Us"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QTfK68"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -74,6 +93,7 @@
     }
   },
   "order": [
+    "rich_text_EL8PNM",
     "main",
     "text_columns_HKme4c",
     "rich_text_Aem74c"
