@@ -242,37 +242,6 @@
         "lazyload_images": true
       }
     },
-    "advanced_content_gwN43U": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_3zYPjf": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cutty-1024x768.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_zNg8Q8": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Local Stillwater<\/h2><p>Not to be missed and nestled in the Northern Colorado High Country are countless lakes that hold breathtaking brookies and a variety of Colorado's favorite cutthroat trout. <\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_3zYPjf",
-        "liquid_zNg8Q8"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
-    },
     "advanced_content_X98RP3": {
       "type": "advanced-content",
       "blocks": {
@@ -315,7 +284,6 @@
     "advanced_content_U9CgE4",
     "advanced_content_T3AJdP",
     "advanced_content_wQNKcj",
-    "advanced_content_gwN43U",
     "advanced_content_X98RP3"
   ]
 }
