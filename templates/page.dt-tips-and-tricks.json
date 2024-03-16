@@ -14,18 +14,10 @@
           "settings": {
             "title": "Coming soon..."
           }
-        },
-        "text_qTQwD8": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": ""
-          }
         }
       },
       "block_order": [
-        "heading_e3ddXc",
-        "text_qTQwD8"
+        "heading_e3ddXc"
       ],
       "settings": {
         "align_text": "center",
