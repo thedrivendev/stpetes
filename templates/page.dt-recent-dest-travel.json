@@ -375,12 +375,21 @@
             "slide_title1": "",
             "slide_title2": ""
           }
+        },
+        "image_qkACmw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9451.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
         }
       },
       "block_order": [
         "image_HTJbJe",
         "image_GpD83w",
-        "image_A3QJ3k"
+        "image_A3QJ3k",
+        "image_qkACmw"
       ],
       "settings": {
         "title_lines": "2",
