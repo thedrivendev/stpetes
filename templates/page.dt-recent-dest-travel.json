@@ -280,11 +280,26 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_bNpH8T": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_5555_0cf7bfc9-e4fd-4964-b7c2-b647d519de06.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "image_gdYcDP",
-        "image_dxRT7d"
+        "image_dxRT7d",
+        "image_bNpH8T"
       ],
       "settings": {
         "section_height": "650px",
