@@ -25,12 +25,40 @@
         "divider": false
       }
     },
+    "rich_text_7XbTiL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FTFcNw": {
+          "type": "heading",
+          "settings": {
+            "title": "2024 F3T Film Tour"
+          }
+        },
+        "text_geHVUt": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Ticket's are available to purchase for $20 (cash or charge) at both shops.<\/strong><\/p><p>We hope you can join us on the evening of March 29th for an awesome movie night!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FTFcNw",
+        "text_geHVUt"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "advanced_content_kzXwMH": {
       "type": "advanced-content",
       "blocks": {
         "image_QVUjXR": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/F3T-2024-Main-Artwork-Poster_41c96b5d-78d1-42e7-934c-d2b3cb1f0a70.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -39,7 +67,7 @@
         "liquid_RcpHa7": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>2024 F3T Film Tour<\/h2><p>The Fly Fishing Film Tour (F3T) is back this year to give a proper \"kickoff\" to the 2024 fishing season.  Make sure to join us at the Fort Collins Lincoln Center, Saturday, March 29th, to experience the largest fly fishing film event of the year.  Historically, the Fort Collins show is the biggest show on the tour, so let's make that happen once again!\n<\/p>",
+            "code": "<h2><\/h2><p>The Fly Fishing Film Tour (F3T) is back this year to give a proper \"kickoff\" to the 2024 fishing season.  Make sure to join us at the Fort Collins Lincoln Center, Saturday, March 29th, to experience the largest fly fishing film event of the year.  Historically, the Fort Collins show is the biggest show on the tour, so let's make that happen once again!\n<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -59,6 +87,7 @@
   "order": [
     "main",
     "rich_text_tmKjx9",
+    "rich_text_7XbTiL",
     "advanced_content_kzXwMH"
   ]
 }
