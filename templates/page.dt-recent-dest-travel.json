@@ -12,30 +12,72 @@
         "heading_3wYj9R": {
           "type": "heading",
           "settings": {
-            "title": "Coming soon..."
-          }
-        },
-        "text_9n3pYn": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": ""
+            "title": "Cayo Romano, February 2024"
           }
         }
       },
       "block_order": [
-        "heading_3wYj9R",
-        "text_9n3pYn"
+        "heading_3wYj9R"
       ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
         "divider": false
       }
+    },
+    "fading_images_dzMFGr": {
+      "type": "fading-images",
+      "blocks": {
+        "image_F9r4cA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bent_2_in_cuba.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        },
+        "image_XE9QpJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vgfQy4X1.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        },
+        "image_AgzQKn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AA_bone_release_b37c07dc-1f68-42e2-8a2f-1598ca8b2c68.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_F9r4cA",
+        "image_XE9QpJ",
+        "image_AgzQKn"
+      ],
+      "settings": {
+        "title_lines": "2",
+        "title_font": "body",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
+        "mobile_height": "auto",
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
-    "rich_text_e6wJC4"
+    "rich_text_e6wJC4",
+    "fading_images_dzMFGr"
   ]
 }
