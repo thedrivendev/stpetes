@@ -30,11 +30,26 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_mjd8pk": {
+          "type": "image",
+          "settings": {
+            "title": "Fishing Reports",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/pages\/fishing-reports",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/poudre_rock_shot_f3447b72-82a0-4a94-94ad-f24277ecb36d.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "image_ixiNVJ",
-        "image_7HninF"
+        "image_7HninF",
+        "image_mjd8pk"
       ],
       "settings": {
         "section_height": "650px",
