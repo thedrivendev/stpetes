@@ -294,12 +294,27 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_nMadmh": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_9523_9cef9236-d49d-4564-9d2f-04916d9d0cc0.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "image_gdYcDP",
         "image_dxRT7d",
-        "image_bNpH8T"
+        "image_bNpH8T",
+        "image_nMadmh"
       ],
       "settings": {
         "section_height": "650px",
