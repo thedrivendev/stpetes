@@ -55,11 +55,26 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_bFCQAq": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/don_rodriguez_boney.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "image_mHQemX",
-        "image_YiJzHP"
+        "image_YiJzHP",
+        "image_bFCQAq"
       ],
       "settings": {
         "section_height": "650px",
