@@ -59,13 +59,30 @@
             "slide_title1": "",
             "slide_title2": ""
           }
+        },
+        "image_GJzz3z": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cuba_flats.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        },
+        "image_bJmyh7": {
+          "type": "image",
+          "settings": {
+            "slide_title1": "",
+            "slide_title2": ""
+          }
         }
       },
       "block_order": [
         "image_F9r4cA",
         "image_XE9QpJ",
         "image_AgzQKn",
-        "image_r36cYY"
+        "image_r36cYY",
+        "image_GJzz3z",
+        "image_bJmyh7"
       ],
       "settings": {
         "title_lines": "2",
@@ -82,42 +99,11 @@
         "mobile_height": "auto",
         "lazyload_images": true
       }
-    },
-    "advanced_content_wwV4GF": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_cWRra9": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_f3nQjF": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2><\/h2><p><\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_cWRra9",
-        "liquid_f3nQjF"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
     "main",
     "rich_text_e6wJC4",
-    "fading_images_dzMFGr",
-    "advanced_content_wwV4GF"
+    "fading_images_dzMFGr"
   ]
 }
