@@ -259,7 +259,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/fighting_boen_in_costa.jpg",
+            "image": "shopify:\/\/shop_images\/adam_bone_mexico.jpg",
             "image_mask": "square",
             "image_width": 650,
             "title": "What's Included",
@@ -335,10 +335,25 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_jT7MpD": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/alex_permit.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
-        "image_LqXdwX"
+        "image_LqXdwX",
+        "image_jT7MpD"
       ],
       "settings": {
         "section_height": "650px",
