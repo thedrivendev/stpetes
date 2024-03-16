@@ -371,8 +371,9 @@
         "image_A3QJ3k": {
           "type": "image",
           "settings": {
-            "slide_title1": "And highlight",
-            "slide_title2": "important details"
+            "image": "shopify:\/\/shop_images\/IMG_9516_42ef04bf-d5f1-46c5-8f09-a84e98cc314c.jpg",
+            "slide_title1": "",
+            "slide_title2": ""
           }
         }
       },
