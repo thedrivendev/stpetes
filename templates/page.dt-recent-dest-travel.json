@@ -231,18 +231,10 @@
           "settings": {
             "title": "Tsimane Lodge, Bolivia 2023"
           }
-        },
-        "text_Fd7xLx": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>The Bolivian Jungle gave up her gold and other spectacular treasures on our most recent hosted journey to this spectacular lodge.<\/p>"
-          }
         }
       },
       "block_order": [
-        "heading_7UY7dd",
-        "text_Fd7xLx"
+        "heading_7UY7dd"
       ],
       "settings": {
         "align_text": "center",
