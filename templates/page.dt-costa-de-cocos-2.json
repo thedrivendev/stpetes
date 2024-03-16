@@ -137,7 +137,7 @@
         "liquid_QGmNNV": {
           "type": "liquid",
           "settings": {
-            "code": "<h2><\/h2><p>The fishery at Costa de Cocos is extremely healthy and offers a large variety of species to chase year-round. Bonefish on average run 1-3 lbs. and fish over 5 pounds are not uncommon. The permit fishery in particular is very healthy and multiple shots a day are common. Permit average 5-10 lbs. with larger fish spread throughout the fishery.<\/p>",
+            "code": "<h2><\/h2><p>The flats at Costa de Cocos are extremely healthy and offer a large variety of species to chase year-round. Bonefish on average run 1-3 lbs. and fish over 5 pounds are not uncommon. The permit fishery in particular is very healthy and multiple shots a day are common. Permit average 5-10 lbs. with larger fish spread throughout the fishery.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -226,18 +226,10 @@
           "settings": {
             "title": ""
           }
-        },
-        "text_b47Hid": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": ""
-          }
         }
       },
       "block_order": [
-        "heading_zzr6yq",
-        "text_b47Hid"
+        "heading_zzr6yq"
       ],
       "settings": {
         "align_text": "center",
