@@ -69,12 +69,27 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_tcU39z": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/julia_big_bone_fish_91cb18e7-93ec-4d8a-82de-af23b16be246.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "image_mHQemX",
         "image_YiJzHP",
-        "image_bFCQAq"
+        "image_bFCQAq",
+        "image_tcU39z"
       ],
       "settings": {
         "section_height": "650px",
