@@ -83,16 +83,31 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_hXtMKM": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/xm0u03Nx.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "image_mHQemX",
         "image_YiJzHP",
         "image_bFCQAq",
-        "image_tcU39z"
+        "image_tcU39z",
+        "image_hXtMKM"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "750px",
         "mobile_height": "auto",
         "parallax": true,
         "style": "arrows",
