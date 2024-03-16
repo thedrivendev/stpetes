@@ -317,6 +317,37 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "advanced_content_zQYPc7": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_Med7QP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dorado_square_image.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_DVzwdQ": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2><\/h2><p>The Bolivian Jungle gave up her gold and other spectacular treasures on our most recent hosted journey to this spectacular lodge.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Med7QP",
+        "liquid_DVzwdQ"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -326,6 +357,7 @@
     "advanced_content_JRHEWq",
     "fading_images_dzMFGr",
     "rich_text_F3AKFb",
-    "slideshow_xA7JHa"
+    "slideshow_xA7JHa",
+    "advanced_content_zQYPc7"
   ]
 }
