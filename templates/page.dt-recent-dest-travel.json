@@ -25,6 +25,83 @@
         "divider": false
       }
     },
+    "slideshow_RKjQqp": {
+      "type": "slideshow",
+      "blocks": {
+        "image_mHQemX": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/cuda_teeth.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_YiJzHP": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/74sVuLbp.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_mHQemX",
+        "image_YiJzHP"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_JRHEWq": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_bpF3nA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/g_permit_for_instructor.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_UFGijD": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2><\/h2><p>This February our 3 groups of fisherman experienced all that the Cuban flats have to offer. From Permit, Bonefish, Tarpon and Barracuda, to encounters with Cubara Snapper, Cuba's pristine flats are a sight to behold and one every fly fisherman should experience.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_bpF3nA",
+        "liquid_UFGijD"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
     "fading_images_dzMFGr": {
       "type": "fading-images",
       "blocks": {
@@ -100,43 +177,13 @@
         "mobile_height": "auto",
         "lazyload_images": true
       }
-    },
-    "advanced_content_JRHEWq": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_bpF3nA": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/g_permit_for_instructor.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_UFGijD": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2><\/h2><p>This February our 3 groups of fisherman experienced all that the Cuban flats have to offer. From Permit, Bonefish, Tarpon and Barracuda, to encounters with Cubara Snapper, Cuba's pristine flats are a sight to behold and one every fly fisherman should experience.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_bpF3nA",
-        "liquid_UFGijD"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
     "main",
     "rich_text_e6wJC4",
-    "fading_images_dzMFGr",
-    "advanced_content_JRHEWq"
+    "slideshow_RKjQqp",
+    "advanced_content_JRHEWq",
+    "fading_images_dzMFGr"
   ]
 }
