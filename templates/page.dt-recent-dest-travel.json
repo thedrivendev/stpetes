@@ -222,6 +222,33 @@
         "mobile_height": "auto",
         "lazyload_images": true
       }
+    },
+    "rich_text_F3AKFb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7UY7dd": {
+          "type": "heading",
+          "settings": {
+            "title": "Tsimane Lodge, Bolivia 2023"
+          }
+        },
+        "text_Fd7xLx": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7UY7dd",
+        "text_Fd7xLx"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -229,6 +256,7 @@
     "rich_text_e6wJC4",
     "slideshow_RKjQqp",
     "advanced_content_JRHEWq",
-    "fading_images_dzMFGr"
+    "fading_images_dzMFGr",
+    "rich_text_F3AKFb"
   ]
 }
