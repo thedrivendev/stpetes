@@ -39,7 +39,7 @@
         "liquid_RcpHa7": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2>2024 F3T Film Tour<\/h2><p>The Fly Fishing Film Tour (F3T) is back this year to give a proper \"kickoff\" to the 2024 fishing season.  Make sure to join us at the Fort Collins Lincoln Center, Saturday, March 29th, to experience the largest fly fishing film event of the year.  Historically, the Fort Collins show is the biggest show on the tour, so let's make that happen once again!\n<\/p>",
             "width": "50%",
             "alignment": "center"
           }
