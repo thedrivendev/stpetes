@@ -272,6 +272,26 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "rich_text_mFmdJL": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Dw9iJ6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>*A deposit is required for booking.  All deposits are refundable, minus the 5% cancellation fee, up to 30 days prior to your trip.  All cancellations within 30 days of trip are subject to forfeiture of deposit. Health and medical issues do not change the cancellation policy. If you have any concern about the need to cancel, we recommend you purchase trip insurance to cover costs.*<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Dw9iJ6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -284,6 +304,7 @@
     "advanced_content_U9CgE4",
     "advanced_content_T3AJdP",
     "advanced_content_wQNKcj",
-    "advanced_content_X98RP3"
+    "advanced_content_X98RP3",
+    "rich_text_mFmdJL"
   ]
 }
