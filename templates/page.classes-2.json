@@ -532,6 +532,26 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "rich_text_7ddtQR": {
+      "type": "rich-text",
+      "blocks": {
+        "text_UmFJKA": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em><strong>-A 50% non-refundable deposit is required to hold your spot.<\/strong><\/em><\/p><p><em><strong>-All cancellations and\/or reschedules within 7 days of class are subject to loss of the 50% deposit. <\/strong><\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_UmFJKA"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -552,6 +572,7 @@
     "advanced_content_MPbHdw",
     "advanced_content_qRhB8Q",
     "advanced_content_kLke96",
-    "advanced_content_4NCPcC"
+    "advanced_content_4NCPcC",
+    "rich_text_7ddtQR"
   ]
 }
