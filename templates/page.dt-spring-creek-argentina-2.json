@@ -183,12 +183,13 @@
         "image_8Q8ayU": {
           "type": "image",
           "settings": {
-            "title": "Two line\nslide title.",
+            "title": "",
             "title_size": 80,
-            "subheading": "And an optional subheading",
+            "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/spring_creek_lodge_photo.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
