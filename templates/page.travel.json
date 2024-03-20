@@ -171,33 +171,6 @@
         "divider": false
       }
     },
-    "rich_text_BrRXHq": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_9gy4JQ": {
-          "type": "heading",
-          "settings": {
-            "title": "Why Travel with St. Peter's Fly Shop"
-          }
-        },
-        "text_3rjjfH": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>St. Peter’s Fly Shop guarantees that we will have the best price on the market. Our experienced travel team is set out to find the best price for the most renowned and hidden lodges out there. We can assure you a great experience with our hands on approach in preparation, travel, and assistance at the lodge. Included in the trip price is casting classes, tying classes teaching you patterns for your specific location, and personal fishing advice. During your trip one of our host will travel with you to make sure every aspect of your trip can run as smooth as possible. Join one of our wonderful hosted trips and see for yourself all that St. Peter’s Travel has to offer.<\/p><p><\/p><p>If you have any questions or would like to chat more about our destination travel, please contact us at 970-498-8968 or email shop@stpetes.com<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_9gy4JQ",
-        "text_3rjjfH"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "rich_text_EVjDqG": {
       "type": "rich-text",
       "blocks": {
@@ -224,13 +197,72 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "advanced_content_qhw4a6": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_Pz8MKH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/don_rodriguez_boney.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_REUyrj": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Don Rodriguez<\/h2><p>Our host was exceptional in every regard. He was such a great host to all of us. I really appreciated the low profile, yet in control vibe he created. Exactly what one wants in a host. I couldn’t be more pleased in the way the trip was handled, the accommodations, and the open bar (haha). The staff at Cayo Romano couldn’t have been more accommodating.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Pz8MKH",
+        "liquid_REUyrj"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_BrRXHq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9gy4JQ": {
+          "type": "heading",
+          "settings": {
+            "title": "Why Travel with St. Peter's Fly Shop"
+          }
+        },
+        "text_3rjjfH": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>St. Peter’s Fly Shop guarantees that we will have the best price on the market. Our experienced travel team is set out to find the best price for the most renowned and hidden lodges out there. We can assure you a great experience with our hands on approach in preparation, travel, and assistance at the lodge. Included in the trip price is casting classes, tying classes teaching you patterns for your specific location, and personal fishing advice. During your trip one of our host will travel with you to make sure every aspect of your trip can run as smooth as possible. Join one of our wonderful hosted trips and see for yourself all that St. Peter’s Travel has to offer.<\/p><p><\/p><p>If you have any questions or would like to chat more about our destination travel, please contact us at 970-498-8968 or email shop@stpetes.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9gy4JQ",
+        "text_3rjjfH"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "rich_text_b9RwNP",
     "main",
     "text_columns_MWjEFP",
-    "rich_text_BrRXHq",
-    "rich_text_EVjDqG"
+    "rich_text_EVjDqG",
+    "advanced_content_qhw4a6",
+    "rich_text_BrRXHq"
   ]
 }
