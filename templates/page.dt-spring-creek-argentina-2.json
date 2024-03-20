@@ -165,10 +165,39 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_x4zitU": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Spring_creek_lodge_cliffs.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_8Q8ayU": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide title.",
+            "title_size": 80,
+            "subheading": "And an optional subheading",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
-        "image_84DPgd"
+        "image_84DPgd",
+        "image_x4zitU",
+        "image_8Q8ayU"
       ],
       "settings": {
         "section_height": "650px",
