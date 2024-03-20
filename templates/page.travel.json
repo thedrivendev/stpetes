@@ -197,12 +197,40 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "rich_text_EVjDqG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LHGHDj": {
+          "type": "heading",
+          "settings": {
+            "title": "Customer Testimonials"
+          }
+        },
+        "text_BMGVUi": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>In 2014, I took what was supposed to be my \"once in a lifetime trip\" to Alaska with St Pete's to chase the trophy trout I had dreamed of since I was a kid. It would not be hyperbole to say that trip changed my life. It was the first time I met Grant and immediately felt like part of the St Petes family. Since that time, I've chased fish all over the world with St Petes including Mexico, Cuba, Belize, Canada and Bolivia, with Christmas Island on the horizon next year. Travelling with Jin and Aaron from the shop has created friendships I'll treasure for a lifetime. Whether I'm travelling abroad, looking for local guides, picking up new gear, grabbing tying material, getting up to date intel, or just popping in for a laugh with the shop guys, Pete's is the place I go. They've always gotten me to the right place, with the right stuff, at the right time. My world would be so much smaller without Pete's as my home shop.<\/em><\/p><p><\/p><p><em>-Dan Arguello<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LHGHDj",
+        "text_BMGVUi"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "rich_text_b9RwNP",
     "main",
     "text_columns_MWjEFP",
-    "rich_text_BrRXHq"
+    "rich_text_BrRXHq",
+    "rich_text_EVjDqG"
   ]
 }
