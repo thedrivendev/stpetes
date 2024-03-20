@@ -206,7 +206,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/IMG_7832.jpg",
+            "image": "shopify:\/\/shop_images\/spring_creek_lodge.jpg",
             "image_mask": "square",
             "image_width": 650,
             "title": "What's Included",
@@ -219,7 +219,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/tarpon_cuba_thomas.jpg",
+            "image": "shopify:\/\/shop_images\/spring_creek_big_brookie.jpg",
             "image_mask": "square",
             "image_width": 650,
             "title": "What's Not Included",
