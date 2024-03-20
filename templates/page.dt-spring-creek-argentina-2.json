@@ -130,18 +130,10 @@
           "settings": {
             "title": ""
           }
-        },
-        "text_j8ENNc": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>More fishery information<\/p>"
-          }
         }
       },
       "block_order": [
-        "heading_AtxVVc",
-        "text_j8ENNc"
+        "heading_AtxVVc"
       ],
       "settings": {
         "align_text": "center",
