@@ -61,12 +61,6 @@
         "lazyload_images": true
       }
     },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-      }
-    },
     "rich_text_9YTrrX": {
       "type": "rich-text",
       "blocks": {
@@ -80,7 +74,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>A day on the river with a professional guide from St. Peter’s is designed to maximize your enjoyment. All guide trips are tailored to the instructional needs of each individual. Each trip will build fundamental fly fishing skills, expand your understanding of local rivers and help perfect your fly presentation.  We are ready and willing to provide comprehensive instruction on casting, bug selection, rigging and fly fishing techniques.  Our overall goal is to increase your fly fishing knowledge and skills, all while having a pleasurable experience on the water.<\/p><p>Below you will find detailed information on what to expect during a St. Peter's guide trip, pricing for the various opportunities we offer, and details on our unique rental program.<\/p>"
+            "text": "<p>All guide trips are tailored to the instructional needs of each individual. Each trip will build fundamental fly fishing skills, expand your understanding of local rivers and help perfect your fly presentation.  We are ready and willing to provide comprehensive instruction on casting, bug selection, rigging and fly fishing techniques.  Our overall goal is to increase your fly fishing knowledge and skills, all while having a pleasurable experience on the water.<\/p><p>Below you will find detailed information on what to expect during a St. Peter's guide trip, pricing for the various opportunities we offer, and details on our unique rental program.<\/p>"
           }
         }
       },
@@ -92,112 +86,6 @@
         "align_text": "center",
         "narrow_column": true,
         "divider": false
-      }
-    },
-    "rich_text_XXNGPy": {
-      "type": "rich-text",
-      "blocks": {
-        "text_jrB46D": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Your day on the river with a guide from St. Peter's Fly Shop is designed to maximize your enjoyment. All guide trips can be instructional...or we can just go out and help you catch fish. Part school, part fishing, our trips will build your fundamental fly fishing skills, expand your understanding of local entomology, work the kinks out of your presentation, or help you get rid of that annoying tailing loop. Let us know what we can do to maximize your enjoyment on stream and we'll do whatever we can to accommodate you.<\/p><p>Our guide trips include everything you'll need for your day on stream. We are pleased to provide our clients with the fine rods from the Sage Manufacturing and Scott Fly Rod Company. Our reels and lines come from leading manufacturers in the industry such as Waterworks Lamson, Hatch Reels and Ross Reels, Scientific Anglers, Rio Products. Wading equipment can be provided upon request.<\/p><p>Our full day float and wade trips include lunch and beverages on stream. Drinks and snacks are provided on half day trips. Do you have dietary restrictions or other special needs? Please let us know and we're happy to accommodate you.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_jrB46D"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "advanced_content_BCfVCA": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_xFzWyG": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/group_ic.jpg",
-            "link": "shopify:\/\/blogs\/guide-service\/meet-our-guides",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_b4yPnG": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Our Guides<\/h2><p>Here at St. Peter's we strive to provide our clients with friendly, knowledgeable, well trained guides who's primary focus is you. There are plenty of shops out there willing to match you up with a warm body that's basically getting paid to learn the water and take you along. Not here...\nOur guides are experienced fly fishers with extensive knowledge of local streams, hatches, and techniques. While we've got our share of eccentrics on staff, you will not find attitudes, assumptions, or criticisms from our guides. If you do, we want to hear about it.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_xFzWyG",
-        "liquid_b4yPnG"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
-    },
-    "rich_text_wYkmjk": {
-      "type": "rich-text",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "rich_text_ddmzja": {
-      "type": "rich-text",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "rich_text_GYqf8j": {
-      "type": "rich-text",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "advanced_content_pzTGWG": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_bjB8jx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/family_shot_canyon_square.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_CcwCgG": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>What to Bring?<\/h2><p>Bring any of your own equipment that you would like to use. We have waders, boots, rods and reels available for all our clients going on a guided fishing trip with us.\nLight Jacket \/ Rain Jacket  -  Polarized Sunglasses  -  Hat with brim  -  Sunscreen  -  Socks<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_bjB8jx",
-        "liquid_CcwCgG"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
       }
     },
     "rich_text_9VUthN": {
@@ -259,6 +147,118 @@
         "divider": false
       }
     },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "advanced_content_BCfVCA": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_xFzWyG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/group_ic.jpg",
+            "link": "shopify:\/\/blogs\/guide-service\/meet-our-guides",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_b4yPnG": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Our Guides<\/h2><p>Here at St. Peter's we strive to provide our clients with friendly, knowledgeable, well trained guides who's primary focus is you. There are plenty of shops out there willing to match you up with a warm body that's basically getting paid to learn the water and take you along. Not here...\nOur guides are experienced fly fishers with extensive knowledge of local streams, hatches, and techniques. While we've got our share of eccentrics on staff, you will not find attitudes, assumptions, or criticisms from our guides. If you do, we want to hear about it.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_xFzWyG",
+        "liquid_b4yPnG"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_XXNGPy": {
+      "type": "rich-text",
+      "blocks": {
+        "text_jrB46D": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Your day on the river with a guide from St. Peter's Fly Shop is designed to maximize your enjoyment. All guide trips can be instructional...or we can just go out and help you catch fish. Part school, part fishing, our trips will build your fundamental fly fishing skills, expand your understanding of local entomology, work the kinks out of your presentation, or help you get rid of that annoying tailing loop. Let us know what we can do to maximize your enjoyment on stream and we'll do whatever we can to accommodate you.<\/p><p>Our guide trips include everything you'll need for your day on stream. We are pleased to provide our clients with the fine rods from the Sage Manufacturing and Scott Fly Rod Company. Our reels and lines come from leading manufacturers in the industry such as Waterworks Lamson, Hatch Reels and Ross Reels, Scientific Anglers, Rio Products. Wading equipment can be provided upon request.<\/p><p>Our full day float and wade trips include lunch and beverages on stream. Drinks and snacks are provided on half day trips. Do you have dietary restrictions or other special needs? Please let us know and we're happy to accommodate you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_jrB46D"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_wYkmjk": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_ddmzja": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_GYqf8j": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_pzTGWG": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_bjB8jx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/family_shot_canyon_square.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_CcwCgG": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>What to Bring?<\/h2><p>Bring any of your own equipment that you would like to use. We have waders, boots, rods and reels available for all our clients going on a guided fishing trip with us.\nLight Jacket \/ Rain Jacket  -  Polarized Sunglasses  -  Hat with brim  -  Sunscreen  -  Socks<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_bjB8jx",
+        "liquid_CcwCgG"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
     "rich_text_kDrrMf": {
       "type": "rich-text",
       "blocks": {
@@ -317,16 +317,16 @@
   },
   "order": [
     "slideshow_YN9FcH",
-    "main",
     "rich_text_9YTrrX",
-    "rich_text_XXNGPy",
+    "rich_text_9VUthN",
+    "text_columns_DYzBfa",
+    "main",
     "advanced_content_BCfVCA",
+    "rich_text_XXNGPy",
     "rich_text_wYkmjk",
     "rich_text_ddmzja",
     "rich_text_GYqf8j",
     "advanced_content_pzTGWG",
-    "rich_text_9VUthN",
-    "text_columns_DYzBfa",
     "rich_text_kDrrMf",
     "rich_text_L6pjE6"
   ]
