@@ -1,0 +1,333 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "rich_text_9YTrrX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gGDtpe": {
+          "type": "heading",
+          "settings": {
+            "title": "Info\/Pricing\/Rentals"
+          }
+        },
+        "text_DGatGC": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>A day on the river with a professional guide from St. Peter’s is designed to maximize your enjoyment. All guide trips are tailored to the instructional needs of each individual. Each trip will build fundamental fly fishing skills, expand your understanding of local rivers and help perfect your fly presentation.  We are ready and willing to provide comprehensive instruction on casting, bug selection, rigging and fly fishing techniques.  Our overall goal is to increase your fly fishing knowledge and skills, all while having a pleasurable experience on the water.<\/p><p>Below you will find detailed information on what to expect during a St. Peter's guide trip, pricing for the various opportunities we offer, and details on our unique rental program.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gGDtpe",
+        "text_DGatGC"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "slideshow_YN9FcH": {
+      "type": "slideshow",
+      "blocks": {
+        "image_aRfyPh": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/upper_ppoudre.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_BYhdmK": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/client_shot_canyon_background.heic",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_3QnEdt": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/poudre_rock_shot.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_aRfyPh",
+        "image_BYhdmK",
+        "image_3QnEdt"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_XXNGPy": {
+      "type": "rich-text",
+      "blocks": {
+        "text_jrB46D": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Your day on the river with a guide from St. Peter's Fly Shop is designed to maximize your enjoyment. All guide trips can be instructional...or we can just go out and help you catch fish. Part school, part fishing, our trips will build your fundamental fly fishing skills, expand your understanding of local entomology, work the kinks out of your presentation, or help you get rid of that annoying tailing loop. Let us know what we can do to maximize your enjoyment on stream and we'll do whatever we can to accommodate you.<\/p><p>Our guide trips include everything you'll need for your day on stream. We are pleased to provide our clients with the fine rods from the Sage Manufacturing and Scott Fly Rod Company. Our reels and lines come from leading manufacturers in the industry such as Waterworks Lamson, Hatch Reels and Ross Reels, Scientific Anglers, Rio Products. Wading equipment can be provided upon request.<\/p><p>Our full day float and wade trips include lunch and beverages on stream. Drinks and snacks are provided on half day trips. Do you have dietary restrictions or other special needs? Please let us know and we're happy to accommodate you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_jrB46D"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_BCfVCA": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_xFzWyG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/group_ic.jpg",
+            "link": "shopify:\/\/blogs\/guide-service\/meet-our-guides",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_b4yPnG": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Our Guides<\/h2><p>Here at St. Peter's we strive to provide our clients with friendly, knowledgeable, well trained guides who's primary focus is you. There are plenty of shops out there willing to match you up with a warm body that's basically getting paid to learn the water and take you along. Not here...\nOur guides are experienced fly fishers with extensive knowledge of local streams, hatches, and techniques. While we've got our share of eccentrics on staff, you will not find attitudes, assumptions, or criticisms from our guides. If you do, we want to hear about it.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_xFzWyG",
+        "liquid_b4yPnG"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_wYkmjk": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_ddmzja": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_GYqf8j": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_pzTGWG": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_bjB8jx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/family_shot_canyon_square.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_CcwCgG": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>What to Bring?<\/h2><p>Bring any of your own equipment that you would like to use. We have waders, boots, rods and reels available for all our clients going on a guided fishing trip with us.\nLight Jacket \/ Rain Jacket  -  Polarized Sunglasses  -  Hat with brim  -  Sunscreen  -  Socks<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_bjB8jx",
+        "liquid_CcwCgG"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_9VUthN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RNWkQH": {
+          "type": "heading",
+          "settings": {
+            "title": "Pricing"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RNWkQH"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_columns_DYzBfa": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_nBaqgh": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Poudre_canyon_fishing_shot_square.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Walk Wade Guide Trips",
+            "text": "<h3>Cache La Poudre - Big Thompson - Rocky Mountain National Park - North Park<\/h3><p><strong>1 Angler<\/strong>----------$350   <strong>Half Day<\/strong>     $450  <strong>Full Day<\/strong><\/p><p><strong>2 Anglers<\/strong>----------$450  <strong>Half Day <\/strong>    $550  <strong>Full Day<\/strong><\/p><p><strong>3 Anglers<\/strong>----------$550  <strong>Half Day<\/strong>     $650  <strong>Full Day<\/strong><\/p><p><strong>Upper North Platte Canyon and North Park*<\/strong> Walk\/Wade-----------<strong>Full Day Only<\/strong><\/p><p><strong>1 Angler<\/strong>----------$500<\/p><p><strong>2 Anglers<\/strong>----------$600<\/p><p>*Additional rod fee for private water on North Park waters<\/p>",
+            "button_label": "Book now",
+            "button_link": "https:\/\/go.theflybook.com\/book\/1142\/bf8eba29-3112-4bb5-8506-d4d1c5f7675f\/0#\/base\/1142\/bf8eba29-3112-4bb5-8506-d4d1c5f7675f\/listview"
+          }
+        },
+        "text_block_H8tCcp": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/guide_school_image_c51c7db1-6ea7-4271-8088-cb81f1e47e81.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Float Trips",
+            "text": "<h3>Grey Reef - Miracle Mile - Upper North Platte - Encampment - Cache La Poudre<\/h3><p><strong>Grey Reef (April-October)<\/strong>----------$600<\/p><p><strong>Grey Reef (Nov-March)<\/strong>----------$500<\/p><p><strong>Miracle Mile (April-October)<\/strong>----------$650<\/p><p><strong>Miracle Mile (Nov-March)<\/strong>----------$550<\/p><p><strong>Upper North Platte (Saratoga\/Treasure Island area) & Encampment<\/strong>----------$700<\/p><p><strong>Upper North Platte (Northgate area)<\/strong>----------$750<\/p><p><strong>Cache La Poudre<\/strong> (Half Day)----------$500<\/p><p>-Float trip prices are for one boat with 2 anglers per boat.<\/p>",
+            "button_label": "Book now",
+            "button_link": "https:\/\/go.theflybook.com\/book\/1142\/bf8eba29-3112-4bb5-8506-d4d1c5f7675f\/0#\/base\/1142\/bf8eba29-3112-4bb5-8506-d4d1c5f7675f\/listview"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_nBaqgh",
+        "text_block_H8tCcp"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "rich_text_kDrrMf": {
+      "type": "rich-text",
+      "blocks": {
+        "text_xfBQX6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h4><strong>ALL TRIPS INCLUDE GEAR, FLIES, BEVERAGES & SNACKS, FULL DAY TRIPS INCLUDE LUNCH<\/strong><\/h4><h4><strong>GRATUITY & FISHING LICENSE NOT INCLUDED IN COST<\/strong><\/h4><h5>*A deposit is required for booking.  All deposits are refundable, minus the 5% cancellation fee, up to 30 days prior to your trip.  All cancellations within 30 days of trip are subject to forfeiture of deposit. Health and medical issues do not change the cancellation policy. If you have any concern about the need to cancel, we recommend you purchase trip insurance to cover costs.*<\/h5>"
+          }
+        }
+      },
+      "block_order": [
+        "text_xfBQX6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_L6pjE6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MJ3dgH": {
+          "type": "heading",
+          "settings": {
+            "title": "Rental Gear Pricing"
+          }
+        },
+        "text_ACWVEY": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3><strong>Rod, Reel, Spey Line, Waders, and Boots:  Each Item $15.00 per day*<\/strong><\/h3><h3><strong>Spey Rod\/Reel\/Line Combo: $25\/Day*<\/strong><\/h3><p>*A one-time $30 credit is available for 60 days after original rental and can be applied to a future purchase of \"like\" item<strong>.<\/strong> <\/p><p>Ask store employee for details.<\/p>"
+          }
+        },
+        "text_VdjdG9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>St. Peter's Fly Shop LLC is an equal opportunity service provider and employer including individuals with disabilities, operating under permit from the Medicine Bow-Routt National Forests, the Arapahoe-Roosevelt National Forests, and Bureau of Land Management.  St. Peter's Fly Shop is a registered Colorado Outfitter #2420.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MJ3dgH",
+        "text_ACWVEY",
+        "text_VdjdG9"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_9YTrrX",
+    "slideshow_YN9FcH",
+    "rich_text_XXNGPy",
+    "advanced_content_BCfVCA",
+    "rich_text_wYkmjk",
+    "rich_text_ddmzja",
+    "rich_text_GYqf8j",
+    "advanced_content_pzTGWG",
+    "rich_text_9VUthN",
+    "text_columns_DYzBfa",
+    "rich_text_kDrrMf",
+    "rich_text_L6pjE6"
+  ]
+}
