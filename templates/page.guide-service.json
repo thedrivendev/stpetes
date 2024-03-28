@@ -1,38 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-      }
-    },
-    "rich_text_GLCrhT": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_gDqpxd": {
-          "type": "heading",
-          "settings": {
-            "title": "St. Peter's Fly Fishing Guide Service"
-          }
-        },
-        "text_UUGw88": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>A day on the river with a professional guide from St. Peter’s is designed to maximize your enjoyment. All guide trips are tailored to the instructional needs of each individual. Each trip will build fundamental fly fishing skills, expand your understanding of local rivers and help perfect your fly presentation.<br\/>We are ready and willing to provide comprehensive instruction on casting, bug selection, rigging and fly fishing techniques.  Our overall goal is to increase your fly fishing knowledge and skills, all while having a pleasurable experience on the water.<\/p><p><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_gDqpxd",
-        "text_UUGw88"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "slideshow_f8JKqU": {
       "type": "slideshow",
       "blocks": {
@@ -124,6 +91,39 @@
         "lazyload_images": true
       }
     },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "rich_text_GLCrhT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gDqpxd": {
+          "type": "heading",
+          "settings": {
+            "title": "St. Peter's Fly Fishing Guide Service"
+          }
+        },
+        "text_UUGw88": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>A day on the river with a professional guide from St. Peter’s is designed to maximize your enjoyment. All guide trips are tailored to the instructional needs of each individual. Each trip will build fundamental fly fishing skills, expand your understanding of local rivers and help perfect your fly presentation.<br\/>We are ready and willing to provide comprehensive instruction on casting, bug selection, rigging and fly fishing techniques.  Our overall goal is to increase your fly fishing knowledge and skills, all while having a pleasurable experience on the water.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gDqpxd",
+        "text_UUGw88"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "rich_text_K9CNHT": {
       "type": "rich-text",
       "blocks": {
@@ -153,9 +153,9 @@
     }
   },
   "order": [
+    "slideshow_f8JKqU",
     "main",
     "rich_text_GLCrhT",
-    "slideshow_f8JKqU",
     "rich_text_K9CNHT"
   ]
 }

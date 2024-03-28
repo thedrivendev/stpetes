@@ -1,38 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-      }
-    },
-    "rich_text_9YTrrX": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_gGDtpe": {
-          "type": "heading",
-          "settings": {
-            "title": "Info\/Pricing\/Rentals"
-          }
-        },
-        "text_DGatGC": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>A day on the river with a professional guide from St. Peter’s is designed to maximize your enjoyment. All guide trips are tailored to the instructional needs of each individual. Each trip will build fundamental fly fishing skills, expand your understanding of local rivers and help perfect your fly presentation.  We are ready and willing to provide comprehensive instruction on casting, bug selection, rigging and fly fishing techniques.  Our overall goal is to increase your fly fishing knowledge and skills, all while having a pleasurable experience on the water.<\/p><p>Below you will find detailed information on what to expect during a St. Peter's guide trip, pricing for the various opportunities we offer, and details on our unique rental program.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_gGDtpe",
-        "text_DGatGC"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "slideshow_YN9FcH": {
       "type": "slideshow",
       "blocks": {
@@ -85,13 +52,46 @@
         "image_3QnEdt"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": true,
         "style": "arrows",
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "rich_text_9YTrrX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gGDtpe": {
+          "type": "heading",
+          "settings": {
+            "title": "Info\/Pricing\/Rentals"
+          }
+        },
+        "text_DGatGC": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>A day on the river with a professional guide from St. Peter’s is designed to maximize your enjoyment. All guide trips are tailored to the instructional needs of each individual. Each trip will build fundamental fly fishing skills, expand your understanding of local rivers and help perfect your fly presentation.  We are ready and willing to provide comprehensive instruction on casting, bug selection, rigging and fly fishing techniques.  Our overall goal is to increase your fly fishing knowledge and skills, all while having a pleasurable experience on the water.<\/p><p>Below you will find detailed information on what to expect during a St. Peter's guide trip, pricing for the various opportunities we offer, and details on our unique rental program.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gGDtpe",
+        "text_DGatGC"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
       }
     },
     "rich_text_XXNGPy": {
@@ -316,9 +316,9 @@
     }
   },
   "order": [
+    "slideshow_YN9FcH",
     "main",
     "rich_text_9YTrrX",
-    "slideshow_YN9FcH",
     "rich_text_XXNGPy",
     "advanced_content_BCfVCA",
     "rich_text_wYkmjk",
